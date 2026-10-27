@@ -1,0 +1,168 @@
+ano,area,condicao,pessoas,n_amostra,pct
+1960,Agricultura e veterinária,Desocupado (procurando trabalho),38,10,0.27
+1960,Agricultura e veterinária,Fora da força de trabalho,954,214,6.8
+1960,Agricultura e veterinária,Ocupado,13028,2686,92.92
+1960,"Ciências sociais, negócios e direito",Desocupado (procurando trabalho),82,21,0.11
+1960,"Ciências sociais, negócios e direito",Fora da força de trabalho,5668,1000,7.88
+1960,"Ciências sociais, negócios e direito",Ocupado,66164,11989,92
+1960,"Ciências, matemática e computação",Desocupado (procurando trabalho),16,4,0.2
+1960,"Ciências, matemática e computação",Fora da força de trabalho,1109,242,14.18
+1960,"Ciências, matemática e computação",Ocupado,6698,1464,85.62
+1960,"Engenharia, produção e construção",Desocupado (procurando trabalho),87,22,0.18
+1960,"Engenharia, produção e construção",Fora da força de trabalho,2920,611,6.18
+1960,"Engenharia, produção e construção",Ocupado,44229,8875,93.63
+1960,Humanidades e artes,Desocupado (procurando trabalho),28,7,0.1
+1960,Humanidades e artes,Fora da força de trabalho,4390,871,16.11
+1960,Humanidades e artes,Ocupado,22833,5102,83.79
+1960,Saúde e bem-estar social,Desocupado (procurando trabalho),114,29,0.13
+1960,Saúde e bem-estar social,Fora da força de trabalho,9168,1810,10.24
+1960,Saúde e bem-estar social,Ocupado,80281,15847,89.64
+1960,Serviços (inclui militar e defesa),Desocupado (procurando trabalho),4,1,0.02
+1960,Serviços (inclui militar e defesa),Fora da força de trabalho,3896,428,17.67
+1960,Serviços (inclui militar e defesa),Ocupado,18153,2343,82.32
+1960,Área não especificada ou agregada,Desocupado (procurando trabalho),39,10,0.35
+1960,Área não especificada ou agregada,Fora da força de trabalho,2067,397,18.41
+1960,Área não especificada ou agregada,Ocupado,9122,1817,81.24
+1970,Agricultura e veterinária,Condição não declarada,8,2,0.04
+1970,Agricultura e veterinária,Desocupado (procurando trabalho),213,54,1.11
+1970,Agricultura e veterinária,Fora da força de trabalho,1599,413,8.35
+1970,Agricultura e veterinária,Ocupado,17332,4527,90.5
+1970,"Ciências sociais, negócios e direito",Condição não declarada,13,3,0.01
+1970,"Ciências sociais, negócios e direito",Desocupado (procurando trabalho),666,170,0.42
+1970,"Ciências sociais, negócios e direito",Fora da força de trabalho,16679,4299,10.42
+1970,"Ciências sociais, negócios e direito",Ocupado,142651,36859,89.15
+1970,"Ciências, matemática e computação",Desocupado (procurando trabalho),20,5,0.32
+1970,"Ciências, matemática e computação",Fora da força de trabalho,639,166,10.15
+1970,"Ciências, matemática e computação",Ocupado,5636,1439,89.53
+1970,Educação,Desocupado (procurando trabalho),46,12,0.48
+1970,Educação,Fora da força de trabalho,1282,334,13.42
+1970,Educação,Ocupado,8225,2111,86.1
+1970,"Engenharia, produção e construção",Condição não declarada,12,3,0.01
+1970,"Engenharia, produção e construção",Desocupado (procurando trabalho),639,160,0.73
+1970,"Engenharia, produção e construção",Fora da força de trabalho,6431,1661,7.3
+1970,"Engenharia, produção e construção",Ocupado,80979,20885,91.96
+1970,Humanidades e artes,Desocupado (procurando trabalho),313,79,0.37
+1970,Humanidades e artes,Fora da força de trabalho,13113,3394,15.69
+1970,Humanidades e artes,Ocupado,70175,17917,83.94
+1970,Saúde e bem-estar social,Condição não declarada,11,3,0.01
+1970,Saúde e bem-estar social,Desocupado (procurando trabalho),342,85,0.26
+1970,Saúde e bem-estar social,Fora da força de trabalho,16244,4224,12.53
+1970,Saúde e bem-estar social,Ocupado,113004,29263,87.19
+1970,Serviços (inclui militar e defesa),Desocupado (procurando trabalho),4,1,0.02
+1970,Serviços (inclui militar e defesa),Fora da força de trabalho,4048,1034,21.39
+1970,Serviços (inclui militar e defesa),Ocupado,14869,3814,78.58
+1970,Área não especificada ou agregada,Condição não declarada,249,61,0.56
+1970,Área não especificada ou agregada,Desocupado (procurando trabalho),232,57,0.52
+1970,Área não especificada ou agregada,Fora da força de trabalho,11204,2894,25.01
+1970,Área não especificada ou agregada,Ocupado,33110,8497,73.91
+1980,Agricultura e veterinária,Desocupado (procurando trabalho),1764,432,3.73
+1980,Agricultura e veterinária,Fora da força de trabalho,3633,918,7.69
+1980,Agricultura e veterinária,Ocupado,41839,10625,88.57
+1980,"Ciências sociais, negócios e direito",Desocupado (procurando trabalho),11933,2956,1.81
+1980,"Ciências sociais, negócios e direito",Fora da força de trabalho,70811,17850,10.77
+1980,"Ciências sociais, negócios e direito",Ocupado,574798,143907,87.42
+1980,"Ciências, matemática e computação",Desocupado (procurando trabalho),2039,505,1.97
+1980,"Ciências, matemática e computação",Fora da força de trabalho,11325,2845,10.93
+1980,"Ciências, matemática e computação",Ocupado,90294,22727,87.11
+1980,Educação,Desocupado (procurando trabalho),1618,403,1.06
+1980,Educação,Fora da força de trabalho,21237,5359,13.88
+1980,Educação,Ocupado,130097,32906,85.06
+1980,"Engenharia, produção e construção",Desocupado (procurando trabalho),6188,1528,2.86
+1980,"Engenharia, produção e construção",Fora da força de trabalho,12142,3041,5.61
+1980,"Engenharia, produção e construção",Ocupado,198200,49455,91.53
+1980,Humanidades e artes,Desocupado (procurando trabalho),3683,919,1.62
+1980,Humanidades e artes,Fora da força de trabalho,41831,10563,18.35
+1980,Humanidades e artes,Ocupado,182508,46147,80.04
+1980,Saúde e bem-estar social,Desocupado (procurando trabalho),5307,1323,1.63
+1980,Saúde e bem-estar social,Fora da força de trabalho,36068,9092,11.1
+1980,Saúde e bem-estar social,Ocupado,283503,71097,87.26
+1980,Serviços (inclui militar e defesa),Desocupado (procurando trabalho),41,10,0.38
+1980,Serviços (inclui militar e defesa),Fora da força de trabalho,2165,541,20.01
+1980,Serviços (inclui militar e defesa),Ocupado,8612,2145,79.61
+1980,Área não especificada ou agregada,Desocupado (procurando trabalho),1895,467,1.49
+1980,Área não especificada ou agregada,Fora da força de trabalho,21140,5340,16.65
+1980,Área não especificada ou agregada,Ocupado,103914,26220,81.85
+1991,Agricultura e veterinária,Desocupado (procurando trabalho),2849,296,2.59
+1991,Agricultura e veterinária,Fora da força de trabalho,9485,977,8.62
+1991,Agricultura e veterinária,Ocupado,97643,10553,88.78
+1991,"Ciências sociais, negócios e direito",Desocupado (procurando trabalho),32564,3234,2.1
+1991,"Ciências sociais, negócios e direito",Fora da força de trabalho,206891,20970,13.33
+1991,"Ciências sociais, negócios e direito",Ocupado,1312133,132985,84.57
+1991,"Ciências, matemática e computação",Desocupado (procurando trabalho),5786,584,1.75
+1991,"Ciências, matemática e computação",Fora da força de trabalho,36623,3773,11.1
+1991,"Ciências, matemática e computação",Ocupado,287642,30121,87.15
+1991,Educação,Desocupado (procurando trabalho),6224,645,1.58
+1991,Educação,Fora da força de trabalho,79801,8327,20.22
+1991,Educação,Ocupado,308682,33118,78.21
+1991,"Engenharia, produção e construção",Desocupado (procurando trabalho),9227,900,2.14
+1991,"Engenharia, produção e construção",Fora da força de trabalho,30667,3075,7.13
+1991,"Engenharia, produção e construção",Ocupado,390388,39101,90.73
+1991,Humanidades e artes,Desocupado (procurando trabalho),8437,830,1.82
+1991,Humanidades e artes,Fora da força de trabalho,83715,8655,18.11
+1991,Humanidades e artes,Ocupado,370209,38937,80.07
+1991,Saúde e bem-estar social,Desocupado (procurando trabalho),8884,878,1.48
+1991,Saúde e bem-estar social,Fora da força de trabalho,69075,7074,11.53
+1991,Saúde e bem-estar social,Ocupado,521177,53283,86.99
+1991,Serviços (inclui militar e defesa),Desocupado (procurando trabalho),155,15,0.86
+1991,Serviços (inclui militar e defesa),Fora da força de trabalho,5076,514,28.26
+1991,Serviços (inclui militar e defesa),Ocupado,12732,1270,70.88
+1991,Área não especificada ou agregada,Desocupado (procurando trabalho),4247,421,2.32
+1991,Área não especificada ou agregada,Fora da força de trabalho,28523,2971,15.55
+1991,Área não especificada ou agregada,Ocupado,150631,15620,82.13
+2000,Agricultura e veterinária,Desocupado (procurando trabalho),4695,489,3.72
+2000,Agricultura e veterinária,Fora da força de trabalho,11452,1225,9.07
+2000,Agricultura e veterinária,Ocupado,110081,12194,87.21
+2000,"Ciências sociais, negócios e direito",Desocupado (procurando trabalho),108387,11012,4.68
+2000,"Ciências sociais, negócios e direito",Fora da força de trabalho,359552,36711,15.53
+2000,"Ciências sociais, negócios e direito",Ocupado,1846876,189640,79.79
+2000,"Ciências, matemática e computação",Desocupado (procurando trabalho),18280,1914,3.35
+2000,"Ciências, matemática e computação",Fora da força de trabalho,64787,6861,11.86
+2000,"Ciências, matemática e computação",Ocupado,463198,49421,84.79
+2000,Educação,Desocupado (procurando trabalho),24252,2536,3.68
+2000,Educação,Fora da força de trabalho,153552,16524,23.27
+2000,Educação,Ocupado,482083,52801,73.06
+2000,"Engenharia, produção e construção",Desocupado (procurando trabalho),20795,2100,3.67
+2000,"Engenharia, produção e construção",Fora da força de trabalho,54535,5554,9.62
+2000,"Engenharia, produção e construção",Ocupado,491763,49901,86.72
+2000,Humanidades e artes,Desocupado (procurando trabalho),22957,2392,3.48
+2000,Humanidades e artes,Fora da força de trabalho,139548,14582,21.14
+2000,Humanidades e artes,Ocupado,497494,54010,75.38
+2000,Saúde e bem-estar social,Desocupado (procurando trabalho),25959,2652,2.92
+2000,Saúde e bem-estar social,Fora da força de trabalho,105837,10861,11.9
+2000,Saúde e bem-estar social,Ocupado,757612,78603,85.18
+2000,Serviços (inclui militar e defesa),Desocupado (procurando trabalho),3026,302,5.53
+2000,Serviços (inclui militar e defesa),Fora da força de trabalho,12898,1301,23.57
+2000,Serviços (inclui militar e defesa),Ocupado,38802,3966,70.9
+2000,Área não especificada ou agregada,Desocupado (procurando trabalho),8952,909,3.81
+2000,Área não especificada ou agregada,Fora da força de trabalho,34348,3519,14.63
+2000,Área não especificada ou agregada,Ocupado,191422,19794,81.55
+2010,Agricultura e veterinária,Desocupado (procurando trabalho),8565,831,3.78
+2010,Agricultura e veterinária,Fora da força de trabalho,31366,2966,13.84
+2010,Agricultura e veterinária,Ocupado,186660,19383,82.38
+2010,"Ciências sociais, negócios e direito",Desocupado (procurando trabalho),146544,10860,3.01
+2010,"Ciências sociais, negócios e direito",Fora da força de trabalho,749226,54251,15.41
+2010,"Ciências sociais, negócios e direito",Ocupado,3967003,304468,81.58
+2010,"Ciências, matemática e computação",Desocupado (procurando trabalho),26636,2139,2.85
+2010,"Ciências, matemática e computação",Fora da força de trabalho,128604,10642,13.76
+2010,"Ciências, matemática e computação",Ocupado,779054,67031,83.38
+2010,Educação,Desocupado (procurando trabalho),60187,5618,2.35
+2010,Educação,Fora da força de trabalho,489762,44849,19.13
+2010,Educação,Ocupado,2009671,213359,78.51
+2010,"Engenharia, produção e construção",Desocupado (procurando trabalho),22728,1652,2.45
+2010,"Engenharia, produção e construção",Fora da força de trabalho,117635,8307,12.68
+2010,"Engenharia, produção e construção",Ocupado,787678,56508,84.88
+2010,Humanidades e artes,Desocupado (procurando trabalho),22857,1895,2.39
+2010,Humanidades e artes,Fora da força de trabalho,205999,17057,21.58
+2010,Humanidades e artes,Ocupado,725826,66710,76.03
+2010,Saúde e bem-estar social,Desocupado (procurando trabalho),54476,4671,3.39
+2010,Saúde e bem-estar social,Fora da força de trabalho,224076,17360,13.95
+2010,Saúde e bem-estar social,Ocupado,1327356,108600,82.65
+2010,Serviços (inclui militar e defesa),Desocupado (procurando trabalho),12438,942,4.9
+2010,Serviços (inclui militar e defesa),Fora da força de trabalho,39018,2896,15.38
+2010,Serviços (inclui militar e defesa),Ocupado,202155,15620,79.71
+2010,Área não especificada ou agregada,Desocupado (procurando trabalho),21341,1696,1.87
+2010,Área não especificada ou agregada,Fora da força de trabalho,161996,12431,14.23
+2010,Área não especificada ou agregada,Ocupado,954900,74144,83.89
+2022,Não disponível no microdado público de 2022,Desocupado (procurando trabalho),568744,44227,2.2
+2022,Não disponível no microdado público de 2022,Fora da força de trabalho,5419701,448544,20.94
+2022,Não disponível no microdado público de 2022,Ocupado,19888228,1668573,76.86

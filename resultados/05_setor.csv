@@ -1,0 +1,92 @@
+ano,setor,pessoas,n_amostra,pct
+1960,"Administração pública, defesa e seguridade social",55767,8834,21.41
+1960,"Agropecuária, produção florestal e pesca",5853,1352,2.25
+1960,Alojamento e alimentação,560,86,0.21
+1960,Atividade mal definida ou não declarada,2137,474,0.82
+1960,Comércio e reparação de veículos,14723,3095,5.65
+1960,Construção,7017,1315,2.69
+1960,Educação,29034,5875,11.15
+1960,"Eletricidade, gás, água, esgoto e limpeza urbana",2057,446,0.79
+1960,Indústrias de transformação,18796,4080,7.22
+1960,Indústrias extrativas,904,216,0.35
+1960,"Informação, finanças, imobiliárias, serviços profissionais e administrativos",50178,9490,19.26
+1960,"Outros serviços (artes, associações, serviços pessoais, organismos internacionais)",13571,3111,5.21
+1960,Saúde humana e serviços sociais,55232,11051,21.2
+1960,Serviços domésticos,12,3,0
+1960,"Transporte, armazenagem, correio e telecomunicações",4667,695,1.79
+1970,"Administração pública, defesa e seguridade social",95178,24532,19.58
+1970,"Agropecuária, produção florestal e pesca",6886,1836,1.42
+1970,Alojamento e alimentação,530,137,0.11
+1970,Atividade mal definida ou não declarada,6404,1627,1.32
+1970,Comércio e reparação de veículos,22953,5941,4.72
+1970,Construção,22293,5743,4.59
+1970,Educação,97525,25073,20.07
+1970,"Eletricidade, gás, água, esgoto e limpeza urbana",8018,2062,1.65
+1970,Indústrias de transformação,52376,13506,10.78
+1970,Indústrias extrativas,1837,474,0.38
+1970,"Informação, finanças, imobiliárias, serviços profissionais e administrativos",66371,17192,13.66
+1970,"Outros serviços (artes, associações, serviços pessoais, organismos internacionais)",19473,4911,4.01
+1970,Saúde humana e serviços sociais,77471,20058,15.94
+1970,Serviços domésticos,56,15,0.01
+1970,"Transporte, armazenagem, correio e telecomunicações",8610,2205,1.77
+1980,"Administração pública, defesa e seguridade social",227902,57085,14.12
+1980,"Agropecuária, produção florestal e pesca",20304,5232,1.26
+1980,Alojamento e alimentação,6402,1603,0.4
+1980,Atividade mal definida ou não declarada,9685,2422,0.6
+1980,Comércio e reparação de veículos,76820,19248,4.76
+1980,Construção,48361,12032,3
+1980,Educação,414994,104896,25.72
+1980,"Eletricidade, gás, água, esgoto e limpeza urbana",32094,8040,1.99
+1980,Indústrias de transformação,203743,50984,12.63
+1980,Indústrias extrativas,8051,2039,0.5
+1980,"Informação, finanças, imobiliárias, serviços profissionais e administrativos",291166,72856,18.04
+1980,"Outros serviços (artes, associações, serviços pessoais, organismos internacionais)",39174,9931,2.43
+1980,Saúde humana e serviços sociais,189860,47603,11.77
+1980,Serviços domésticos,551,136,0.03
+1980,"Transporte, armazenagem, correio e telecomunicações",44658,11122,2.77
+1991,"Administração pública, defesa e seguridade social",443117,45336,12.84
+1991,"Agropecuária, produção florestal e pesca",54354,6256,1.57
+1991,Alojamento e alimentação,46746,4756,1.35
+1991,Atividade mal definida ou não declarada,13615,1357,0.39
+1991,Comércio e reparação de veículos,285347,29210,8.27
+1991,Construção,81436,8177,2.36
+1991,Educação,823599,87865,23.86
+1991,"Eletricidade, gás, água, esgoto e limpeza urbana",58195,5872,1.69
+1991,Indústrias de transformação,375791,37701,10.89
+1991,Indústrias extrativas,21017,2127,0.61
+1991,"Informação, finanças, imobiliárias, serviços profissionais e administrativos",633854,63852,18.37
+1991,"Outros serviços (artes, associações, serviços pessoais, organismos internacionais)",114451,11694,3.32
+1991,Saúde humana e serviços sociais,393772,40102,11.41
+1991,Serviços domésticos,4052,423,0.12
+1991,"Transporte, armazenagem, correio e telecomunicações",101889,10260,2.95
+2000,"Administração pública, defesa e seguridade social",583639,61368,11.96
+2000,"Agropecuária, produção florestal e pesca",68938,8295,1.41
+2000,Alojamento e alimentação,83589,8671,1.71
+2000,Atividade mal definida ou não declarada,54799,5581,1.12
+2000,Comércio e reparação de veículos,487482,50553,9.99
+2000,Construção,103641,10587,2.12
+2000,Educação,1172220,127609,24.02
+2000,"Eletricidade, gás, água, esgoto e limpeza urbana",49172,5048,1.01
+2000,Indústrias de transformação,392381,40167,8.04
+2000,Indústrias extrativas,12544,1286,0.26
+2000,"Informação, finanças, imobiliárias, serviços profissionais e administrativos",948949,96618,19.45
+2000,"Outros serviços (artes, associações, serviços pessoais, organismos internacionais)",176982,18213,3.63
+2000,Saúde humana e serviços sociais,590402,60690,12.1
+2000,Serviços domésticos,4437,494,0.09
+2000,"Transporte, armazenagem, correio e telecomunicações",150156,15150,3.08
+2010,"Administração pública, defesa e seguridade social",1399940,127159,12.8
+2010,"Agropecuária, produção florestal e pesca",160625,20651,1.47
+2010,Alojamento e alimentação,131549,10590,1.2
+2010,Atividade mal definida ou não declarada,690313,50148,6.31
+2010,Comércio e reparação de veículos,1042077,88500,9.53
+2010,Construção,215639,15885,1.97
+2010,Educação,2443560,243716,22.34
+2010,"Eletricidade, gás, água, esgoto e limpeza urbana",83155,6595,0.76
+2010,Indústrias de transformação,720842,59951,6.59
+2010,Indústrias extrativas,66477,4975,0.61
+2010,"Informação, finanças, imobiliárias, serviços profissionais e administrativos",2218599,159287,20.28
+2010,"Outros serviços (artes, associações, serviços pessoais, organismos internacionais)",345872,27490,3.16
+2010,Saúde humana e serviços sociais,1143483,90108,10.45
+2010,Serviços domésticos,28975,2711,0.26
+2010,"Transporte, armazenagem, correio e telecomunicações",249196,18057,2.28
+2022,Não disponível no microdado público de 2022,19888228,1668573,100

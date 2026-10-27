@@ -1,0 +1,997 @@
+ano,curso,condicao,pessoas,n_amostra,pct
+1960,50 - Geografia e História - Superior,Desocupado (procurando trabalho),12,3,0.32
+1960,50 - Geografia e História - Superior,Fora da força de trabalho,872,164,23.28
+1960,50 - Geografia e História - Superior,Ocupado,2862,670,76.4
+1960,51 - História Natural - Superior,Fora da força de trabalho,287,73,17.69
+1960,51 - História Natural - Superior,Ocupado,1335,278,82.31
+1960,52 - Letras - Superior,Desocupado (procurando trabalho),12,3,0.09
+1960,52 - Letras - Superior,Fora da força de trabalho,3122,624,23.27
+1960,52 - Letras - Superior,Ocupado,10280,2082,76.64
+1960,"53 - Matemática, Física, Química, Desenho - Superior",Desocupado (procurando trabalho),12,3,0.21
+1960,"53 - Matemática, Física, Química, Desenho - Superior",Fora da força de trabalho,709,157,12.44
+1960,"53 - Matemática, Física, Química, Desenho - Superior",Ocupado,4980,1109,87.35
+1960,"54 - Outros Cursos Superiores (Pedagogia, Filosofia, Ciências Sociais, Teologia)",Desocupado (procurando trabalho),16,4,0.21
+1960,"54 - Outros Cursos Superiores (Pedagogia, Filosofia, Ciências Sociais, Teologia)",Fora da força de trabalho,1275,235,16.61
+1960,"54 - Outros Cursos Superiores (Pedagogia, Filosofia, Ciências Sociais, Teologia)",Ocupado,6385,1302,83.18
+1960,57 - Belas Artes - Superior,Fora da força de trabalho,208,53,27.77
+1960,57 - Belas Artes - Superior,Ocupado,541,138,72.23
+1960,60 - Medicina - Superior,Desocupado (procurando trabalho),16,4,0.04
+1960,60 - Medicina - Superior,Fora da força de trabalho,2301,432,5.77
+1960,60 - Medicina - Superior,Ocupado,37577,7186,94.19
+1960,61 - Farmácia - Superior,Desocupado (procurando trabalho),39,10,0.25
+1960,61 - Farmácia - Superior,Fora da força de trabalho,3341,723,21.23
+1960,61 - Farmácia - Superior,Ocupado,12356,2747,78.52
+1960,62 - Odontologia - Superior,Desocupado (procurando trabalho),55,14,0.18
+1960,62 - Odontologia - Superior,Fora da força de trabalho,2974,572,9.6
+1960,62 - Odontologia - Superior,Ocupado,27949,5476,90.22
+1960,63 - Veterinária - Superior,Desocupado (procurando trabalho),11,3,0.26
+1960,63 - Veterinária - Superior,Fora da força de trabalho,318,62,7.48
+1960,63 - Veterinária - Superior,Ocupado,3923,677,92.26
+1960,64 - Engenharia - Superior,Desocupado (procurando trabalho),51,13,0.13
+1960,64 - Engenharia - Superior,Fora da força de trabalho,2366,490,5.96
+1960,64 - Engenharia - Superior,Ocupado,37307,7429,93.92
+1960,65 - Arquitetura - Superior,Desocupado (procurando trabalho),20,5,0.62
+1960,65 - Arquitetura - Superior,Fora da força de trabalho,252,64,7.8
+1960,65 - Arquitetura - Superior,Ocupado,2957,571,91.58
+1960,66 - Química Industrial - Superior,Desocupado (procurando trabalho),16,4,0.37
+1960,66 - Química Industrial - Superior,Fora da força de trabalho,302,57,7.05
+1960,66 - Química Industrial - Superior,Ocupado,3965,875,92.58
+1960,67 - Direito - Superior,Desocupado (procurando trabalho),59,15,0.1
+1960,67 - Direito - Superior,Fora da força de trabalho,4575,801,7.86
+1960,67 - Direito - Superior,Ocupado,53543,9461,92.03
+1960,68 - Agronomia - Superior,Desocupado (procurando trabalho),27,7,0.28
+1960,68 - Agronomia - Superior,Fora da força de trabalho,635,152,6.5
+1960,68 - Agronomia - Superior,Ocupado,9105,2009,93.22
+1960,70 - Ciências Econômicas - Superior,Desocupado (procurando trabalho),24,6,0.17
+1960,70 - Ciências Econômicas - Superior,Fora da força de trabalho,1093,199,7.96
+1960,70 - Ciências Econômicas - Superior,Ocupado,12620,2528,91.87
+1960,71 - Estatística - Superior,Desocupado (procurando trabalho),4,1,0.8
+1960,71 - Estatística - Superior,Fora da força de trabalho,113,12,22.55
+1960,71 - Estatística - Superior,Ocupado,384,77,76.65
+1960,72 - Artes Domésticas - Superior,Fora da força de trabalho,32,8,44.44
+1960,72 - Artes Domésticas - Superior,Ocupado,40,10,55.56
+1960,"73 - Saúde, Enfermagem e Serviços Sanitários - Superior",Fora da força de trabalho,442,55,21.77
+1960,"73 - Saúde, Enfermagem e Serviços Sanitários - Superior",Ocupado,1588,270,78.23
+1960,74 - Militar - Superior,Desocupado (procurando trabalho),4,1,0.02
+1960,74 - Militar - Superior,Fora da força de trabalho,3865,420,17.58
+1960,74 - Militar - Superior,Ocupado,18113,2333,82.4
+1960,76 - Educação Física - Superior,Desocupado (procurando trabalho),4,1,0.43
+1960,76 - Educação Física - Superior,Fora da força de trabalho,110,28,11.89
+1960,76 - Educação Física - Superior,Ocupado,811,168,87.68
+1960,78 - Eclesiástico - Superior (Teologia e Filosofia para formação eclesiástica),Desocupado (procurando trabalho),4,1,0.04
+1960,78 - Eclesiástico - Superior (Teologia e Filosofia para formação eclesiástica),Fora da força de trabalho,187,30,2
+1960,78 - Eclesiástico - Superior (Teologia e Filosofia para formação eclesiástica),Ocupado,9151,2212,97.96
+1960,"79 - Outros - Nível Superior (Adm. Pública, Música, Jornalismo, Museologia etc)",Desocupado (procurando trabalho),24,6,0.68
+1960,"79 - Outros - Nível Superior (Adm. Pública, Música, Jornalismo, Museologia etc)",Fora da força de trabalho,792,162,22.28
+1960,"79 - Outros - Nível Superior (Adm. Pública, Música, Jornalismo, Museologia etc)",Ocupado,2738,515,77.04
+1970,70 - administração,Desocupado (procurando trabalho),37,10,0.48
+1970,70 - administração,Fora da força de trabalho,459,119,5.92
+1970,70 - administração,Ocupado,7252,1864,93.6
+1970,71 - agronomia,Condição não declarada,8,2,0.06
+1970,71 - agronomia,Desocupado (procurando trabalho),197,50,1.4
+1970,71 - agronomia,Fora da força de trabalho,1152,297,8.18
+1970,71 - agronomia,Ocupado,12718,3322,90.36
+1970,72 - arquitetura,Desocupado (procurando trabalho),72,18,0.99
+1970,72 - arquitetura,Fora da força de trabalho,590,156,8.09
+1970,72 - arquitetura,Ocupado,6635,1708,90.93
+1970,73 - belas artes superior,Desocupado (procurando trabalho),19,5,0.42
+1970,73 - belas artes superior,Fora da força de trabalho,1337,346,29.86
+1970,73 - belas artes superior,Ocupado,3122,802,69.72
+1970,74 - ciências sociais,Desocupado (procurando trabalho),44,11,1.44
+1970,74 - ciências sociais,Fora da força de trabalho,442,116,14.51
+1970,74 - ciências sociais,Ocupado,2561,651,84.05
+1970,75 - filosofia,Desocupado (procurando trabalho),213,54,0.4
+1970,75 - filosofia,Fora da força de trabalho,8544,2220,16.15
+1970,75 - filosofia,Ocupado,44156,11320,83.45
+1970,76 - geografia ou história,Desocupado (procurando trabalho),4,1,0.12
+1970,76 - geografia ou história,Fora da força de trabalho,481,125,14.59
+1970,76 - geografia ou história,Ocupado,2811,722,85.29
+1970,77 - história natural,Desocupado (procurando trabalho),3,1,0.18
+1970,77 - história natural,Fora da força de trabalho,182,48,10.68
+1970,77 - história natural,Ocupado,1519,388,89.14
+1970,78 - letras,Desocupado (procurando trabalho),57,14,0.6
+1970,78 - letras,Fora da força de trabalho,2186,563,23.06
+1970,78 - letras,Ocupado,7238,1857,76.34
+1970,79 - matemática,Desocupado (procurando trabalho),13,3,0.33
+1970,79 - matemática,Fora da força de trabalho,419,108,10.78
+1970,79 - matemática,Ocupado,3454,883,88.88
+1970,80 - pedagogia,Desocupado (procurando trabalho),46,12,0.48
+1970,80 - pedagogia,Fora da força de trabalho,1282,334,13.42
+1970,80 - pedagogia,Ocupado,8225,2111,86.1
+1970,81 - contabilidade ou atuária,Desocupado (procurando trabalho),87,22,0.49
+1970,81 - contabilidade ou atuária,Fora da força de trabalho,2528,654,14.25
+1970,81 - contabilidade ou atuária,Ocupado,15122,3908,85.26
+1970,82 - economia,Desocupado (procurando trabalho),208,52,0.59
+1970,82 - economia,Fora da força de trabalho,2551,658,7.28
+1970,82 - economia,Ocupado,32283,8332,92.13
+1970,83 - direito,Condição não declarada,13,3,0.01
+1970,83 - direito,Desocupado (procurando trabalho),266,69,0.28
+1970,83 - direito,Fora da força de trabalho,10141,2610,10.84
+1970,83 - direito,Ocupado,83138,21512,88.86
+1970,84 - eclesiástico superior,Desocupado (procurando trabalho),20,5,0.15
+1970,84 - eclesiástico superior,Fora da força de trabalho,565,140,4.21
+1970,84 - eclesiástico superior,Ocupado,12848,3216,95.65
+1970,85 - educação física superior,Desocupado (procurando trabalho),17,4,0.35
+1970,85 - educação física superior,Fora da força de trabalho,698,184,14.48
+1970,85 - educação física superior,Ocupado,4105,1060,85.17
+1970,86 - enfermagem superior,Desocupado (procurando trabalho),37,9,0.4
+1970,86 - enfermagem superior,Fora da força de trabalho,1967,514,21.08
+1970,86 - enfermagem superior,Ocupado,7329,1877,78.53
+1970,87 - engenharia,Condição não declarada,12,3,0.02
+1970,87 - engenharia,Desocupado (procurando trabalho),499,124,0.7
+1970,87 - engenharia,Fora da força de trabalho,5046,1301,7.03
+1970,87 - engenharia,Ocupado,66214,17078,92.26
+1970,88 - estatística superior,Desocupado (procurando trabalho),4,1,0.57
+1970,88 - estatística superior,Fora da força de trabalho,38,10,5.39
+1970,88 - estatística superior,Ocupado,663,168,94.04
+1970,89 - farmácia ou bioquímica,Desocupado (procurando trabalho),95,24,0.6
+1970,89 - farmácia ou bioquímica,Fora da força de trabalho,3476,902,22.02
+1970,89 - farmácia ou bioquímica,Ocupado,12216,3179,77.38
+1970,90 - medicina,Condição não declarada,3,1,0.01
+1970,90 - medicina,Desocupado (procurando trabalho),51,13,0.09
+1970,90 - medicina,Fora da força de trabalho,4309,1114,7.61
+1970,90 - medicina,Ocupado,52233,13519,92.29
+1970,91 - militar superior,Desocupado (procurando trabalho),4,1,0.02
+1970,91 - militar superior,Fora da força de trabalho,4048,1034,21.39
+1970,91 - militar superior,Ocupado,14869,3814,78.58
+1970,92 - odontologia,Condição não declarada,8,2,0.02
+1970,92 - odontologia,Desocupado (procurando trabalho),85,21,0.23
+1970,92 - odontologia,Fora da força de trabalho,4792,1248,12.88
+1970,92 - odontologia,Ocupado,32313,8407,86.87
+1970,93 - psicologia,Desocupado (procurando trabalho),24,6,0.83
+1970,93 - psicologia,Fora da força de trabalho,558,142,19.4
+1970,93 - psicologia,Ocupado,2295,592,79.77
+1970,94 - química industrial,Desocupado (procurando trabalho),68,18,0.76
+1970,94 - química industrial,Fora da força de trabalho,795,204,8.84
+1970,94 - química industrial,Ocupado,8130,2099,90.4
+1970,95 - serviço social superior,Desocupado (procurando trabalho),57,14,0.97
+1970,95 - serviço social superior,Fora da força de trabalho,1002,262,17.08
+1970,95 - serviço social superior,Ocupado,4808,1221,81.95
+1970,96 - veterinária,Desocupado (procurando trabalho),16,4,0.32
+1970,96 - veterinária,Fora da força de trabalho,447,116,8.8
+1970,96 - veterinária,Ocupado,4614,1205,90.88
+1970,97 - outros superiores,Condição não declarada,249,61,0.56
+1970,97 - outros superiores,Desocupado (procurando trabalho),232,57,0.52
+1970,97 - outros superiores,Fora da força de trabalho,11204,2894,25.01
+1970,97 - outros superiores,Ocupado,33110,8497,73.91
+1980,"43 - Biologia (inclui: Biomedicina, Biologia, Ciências Biológicas e afins)",Desocupado (procurando trabalho),724,180,3.26
+1980,"43 - Biologia (inclui: Biomedicina, Biologia, Ciências Biológicas e afins)",Fora da força de trabalho,3348,838,15.08
+1980,"43 - Biologia (inclui: Biomedicina, Biologia, Ciências Biológicas e afins)",Ocupado,18136,4569,81.66
+1980,44 - Educação Física (inclui: Técnico de desportos),Desocupado (procurando trabalho),741,184,1.98
+1980,44 - Educação Física (inclui: Técnico de desportos),Fora da força de trabalho,4608,1169,12.3
+1980,44 - Educação Física (inclui: Técnico de desportos),Ocupado,32124,8113,85.73
+1980,45 - Enfermagem,Desocupado (procurando trabalho),467,115,2.57
+1980,45 - Enfermagem,Fora da força de trabalho,3727,942,20.48
+1980,45 - Enfermagem,Ocupado,14000,3513,76.95
+1980,46 - Farmácia (inclui: Farmácia Bioquímica e afins),Desocupado (procurando trabalho),504,127,2.52
+1980,46 - Farmácia (inclui: Farmácia Bioquímica e afins),Fora da força de trabalho,3217,813,16.08
+1980,46 - Farmácia (inclui: Farmácia Bioquímica e afins),Ocupado,16281,4102,81.4
+1980,47 - Medicina,Desocupado (procurando trabalho),1474,368,1.07
+1980,47 - Medicina,Fora da força de trabalho,10430,2625,7.58
+1980,47 - Medicina,Ocupado,125722,31414,91.35
+1980,48 - Odontologia,Desocupado (procurando trabalho),595,149,0.99
+1980,48 - Odontologia,Fora da força de trabalho,6368,1607,10.62
+1980,48 - Odontologia,Ocupado,53021,13323,88.39
+1980,"49 - Outros da Biologia (inclui: Nutrição, Fisioterapia, fonoaudiologia, Terapia Ocupacional)",Desocupado (procurando trabalho),478,119,3.91
+1980,"49 - Outros da Biologia (inclui: Nutrição, Fisioterapia, fonoaudiologia, Terapia Ocupacional)",Fora da força de trabalho,2257,563,18.48
+1980,"49 - Outros da Biologia (inclui: Nutrição, Fisioterapia, fonoaudiologia, Terapia Ocupacional)",Ocupado,9481,2360,77.61
+1980,50 - Arquitetura e Urbanismo,Desocupado (procurando trabalho),998,246,4.93
+1980,50 - Arquitetura e Urbanismo,Fora da força de trabalho,2010,503,9.94
+1980,50 - Arquitetura e Urbanismo,Ocupado,17217,4277,85.13
+1980,51 - Ciências Exatas,Desocupado (procurando trabalho),113,28,1.43
+1980,51 - Ciências Exatas,Fora da força de trabalho,944,241,11.94
+1980,51 - Ciências Exatas,Ocupado,6849,1735,86.63
+1980,"52 - Ciências da Computação (inclui: Processamento de Dados, Engenharia de Sistemas, Informática e afins)",Desocupado (procurando trabalho),196,48,3.02
+1980,"52 - Ciências da Computação (inclui: Processamento de Dados, Engenharia de Sistemas, Informática e afins)",Fora da força de trabalho,389,97,5.99
+1980,"52 - Ciências da Computação (inclui: Processamento de Dados, Engenharia de Sistemas, Informática e afins)",Ocupado,5910,1474,90.99
+1980,"53 - Engenharia Civil (inclui: Engenharia de Edificações, Pontes, Estradas, etc.)",Desocupado (procurando trabalho),1693,418,2.56
+1980,"53 - Engenharia Civil (inclui: Engenharia de Edificações, Pontes, Estradas, etc.)",Fora da força de trabalho,3216,805,4.85
+1980,"53 - Engenharia Civil (inclui: Engenharia de Edificações, Pontes, Estradas, etc.)",Ocupado,61338,15296,92.59
+1980,"54 - Engenharia Elétrica e Eletrônica (inclui: Eletrotécnica, Telecomunicações, Comunicações, etc.)",Desocupado (procurando trabalho),904,223,3
+1980,"54 - Engenharia Elétrica e Eletrônica (inclui: Eletrotécnica, Telecomunicações, Comunicações, etc.)",Fora da força de trabalho,1046,260,3.47
+1980,"54 - Engenharia Elétrica e Eletrônica (inclui: Eletrotécnica, Telecomunicações, Comunicações, etc.)",Ocupado,28201,7067,93.53
+1980,"55 - Engenharia Mecânica (inclui: Engenharia Naval, Aeronáutica, Metalúrgica, Mecânica de Automóveis, etc.)",Desocupado (procurando trabalho),899,223,2.7
+1980,"55 - Engenharia Mecânica (inclui: Engenharia Naval, Aeronáutica, Metalúrgica, Mecânica de Automóveis, etc.)",Fora da força de trabalho,1222,307,3.67
+1980,"55 - Engenharia Mecânica (inclui: Engenharia Naval, Aeronáutica, Metalúrgica, Mecânica de Automóveis, etc.)",Ocupado,31132,7799,93.62
+1980,56 - Engenharia Química e Química Industrial,Desocupado (procurando trabalho),544,136,3.41
+1980,56 - Engenharia Química e Química Industrial,Fora da força de trabalho,1217,307,7.63
+1980,56 - Engenharia Química e Química Industrial,Ocupado,14189,3548,88.96
+1980,57 - Engenharia não classificada ou mal definida,Desocupado (procurando trabalho),1040,255,2.46
+1980,57 - Engenharia não classificada ou mal definida,Fora da força de trabalho,2995,750,7.09
+1980,57 - Engenharia não classificada ou mal definida,Ocupado,38218,9503,90.45
+1980,58 - Estatística,Desocupado (procurando trabalho),42,10,1.85
+1980,58 - Estatística,Fora da força de trabalho,285,71,12.56
+1980,58 - Estatística,Ocupado,1943,482,85.59
+1980,59 - Física,Desocupado (procurando trabalho),86,21,1.74
+1980,59 - Física,Fora da força de trabalho,556,139,11.26
+1980,59 - Física,Ocupado,4296,1072,87
+1980,60 - Geologia,Desocupado (procurando trabalho),118,29,3.01
+1980,60 - Geologia,Fora da força de trabalho,252,62,6.43
+1980,60 - Geologia,Ocupado,3550,896,90.56
+1980,61 - Matemática,Desocupado (procurando trabalho),297,73,1.08
+1980,61 - Matemática,Fora da força de trabalho,2436,612,8.83
+1980,61 - Matemática,Ocupado,24840,6259,90.09
+1980,62 - Química,Desocupado (procurando trabalho),195,48,2.13
+1980,62 - Química,Fora da força de trabalho,1130,283,12.33
+1980,62 - Química,Ocupado,7842,1966,85.55
+1980,63 - Outros da Tecnologia (exclusive Engenharia),Desocupado (procurando trabalho),30,7,2.69
+1980,63 - Outros da Tecnologia (exclusive Engenharia),Fora da força de trabalho,117,30,10.48
+1980,63 - Outros da Tecnologia (exclusive Engenharia),Ocupado,969,244,86.83
+1980,"64 - Agronomia (inclui: Ciências Agrícolas, Engenharia Agrícola e Engenharia Florestal)",Desocupado (procurando trabalho),995,243,3.43
+1980,"64 - Agronomia (inclui: Ciências Agrícolas, Engenharia Agrícola e Engenharia Florestal)",Fora da força de trabalho,2134,539,7.35
+1980,"64 - Agronomia (inclui: Ciências Agrícolas, Engenharia Agrícola e Engenharia Florestal)",Ocupado,25900,6578,89.22
+1980,65 - Medicina Veterinária,Desocupado (procurando trabalho),502,123,4.35
+1980,65 - Medicina Veterinária,Fora da força de trabalho,969,246,8.39
+1980,65 - Medicina Veterinária,Ocupado,10079,2557,87.26
+1980,"66 - Outros (inclui: Agrimensura, Engenharia de Pesca, Zootecnia, Fitotecnia) - Agrárias",Desocupado (procurando trabalho),222,54,6.21
+1980,"66 - Outros (inclui: Agrimensura, Engenharia de Pesca, Zootecnia, Fitotecnia) - Agrárias",Fora da força de trabalho,309,77,8.64
+1980,"66 - Outros (inclui: Agrimensura, Engenharia de Pesca, Zootecnia, Fitotecnia) - Agrárias",Ocupado,3044,774,85.15
+1980,"67 - Administração (inclui: Secretariado, Administração de Empresas, Administração Pública)",Desocupado (procurando trabalho),2456,612,1.79
+1980,"67 - Administração (inclui: Secretariado, Administração de Empresas, Administração Pública)",Fora da força de trabalho,8484,2152,6.17
+1980,"67 - Administração (inclui: Secretariado, Administração de Empresas, Administração Pública)",Ocupado,126576,31690,92.04
+1980,68 - Biblioteconomia (inclui: Arquivologia),Desocupado (procurando trabalho),358,89,2.78
+1980,68 - Biblioteconomia (inclui: Arquivologia),Fora da força de trabalho,2919,732,22.68
+1980,68 - Biblioteconomia (inclui: Arquivologia),Ocupado,9595,2409,74.54
+1980,69 - Ciências Contábeis e Atuariais,Desocupado (procurando trabalho),531,132,0.88
+1980,69 - Ciências Contábeis e Atuariais,Fora da força de trabalho,8235,2080,13.69
+1980,69 - Ciências Contábeis e Atuariais,Ocupado,51371,12907,85.42
+1980,70 - Ciências Econômicas,Desocupado (procurando trabalho),1611,399,1.8
+1980,70 - Ciências Econômicas,Fora da força de trabalho,7320,1838,8.18
+1980,70 - Ciências Econômicas,Ocupado,80594,20105,90.02
+1980,"71 - Ciências e Estudos Sociais (inclui: Sociologia, Ciências Políticas e Sociais, Antropologia, etc.)",Desocupado (procurando trabalho),809,203,1.88
+1980,"71 - Ciências e Estudos Sociais (inclui: Sociologia, Ciências Políticas e Sociais, Antropologia, etc.)",Fora da força de trabalho,6624,1678,15.42
+1980,"71 - Ciências e Estudos Sociais (inclui: Sociologia, Ciências Políticas e Sociais, Antropologia, etc.)",Ocupado,35523,8989,82.7
+1980,"72 - Comunicação Social (inclui: Editoração, Jornalismo, Rádio e TV, Publicidade, Turismo)",Desocupado (procurando trabalho),1701,417,4.45
+1980,"72 - Comunicação Social (inclui: Editoração, Jornalismo, Rádio e TV, Publicidade, Turismo)",Fora da força de trabalho,5821,1460,15.21
+1980,"72 - Comunicação Social (inclui: Editoração, Jornalismo, Rádio e TV, Publicidade, Turismo)",Ocupado,30738,7660,80.34
+1980,73 - Direito (inclui: Relações Internacionais),Desocupado (procurando trabalho),2328,574,1.05
+1980,73 - Direito (inclui: Relações Internacionais),Fora da força de trabalho,22799,5741,10.3
+1980,73 - Direito (inclui: Relações Internacionais),Ocupado,196194,49076,88.65
+1980,74 - Filosofia,Desocupado (procurando trabalho),336,82,1.07
+1980,74 - Filosofia,Fora da força de trabalho,5793,1465,18.45
+1980,74 - Filosofia,Ocupado,25266,6392,80.48
+1980,75 - Geografia,Desocupado (procurando trabalho),188,48,1.49
+1980,75 - Geografia,Fora da força de trabalho,1475,373,11.67
+1980,75 - Geografia,Ocupado,10975,2776,86.84
+1980,76 - História,Desocupado (procurando trabalho),275,68,1.41
+1980,76 - História,Fora da força de trabalho,2833,710,14.49
+1980,76 - História,Ocupado,16446,4158,84.11
+1980,"77 - Pedagogia (inclui: Administração Escolar, Educação Especial, Orientação Educacional, Formação de Professores)",Desocupado (procurando trabalho),1594,397,1.07
+1980,"77 - Pedagogia (inclui: Administração Escolar, Educação Especial, Orientação Educacional, Formação de Professores)",Fora da força de trabalho,20799,5249,13.91
+1980,"77 - Pedagogia (inclui: Administração Escolar, Educação Especial, Orientação Educacional, Formação de Professores)",Ocupado,127112,32163,85.02
+1980,78 - Psicologia,Desocupado (procurando trabalho),1830,454,5.95
+1980,78 - Psicologia,Fora da força de trabalho,6469,1627,21.03
+1980,78 - Psicologia,Ocupado,22468,5634,73.03
+1980,79 - Serviço Social,Desocupado (procurando trabalho),966,242,3.92
+1980,79 - Serviço Social,Fora da força de trabalho,4399,1105,17.87
+1980,79 - Serviço Social,Ocupado,19255,4853,78.21
+1980,80 - Teologia,Desocupado (procurando trabalho),55,14,0.48
+1980,80 - Teologia,Fora da força de trabalho,1100,280,9.56
+1980,80 - Teologia,Ocupado,10353,2680,89.96
+1980,"81 - Outros de Humanas (inclui: Museologia, Arqueologia)",Desocupado (procurando trabalho),68,17,3.2
+1980,"81 - Outros de Humanas (inclui: Museologia, Arqueologia)",Fora da força de trabalho,310,77,14.59
+1980,"81 - Outros de Humanas (inclui: Museologia, Arqueologia)",Ocupado,1747,440,82.21
+1980,82 - Letras (inclui: Tradutor e Intérprete),Desocupado (procurando trabalho),1944,487,1.57
+1980,82 - Letras (inclui: Tradutor e Intérprete),Fora da força de trabalho,21337,5395,17.24
+1980,82 - Letras (inclui: Tradutor e Intérprete),Ocupado,100503,25387,81.19
+1980,"83 - Artes (inclui: Cinema, Comunicação Visual, Dança, História da Arte, Desenho, Música, Teatro, etc.)",Desocupado (procurando trabalho),948,237,2.67
+1980,"83 - Artes (inclui: Cinema, Comunicação Visual, Dança, História da Arte, Desenho, Música, Teatro, etc.)",Fora da força de trabalho,9777,2464,27.56
+1980,"83 - Artes (inclui: Cinema, Comunicação Visual, Dança, História da Arte, Desenho, Música, Teatro, etc.)",Ocupado,24752,6227,69.77
+1980,84 - Defesa Nacional (Militar),Desocupado (procurando trabalho),41,10,0.38
+1980,84 - Defesa Nacional (Militar),Fora da força de trabalho,2165,541,20.01
+1980,84 - Defesa Nacional (Militar),Ocupado,8612,2145,79.61
+1980,85 - Outros Cursos de Grau Superior,Desocupado (procurando trabalho),1769,435,1.58
+1980,85 - Outros Cursos de Grau Superior,Fora da força de trabalho,15864,4015,14.18
+1980,85 - Outros Cursos de Grau Superior,Ocupado,94268,23808,84.24
+1980,86 - Mestrado ou Doutorado - Medicina,Desocupado (procurando trabalho),45,10,0.52
+1980,86 - Mestrado ou Doutorado - Medicina,Fora da força de trabalho,487,124,5.6
+1980,86 - Mestrado ou Doutorado - Medicina,Ocupado,8162,2041,93.88
+1980,87 - Mestrado ou Doutorado - Outros (Biologia),Desocupado (procurando trabalho),37,9,0.61
+1980,87 - Mestrado ou Doutorado - Outros (Biologia),Fora da força de trabalho,575,144,9.47
+1980,87 - Mestrado ou Doutorado - Outros (Biologia),Ocupado,5457,1378,89.92
+1980,88 - Mestrado ou Doutorado - Engenharia,Desocupado (procurando trabalho),80,20,1.09
+1980,88 - Mestrado ou Doutorado - Engenharia,Fora da força de trabalho,319,79,4.35
+1980,88 - Mestrado ou Doutorado - Engenharia,Ocupado,6936,1721,94.56
+1980,89 - Mestrado ou Doutorado - Outros (Ciências Tecnológicas),Desocupado (procurando trabalho),80,20,1.22
+1980,89 - Mestrado ou Doutorado - Outros (Ciências Tecnológicas),Fora da força de trabalho,510,129,7.79
+1980,89 - Mestrado ou Doutorado - Outros (Ciências Tecnológicas),Ocupado,5953,1498,90.98
+1980,90 - Mestrado ou Doutorado - Ciências Agrárias,Desocupado (procurando trabalho),45,12,1.46
+1980,90 - Mestrado ou Doutorado - Ciências Agrárias,Fora da força de trabalho,221,56,7.17
+1980,90 - Mestrado ou Doutorado - Ciências Agrárias,Ocupado,2816,716,91.37
+1980,91 - Mestrado ou Doutorado - Administração,Desocupado (procurando trabalho),49,12,1.35
+1980,91 - Mestrado ou Doutorado - Administração,Fora da força de trabalho,187,46,5.16
+1980,91 - Mestrado ou Doutorado - Administração,Ocupado,3391,844,93.49
+1980,"92 - Mestrado ou Doutorado - Ciências Econômicas, Contábeis, etc.",Desocupado (procurando trabalho),59,14,1.33
+1980,"92 - Mestrado ou Doutorado - Ciências Econômicas, Contábeis, etc.",Fora da força de trabalho,296,75,6.66
+1980,"92 - Mestrado ou Doutorado - Ciências Econômicas, Contábeis, etc.",Ocupado,4092,1015,92.02
+1980,93 - Mestrado ou Doutorado - Direito,Desocupado (procurando trabalho),36,9,0.56
+1980,93 - Mestrado ou Doutorado - Direito,Fora da força de trabalho,595,151,9.23
+1980,93 - Mestrado ou Doutorado - Direito,Ocupado,5817,1452,90.21
+1980,94 - Mestrado ou Doutorado - Pedagogia,Desocupado (procurando trabalho),24,6,0.7
+1980,94 - Mestrado ou Doutorado - Pedagogia,Fora da força de trabalho,438,110,12.71
+1980,94 - Mestrado ou Doutorado - Pedagogia,Ocupado,2985,743,86.6
+1980,95 - Mestrado ou Doutorado - Outros (Ciências Humanas e Sociais),Desocupado (procurando trabalho),165,41,1.71
+1980,95 - Mestrado ou Doutorado - Outros (Ciências Humanas e Sociais),Fora da força de trabalho,1062,270,10.99
+1980,95 - Mestrado ou Doutorado - Outros (Ciências Humanas e Sociais),Ocupado,8439,2126,87.31
+1980,96 - Mestrado ou Doutorado - Letras e Artes,Desocupado (procurando trabalho),57,14,1.36
+1980,96 - Mestrado ou Doutorado - Letras e Artes,Fora da força de trabalho,681,172,16.3
+1980,96 - Mestrado ou Doutorado - Letras e Artes,Ocupado,3441,863,82.34
+1980,Curso não informado,Desocupado (procurando trabalho),126,32,0.84
+1980,Curso não informado,Fora da força de trabalho,5276,1325,35.06
+1980,Curso não informado,Ocupado,9646,2412,64.1
+1991,"43 - Biologia (inclui: Biomedicina, Biologia, Ciências Biológicas e afins)",Desocupado (procurando trabalho),1980,192,2.54
+1991,"43 - Biologia (inclui: Biomedicina, Biologia, Ciências Biológicas e afins)",Fora da força de trabalho,11383,1173,14.59
+1991,"43 - Biologia (inclui: Biomedicina, Biologia, Ciências Biológicas e afins)",Ocupado,64667,6800,82.87
+1991,44 - Educação Física (inclui: Técnico de desportos),Desocupado (procurando trabalho),1602,165,1.64
+1991,44 - Educação Física (inclui: Técnico de desportos),Fora da força de trabalho,10770,1107,11.02
+1991,44 - Educação Física (inclui: Técnico de desportos),Ocupado,85317,8878,87.34
+1991,45 - Enfermagem,Desocupado (procurando trabalho),895,81,1.61
+1991,45 - Enfermagem,Fora da força de trabalho,9762,996,17.57
+1991,45 - Enfermagem,Ocupado,44906,4511,80.82
+1991,46 - Farmácia (inclui: Farmácia Bioquímica e afins),Desocupado (procurando trabalho),644,66,1.59
+1991,46 - Farmácia (inclui: Farmácia Bioquímica e afins),Fora da força de trabalho,5640,598,13.88
+1991,46 - Farmácia (inclui: Farmácia Bioquímica e afins),Ocupado,34342,3571,84.53
+1991,47 - Medicina,Desocupado (procurando trabalho),1341,137,0.78
+1991,47 - Medicina,Fora da força de trabalho,12299,1247,7.14
+1991,47 - Medicina,Ocupado,158577,16058,92.08
+1991,48 - Odontologia,Desocupado (procurando trabalho),1155,116,1.1
+1991,48 - Odontologia,Fora da força de trabalho,10647,1102,10.15
+1991,48 - Odontologia,Ocupado,93044,9646,88.74
+1991,"49 - Outros da Biologia (inclui: Nutrição, Fisioterapia, fonoaudiologia, Terapia Ocupacional)",Desocupado (procurando trabalho),1291,123,3.2
+1991,"49 - Outros da Biologia (inclui: Nutrição, Fisioterapia, fonoaudiologia, Terapia Ocupacional)",Fora da força de trabalho,5793,601,14.35
+1991,"49 - Outros da Biologia (inclui: Nutrição, Fisioterapia, fonoaudiologia, Terapia Ocupacional)",Ocupado,33274,3306,82.45
+1991,50 - Arquitetura e Urbanismo,Desocupado (procurando trabalho),1556,155,3.18
+1991,50 - Arquitetura e Urbanismo,Fora da força de trabalho,4714,472,9.63
+1991,50 - Arquitetura e Urbanismo,Ocupado,42669,4234,87.19
+1991,51 - Ciências Exatas,Desocupado (procurando trabalho),226,23,0.96
+1991,51 - Ciências Exatas,Fora da força de trabalho,3102,339,13.12
+1991,51 - Ciências Exatas,Ocupado,20317,2310,85.93
+1991,"52 - Ciências da Computação (inclui: Processamento de Dados, Engenharia de Sistemas, Informática e afins)",Desocupado (procurando trabalho),853,85,2.1
+1991,"52 - Ciências da Computação (inclui: Processamento de Dados, Engenharia de Sistemas, Informática e afins)",Fora da força de trabalho,2177,214,5.35
+1991,"52 - Ciências da Computação (inclui: Processamento de Dados, Engenharia de Sistemas, Informática e afins)",Ocupado,37677,3744,92.56
+1991,"53 - Engenharia Civil (inclui: Engenharia de Edificações, Pontes, Estradas, etc.)",Desocupado (procurando trabalho),2391,238,1.62
+1991,"53 - Engenharia Civil (inclui: Engenharia de Edificações, Pontes, Estradas, etc.)",Fora da força de trabalho,10658,1067,7.22
+1991,"53 - Engenharia Civil (inclui: Engenharia de Edificações, Pontes, Estradas, etc.)",Ocupado,134577,13558,91.16
+1991,"54 - Engenharia Elétrica e Eletrônica (inclui: Eletrotécnica, Telecomunicações, Comunicações, etc.)",Desocupado (procurando trabalho),1395,131,2.02
+1991,"54 - Engenharia Elétrica e Eletrônica (inclui: Eletrotécnica, Telecomunicações, Comunicações, etc.)",Fora da força de trabalho,2984,303,4.32
+1991,"54 - Engenharia Elétrica e Eletrônica (inclui: Eletrotécnica, Telecomunicações, Comunicações, etc.)",Ocupado,64643,6436,93.66
+1991,"55 - Engenharia Mecânica (inclui: Engenharia Naval, Aeronáutica, Metalúrgica, Mecânica de Automóveis, etc.)",Desocupado (procurando trabalho),1635,161,2.18
+1991,"55 - Engenharia Mecânica (inclui: Engenharia Naval, Aeronáutica, Metalúrgica, Mecânica de Automóveis, etc.)",Fora da força de trabalho,3556,359,4.75
+1991,"55 - Engenharia Mecânica (inclui: Engenharia Naval, Aeronáutica, Metalúrgica, Mecânica de Automóveis, etc.)",Ocupado,69745,7011,93.07
+1991,56 - Engenharia Química e Química Industrial,Desocupado (procurando trabalho),1021,101,3.04
+1991,56 - Engenharia Química e Química Industrial,Fora da força de trabalho,3492,347,10.39
+1991,56 - Engenharia Química e Química Industrial,Ocupado,29108,2927,86.58
+1991,57 - Engenharia não classificada ou mal definida,Desocupado (procurando trabalho),926,85,2.35
+1991,57 - Engenharia não classificada ou mal definida,Fora da força de trabalho,3844,384,9.76
+1991,57 - Engenharia não classificada ou mal definida,Ocupado,34615,3441,87.89
+1991,58 - Estatística,Desocupado (procurando trabalho),86,10,1.68
+1991,58 - Estatística,Fora da força de trabalho,893,89,17.42
+1991,58 - Estatística,Ocupado,4147,402,80.9
+1991,59 - Física,Desocupado (procurando trabalho),141,15,1.61
+1991,59 - Física,Fora da força de trabalho,827,83,9.43
+1991,59 - Física,Ocupado,7803,769,88.96
+1991,60 - Geologia,Desocupado (procurando trabalho),277,29,4.19
+1991,60 - Geologia,Fora da força de trabalho,597,65,9.02
+1991,60 - Geologia,Ocupado,5744,580,86.79
+1991,61 - Matemática,Desocupado (procurando trabalho),899,95,1.04
+1991,61 - Matemática,Fora da força de trabalho,8145,834,9.38
+1991,61 - Matemática,Ocupado,77786,8294,89.58
+1991,62 - Química,Desocupado (procurando trabalho),358,37,1.86
+1991,62 - Química,Fora da força de trabalho,2424,243,12.57
+1991,62 - Química,Ocupado,16498,1700,85.57
+1991,63 - Outros da Tecnologia (exclusive Engenharia),Desocupado (procurando trabalho),74,7,7.03
+1991,63 - Outros da Tecnologia (exclusive Engenharia),Fora da força de trabalho,160,18,15.21
+1991,63 - Outros da Tecnologia (exclusive Engenharia),Ocupado,818,81,77.76
+1991,"64 - Agronomia (inclui: Ciências Agrícolas, Engenharia Agrícola e Engenharia Florestal)",Desocupado (procurando trabalho),1682,183,2.62
+1991,"64 - Agronomia (inclui: Ciências Agrícolas, Engenharia Agrícola e Engenharia Florestal)",Fora da força de trabalho,5583,573,8.7
+1991,"64 - Agronomia (inclui: Ciências Agrícolas, Engenharia Agrícola e Engenharia Florestal)",Ocupado,56890,6193,88.68
+1991,65 - Medicina Veterinária,Desocupado (procurando trabalho),607,63,2.26
+1991,65 - Medicina Veterinária,Fora da força de trabalho,2153,220,8.03
+1991,65 - Medicina Veterinária,Ocupado,24041,2598,89.7
+1991,"66 - Outros (inclui: Agrimensura, Engenharia de Pesca, Zootecnia, Fitotecnia) - Agrárias",Desocupado (procurando trabalho),375,36,3.36
+1991,"66 - Outros (inclui: Agrimensura, Engenharia de Pesca, Zootecnia, Fitotecnia) - Agrárias",Fora da força de trabalho,1052,107,9.43
+1991,"66 - Outros (inclui: Agrimensura, Engenharia de Pesca, Zootecnia, Fitotecnia) - Agrárias",Ocupado,9724,1040,87.2
+1991,"67 - Administração (inclui: Secretariado, Administração de Empresas, Administração Pública)",Desocupado (procurando trabalho),8664,859,2.14
+1991,"67 - Administração (inclui: Secretariado, Administração de Empresas, Administração Pública)",Fora da força de trabalho,39293,4005,9.69
+1991,"67 - Administração (inclui: Secretariado, Administração de Empresas, Administração Pública)",Ocupado,357434,36109,88.17
+1991,68 - Biblioteconomia (inclui: Arquivologia),Desocupado (procurando trabalho),374,42,2.03
+1991,68 - Biblioteconomia (inclui: Arquivologia),Fora da força de trabalho,4108,417,22.3
+1991,68 - Biblioteconomia (inclui: Arquivologia),Ocupado,13936,1393,75.67
+1991,69 - Ciências Contábeis e Atuariais,Desocupado (procurando trabalho),2655,271,1.32
+1991,69 - Ciências Contábeis e Atuariais,Fora da força de trabalho,28538,2876,14.14
+1991,69 - Ciências Contábeis e Atuariais,Ocupado,170624,17490,84.54
+1991,70 - Ciências Econômicas,Desocupado (procurando trabalho),3753,372,2.22
+1991,70 - Ciências Econômicas,Fora da força de trabalho,19904,2014,11.78
+1991,70 - Ciências Econômicas,Ocupado,145307,14682,86
+1991,"71 - Ciências e Estudos Sociais (inclui: Sociologia, Ciências Políticas e Sociais, Antropologia, etc.)",Desocupado (procurando trabalho),1429,147,2.04
+1991,"71 - Ciências e Estudos Sociais (inclui: Sociologia, Ciências Políticas e Sociais, Antropologia, etc.)",Fora da força de trabalho,12370,1296,17.66
+1991,"71 - Ciências e Estudos Sociais (inclui: Sociologia, Ciências Políticas e Sociais, Antropologia, etc.)",Ocupado,56262,6088,80.3
+1991,"72 - Comunicação Social (inclui: Editoração, Jornalismo, Rádio e TV, Publicidade, Turismo)",Desocupado (procurando trabalho),3406,338,3.55
+1991,"72 - Comunicação Social (inclui: Editoração, Jornalismo, Rádio e TV, Publicidade, Turismo)",Fora da força de trabalho,14013,1371,14.6
+1991,"72 - Comunicação Social (inclui: Editoração, Jornalismo, Rádio e TV, Publicidade, Turismo)",Ocupado,78557,7725,81.85
+1991,73 - Direito (inclui: Relações Internacionais),Desocupado (procurando trabalho),7518,752,1.7
+1991,73 - Direito (inclui: Relações Internacionais),Fora da força de trabalho,65396,6687,14.78
+1991,73 - Direito (inclui: Relações Internacionais),Ocupado,369443,37510,83.52
+1991,74 - Filosofia,Desocupado (procurando trabalho),661,69,1.83
+1991,74 - Filosofia,Fora da força de trabalho,9097,962,25.22
+1991,74 - Filosofia,Ocupado,26309,2757,72.94
+1991,75 - Geografia,Desocupado (procurando trabalho),771,78,1.73
+1991,75 - Geografia,Fora da força de trabalho,5532,583,12.41
+1991,75 - Geografia,Ocupado,38283,4060,85.86
+1991,76 - História,Desocupado (procurando trabalho),1110,110,1.7
+1991,76 - História,Fora da força de trabalho,9254,959,14.16
+1991,76 - História,Ocupado,54998,5823,84.14
+1991,"77 - Pedagogia (inclui: Administração Escolar, Educação Especial, Orientação Educacional, Formação de Professores)",Desocupado (procurando trabalho),6158,638,1.6
+1991,"77 - Pedagogia (inclui: Administração Escolar, Educação Especial, Orientação Educacional, Formação de Professores)",Fora da força de trabalho,78679,8213,20.4
+1991,"77 - Pedagogia (inclui: Administração Escolar, Educação Especial, Orientação Educacional, Formação de Professores)",Ocupado,300934,32326,78.01
+1991,78 - Psicologia,Desocupado (procurando trabalho),4140,392,4.25
+1991,78 - Psicologia,Fora da força de trabalho,17817,1783,18.28
+1991,78 - Psicologia,Ocupado,75521,7534,77.47
+1991,79 - Serviço Social,Desocupado (procurando trabalho),1700,165,2.98
+1991,79 - Serviço Social,Fora da força de trabalho,11399,1139,19.98
+1991,79 - Serviço Social,Ocupado,43952,4494,77.04
+1991,80 - Teologia,Desocupado (procurando trabalho),191,18,0.75
+1991,80 - Teologia,Fora da força de trabalho,3708,397,14.48
+1991,80 - Teologia,Ocupado,21704,2393,84.77
+1991,"81 - Outros de Humanas (inclui: Museologia, Arqueologia)",Desocupado (procurando trabalho),135,12,7.61
+1991,"81 - Outros de Humanas (inclui: Museologia, Arqueologia)",Fora da força de trabalho,281,33,15.84
+1991,"81 - Outros de Humanas (inclui: Museologia, Arqueologia)",Ocupado,1358,134,76.55
+1991,82 - Letras (inclui: Tradutor e Intérprete),Desocupado (procurando trabalho),4542,453,1.79
+1991,82 - Letras (inclui: Tradutor e Intérprete),Fora da força de trabalho,43633,4517,17.22
+1991,82 - Letras (inclui: Tradutor e Intérprete),Ocupado,205182,21669,80.99
+1991,"83 - Artes (inclui: Cinema, Comunicação Visual, Dança, História da Arte, Desenho, Música, Teatro, etc.)",Desocupado (procurando trabalho),1607,152,2.32
+1991,"83 - Artes (inclui: Cinema, Comunicação Visual, Dança, História da Arte, Desenho, Música, Teatro, etc.)",Fora da força de trabalho,16314,1642,23.58
+1991,"83 - Artes (inclui: Cinema, Comunicação Visual, Dança, História da Arte, Desenho, Música, Teatro, etc.)",Ocupado,51274,5232,74.1
+1991,84 - Defesa Nacional (Militar),Desocupado (procurando trabalho),155,15,0.86
+1991,84 - Defesa Nacional (Militar),Fora da força de trabalho,5076,514,28.26
+1991,84 - Defesa Nacional (Militar),Ocupado,12732,1270,70.88
+1991,85 - Outros Cursos de Grau Superior,Desocupado (procurando trabalho),4142,411,2.38
+1991,85 - Outros Cursos de Grau Superior,Fora da força de trabalho,27386,2855,15.73
+1991,85 - Outros Cursos de Grau Superior,Ocupado,142548,14827,81.89
+1991,86 - Mestrado ou Doutorado - Medicina,Desocupado (procurando trabalho),106,9,0.65
+1991,86 - Mestrado ou Doutorado - Medicina,Fora da força de trabalho,1250,123,7.65
+1991,86 - Mestrado ou Doutorado - Medicina,Ocupado,14993,1519,91.71
+1991,87 - Mestrado ou Doutorado - Outros (Biologia),Desocupado (procurando trabalho),151,16,1.05
+1991,87 - Mestrado ou Doutorado - Outros (Biologia),Fora da força de trabalho,1516,161,10.5
+1991,87 - Mestrado ou Doutorado - Outros (Biologia),Ocupado,12773,1300,88.46
+1991,88 - Mestrado ou Doutorado - Engenharia,Desocupado (procurando trabalho),229,22,1.46
+1991,88 - Mestrado ou Doutorado - Engenharia,Fora da força de trabalho,1259,125,8.02
+1991,88 - Mestrado ou Doutorado - Engenharia,Ocupado,14214,1413,90.52
+1991,89 - Mestrado ou Doutorado - Outros (Ciências Tecnológicas),Desocupado (procurando trabalho),196,20,1.19
+1991,89 - Mestrado ou Doutorado - Outros (Ciências Tecnológicas),Fora da força de trabalho,1542,150,9.37
+1991,89 - Mestrado ou Doutorado - Outros (Ciências Tecnológicas),Ocupado,14719,1462,89.44
+1991,90 - Mestrado ou Doutorado - Ciências Agrárias,Desocupado (procurando trabalho),186,14,2.36
+1991,90 - Mestrado ou Doutorado - Ciências Agrárias,Fora da força de trabalho,697,77,8.86
+1991,90 - Mestrado ou Doutorado - Ciências Agrárias,Ocupado,6988,722,88.78
+1991,91 - Mestrado ou Doutorado - Administração,Desocupado (procurando trabalho),45,6,0.55
+1991,91 - Mestrado ou Doutorado - Administração,Fora da força de trabalho,649,62,7.99
+1991,91 - Mestrado ou Doutorado - Administração,Ocupado,7429,731,91.46
+1991,"92 - Mestrado ou Doutorado - Ciências Econômicas, Contábeis, etc.",Desocupado (procurando trabalho),88,8,0.86
+1991,"92 - Mestrado ou Doutorado - Ciências Econômicas, Contábeis, etc.",Fora da força de trabalho,1139,106,11.14
+1991,"92 - Mestrado ou Doutorado - Ciências Econômicas, Contábeis, etc.",Ocupado,8993,878,87.99
+1991,93 - Mestrado ou Doutorado - Direito,Desocupado (procurando trabalho),158,15,1.42
+1991,93 - Mestrado ou Doutorado - Direito,Fora da força de trabalho,1125,108,10.09
+1991,93 - Mestrado ou Doutorado - Direito,Ocupado,9863,969,88.49
+1991,94 - Mestrado ou Doutorado - Pedagogia,Desocupado (procurando trabalho),66,7,0.74
+1991,94 - Mestrado ou Doutorado - Pedagogia,Fora da força de trabalho,1122,114,12.56
+1991,94 - Mestrado ou Doutorado - Pedagogia,Ocupado,7747,792,86.7
+1991,95 - Mestrado ou Doutorado - Outros (Ciências Humanas e Sociais),Desocupado (procurando trabalho),334,32,1.54
+1991,95 - Mestrado ou Doutorado - Outros (Ciências Humanas e Sociais),Fora da força de trabalho,2539,245,11.74
+1991,95 - Mestrado ou Doutorado - Outros (Ciências Humanas e Sociais),Ocupado,18763,1876,86.72
+1991,96 - Mestrado ou Doutorado - Letras e Artes,Desocupado (procurando trabalho),191,16,1.74
+1991,96 - Mestrado ou Doutorado - Letras e Artes,Fora da força de trabalho,1426,145,12.96
+1991,96 - Mestrado ou Doutorado - Letras e Artes,Ocupado,9385,929,85.3
+1991,97 - Mestrado ou Doutorado - (área não especificada),Desocupado (procurando trabalho),106,10,1.14
+1991,97 - Mestrado ou Doutorado - (área não especificada),Fora da força de trabalho,1137,116,12.19
+1991,97 - Mestrado ou Doutorado - (área não especificada),Ocupado,8083,793,86.67
+2000,140 - Formação de professores e ciência da educação (cursos gerais ou combinados),Ocupado,53,5,100
+2000,142 - Ciências da educação,Desocupado (procurando trabalho),21471,2246,3.68
+2000,142 - Ciências da educação,Fora da força de trabalho,140271,15112,24.01
+2000,142 - Ciências da educação,Ocupado,422441,46173,72.31
+2000,143 - Formação de professor da educação básica (infantil),Ocupado,18,2,100
+2000,144 - Formação de professor da educação básica (fundamental e média),Desocupado (procurando trabalho),996,102,7.4
+2000,144 - Formação de professor da educação básica (fundamental e média),Fora da força de trabalho,4107,434,30.5
+2000,144 - Formação de professor da educação básica (fundamental e média),Ocupado,8363,916,62.1
+2000,145 - Formação de professor de matérias acadêmicas,Desocupado (procurando trabalho),1397,149,2.79
+2000,145 - Formação de professor de matérias acadêmicas,Fora da força de trabalho,7261,774,14.5
+2000,145 - Formação de professor de matérias acadêmicas,Ocupado,41409,4642,82.71
+2000,146 - Formação de professor de disciplinas profissionalizantes,Desocupado (procurando trabalho),388,39,3.21
+2000,146 - Formação de professor de disciplinas profissionalizantes,Fora da força de trabalho,1914,204,15.82
+2000,146 - Formação de professor de disciplinas profissionalizantes,Ocupado,9799,1063,80.98
+2000,210 - Artes (cursos gerais ou combinados),Desocupado (procurando trabalho),1552,158,4.39
+2000,210 - Artes (cursos gerais ou combinados),Fora da força de trabalho,7306,759,20.64
+2000,210 - Artes (cursos gerais ou combinados),Ocupado,26534,2849,74.97
+2000,211 - Belas artes,Desocupado (procurando trabalho),1502,153,4.8
+2000,211 - Belas artes,Fora da força de trabalho,7841,798,25.07
+2000,211 - Belas artes,Ocupado,21928,2265,70.12
+2000,212 - Música e artes cênicas,Desocupado (procurando trabalho),828,80,4.17
+2000,212 - Música e artes cênicas,Fora da força de trabalho,6148,616,30.95
+2000,212 - Música e artes cênicas,Ocupado,12887,1288,64.88
+2000,213 - Artes visuais e produção para mídia,Desocupado (procurando trabalho),355,36,6.62
+2000,213 - Artes visuais e produção para mídia,Fora da força de trabalho,707,70,13.18
+2000,213 - Artes visuais e produção para mídia,Ocupado,4303,433,80.21
+2000,214 - Design e estilismo,Desocupado (procurando trabalho),617,62,7.77
+2000,214 - Design e estilismo,Fora da força de trabalho,1518,158,19.12
+2000,214 - Design e estilismo,Ocupado,5805,601,73.11
+2000,215 - Artesanato,Desocupado (procurando trabalho),10,1,6.62
+2000,215 - Artesanato,Fora da força de trabalho,12,1,7.95
+2000,215 - Artesanato,Ocupado,129,13,85.43
+2000,220 - Humanidades e letras (cursos gerais ou combinados),Desocupado (procurando trabalho),10981,1161,3.35
+2000,220 - Humanidades e letras (cursos gerais ou combinados),Fora da força de trabalho,65688,6918,20.05
+2000,220 - Humanidades e letras (cursos gerais ou combinados),Ocupado,250923,27465,76.6
+2000,221 - Religião e teologia,Desocupado (procurando trabalho),914,96,2.21
+2000,221 - Religião e teologia,Fora da força de trabalho,9170,969,22.17
+2000,221 - Religião e teologia,Ocupado,31275,3406,75.62
+2000,222 - Línguas e culturas estrangeiras,Desocupado (procurando trabalho),1159,118,3.77
+2000,222 - Línguas e culturas estrangeiras,Fora da força de trabalho,7468,757,24.29
+2000,222 - Línguas e culturas estrangeiras,Ocupado,22116,2374,71.94
+2000,223 - Língua portuguesa,Desocupado (procurando trabalho),161,17,2.54
+2000,223 - Língua portuguesa,Fora da força de trabalho,992,109,15.64
+2000,223 - Língua portuguesa,Ocupado,5188,594,81.82
+2000,225 - História e arqueologia,Desocupado (procurando trabalho),3528,372,3.08
+2000,225 - História e arqueologia,Fora da força de trabalho,20483,2147,17.88
+2000,225 - História e arqueologia,Ocupado,90530,9946,79.04
+2000,226 - Filosofia e ética,Desocupado (procurando trabalho),1349,138,3.42
+2000,226 - Filosofia e ética,Fora da força de trabalho,12215,1280,30.97
+2000,226 - Filosofia e ética,Ocupado,25875,2776,65.61
+2000,310 - Ciências sociais e comportamentais (cursos gerais ou combinados),Desocupado (procurando trabalho),2909,297,4.17
+2000,310 - Ciências sociais e comportamentais (cursos gerais ou combinados),Fora da força de trabalho,17011,1827,24.37
+2000,310 - Ciências sociais e comportamentais (cursos gerais ou combinados),Ocupado,49890,5502,71.47
+2000,311 - Psicologia,Desocupado (procurando trabalho),9384,944,6.26
+2000,311 - Psicologia,Fora da força de trabalho,23853,2416,15.9
+2000,311 - Psicologia,Ocupado,116745,11842,77.84
+2000,312 - Sociologia e estudos culturais,Desocupado (procurando trabalho),852,85,5.09
+2000,312 - Sociologia e estudos culturais,Fora da força de trabalho,3619,367,21.62
+2000,312 - Sociologia e estudos culturais,Ocupado,12271,1245,73.29
+2000,313 - Ciência política e educação cívica,Desocupado (procurando trabalho),206,19,4.83
+2000,313 - Ciência política e educação cívica,Fora da força de trabalho,819,79,19.19
+2000,313 - Ciência política e educação cívica,Ocupado,3242,329,75.98
+2000,314 - Economia,Desocupado (procurando trabalho),8378,859,4.04
+2000,314 - Economia,Fora da força de trabalho,34504,3485,16.63
+2000,314 - Economia,Ocupado,164569,16771,79.33
+2000,"320 - Comunicação, jornalismo e informação (cursos gerais ou combinados)",Desocupado (procurando trabalho),4387,444,7.73
+2000,"320 - Comunicação, jornalismo e informação (cursos gerais ou combinados)",Fora da força de trabalho,7622,779,13.43
+2000,"320 - Comunicação, jornalismo e informação (cursos gerais ou combinados)",Ocupado,44739,4504,78.84
+2000,321 - Jornalismo e reportagem,Desocupado (procurando trabalho),3151,311,6.25
+2000,321 - Jornalismo e reportagem,Fora da força de trabalho,6102,617,12.1
+2000,321 - Jornalismo e reportagem,Ocupado,41182,4126,81.65
+2000,"322 - Biblioteconomia, informação, arquivos",Desocupado (procurando trabalho),1139,112,4.62
+2000,"322 - Biblioteconomia, informação, arquivos",Fora da força de trabalho,6909,711,28.03
+2000,"322 - Biblioteconomia, informação, arquivos",Ocupado,16601,1676,67.35
+2000,340 - Comércio e administração (cursos gerais ou combinados),Desocupado (procurando trabalho),661,63,4.27
+2000,340 - Comércio e administração (cursos gerais ou combinados),Fora da força de trabalho,1236,123,7.98
+2000,340 - Comércio e administração (cursos gerais ou combinados),Ocupado,13600,1347,87.76
+2000,341 - Vendas em atacado e varejo,Fora da força de trabalho,16,2,11.94
+2000,341 - Vendas em atacado e varejo,Ocupado,118,13,88.06
+2000,342 - Marketing e publicidade,Desocupado (procurando trabalho),4698,471,7.25
+2000,342 - Marketing e publicidade,Fora da força de trabalho,6482,651,10
+2000,342 - Marketing e publicidade,Ocupado,53635,5323,82.75
+2000,"343 - Finanças, bancos, seguros",Desocupado (procurando trabalho),48,6,2.17
+2000,"343 - Finanças, bancos, seguros",Fora da força de trabalho,144,14,6.51
+2000,"343 - Finanças, bancos, seguros",Ocupado,2019,211,91.32
+2000,344 - Contabilidade e tributação,Desocupado (procurando trabalho),13146,1347,4.27
+2000,344 - Contabilidade e tributação,Fora da força de trabalho,50011,5106,16.24
+2000,344 - Contabilidade e tributação,Ocupado,244839,25592,79.49
+2000,345 - Administração e gestão,Desocupado (procurando trabalho),32828,3349,5.16
+2000,345 - Administração e gestão,Fora da força de trabalho,75747,7780,11.9
+2000,345 - Administração e gestão,Ocupado,527981,54297,82.94
+2000,346 - Secretariado e trabalhos de escritório,Desocupado (procurando trabalho),1454,149,8.25
+2000,346 - Secretariado e trabalhos de escritório,Fora da força de trabalho,3075,316,17.45
+2000,346 - Secretariado e trabalhos de escritório,Ocupado,13089,1308,74.29
+2000,347 - Trabalho e relações industriais,Fora da força de trabalho,26,3,9.85
+2000,347 - Trabalho e relações industriais,Ocupado,238,26,90.15
+2000,380 - Direito,Desocupado (procurando trabalho),25145,2556,3.65
+2000,380 - Direito,Fora da força de trabalho,122377,12435,17.75
+2000,380 - Direito,Ocupado,542119,55528,78.61
+2000,420 - Ciências da vida (cursos gerais ou combinados),Desocupado (procurando trabalho),550,61,3.06
+2000,420 - Ciências da vida (cursos gerais ou combinados),Fora da força de trabalho,2863,337,15.94
+2000,420 - Ciências da vida (cursos gerais ou combinados),Ocupado,14543,1789,80.99
+2000,421 - Biologia e bioquímica,Desocupado (procurando trabalho),4317,454,3.63
+2000,421 - Biologia e bioquímica,Fora da força de trabalho,16565,1741,13.92
+2000,421 - Biologia e bioquímica,Ocupado,98146,10474,82.46
+2000,422 - Ciências ambientais,Desocupado (procurando trabalho),6,1,0.97
+2000,422 - Ciências ambientais,Fora da força de trabalho,114,10,18.45
+2000,422 - Ciências ambientais,Ocupado,498,51,80.58
+2000,440 - Ciências físicas (cursos gerais ou combinados),Desocupado (procurando trabalho),2294,247,3.01
+2000,440 - Ciências físicas (cursos gerais ou combinados),Fora da força de trabalho,13210,1421,17.36
+2000,440 - Ciências físicas (cursos gerais ou combinados),Ocupado,60612,6776,79.63
+2000,441 - Física,Desocupado (procurando trabalho),397,41,2.57
+2000,441 - Física,Fora da força de trabalho,1686,170,10.93
+2000,441 - Física,Ocupado,13336,1362,86.49
+2000,442 - Química,Desocupado (procurando trabalho),1267,133,3.35
+2000,442 - Química,Fora da força de trabalho,4529,460,11.97
+2000,442 - Química,Ocupado,32044,3335,84.68
+2000,443 - Ciências da Terra,Desocupado (procurando trabalho),514,50,4.37
+2000,443 - Ciências da Terra,Fora da força de trabalho,1854,194,15.78
+2000,443 - Ciências da Terra,Ocupado,9382,956,79.85
+2000,461 - Matemática,Desocupado (procurando trabalho),2837,306,2.12
+2000,461 - Matemática,Fora da força de trabalho,16297,1719,12.16
+2000,461 - Matemática,Ocupado,114936,12593,85.73
+2000,462 - Estatística,Desocupado (procurando trabalho),293,28,3.67
+2000,462 - Estatística,Fora da força de trabalho,1509,152,18.9
+2000,462 - Estatística,Ocupado,6183,614,77.43
+2000,481 - Ciência da Computação,Desocupado (procurando trabalho),5794,592,4.63
+2000,481 - Ciência da Computação,Fora da força de trabalho,6151,656,4.91
+2000,481 - Ciência da Computação,Ocupado,113258,11445,90.46
+2000,482 - Uso do computador,Desocupado (procurando trabalho),11,1,3.96
+2000,482 - Uso do computador,Fora da força de trabalho,8,1,2.88
+2000,482 - Uso do computador,Ocupado,259,26,93.17
+2000,520 - Engenharia e tecnologias correlatas (cursos gerais ou combinados),Desocupado (procurando trabalho),3546,353,3.79
+2000,520 - Engenharia e tecnologias correlatas (cursos gerais ou combinados),Fora da força de trabalho,10820,1104,11.58
+2000,520 - Engenharia e tecnologias correlatas (cursos gerais ou combinados),Ocupado,79103,7938,84.63
+2000,521 - Mecânica e metalurgia,Desocupado (procurando trabalho),3530,357,3.86
+2000,521 - Mecânica e metalurgia,Fora da força de trabalho,7013,727,7.67
+2000,521 - Mecânica e metalurgia,Ocupado,80890,8204,88.47
+2000,522 - Eletricidade e energia,Desocupado (procurando trabalho),1888,191,3.06
+2000,522 - Eletricidade e energia,Fora da força de trabalho,5153,526,8.35
+2000,522 - Eletricidade e energia,Ocupado,54701,5574,88.6
+2000,523 - Eletrônica e automação,Desocupado (procurando trabalho),996,99,3.07
+2000,523 - Eletrônica e automação,Fora da força de trabalho,2192,219,6.76
+2000,523 - Eletrônica e automação,Ocupado,29257,2949,90.17
+2000,524 - Química e engenharia de processos,Desocupado (procurando trabalho),1163,119,3.59
+2000,524 - Química e engenharia de processos,Fora da força de trabalho,3792,388,11.72
+2000,524 - Química e engenharia de processos,Ocupado,27397,2774,84.68
+2000,"525 - Veículos a motor, construção naval e aeronáutica",Desocupado (procurando trabalho),147,14,3.64
+2000,"525 - Veículos a motor, construção naval e aeronáutica",Fora da força de trabalho,580,58,14.37
+2000,"525 - Veículos a motor, construção naval e aeronáutica",Ocupado,3310,338,81.99
+2000,540 - Produção e processamento (cursos gerais ou combinados),Desocupado (procurando trabalho),84,7,8.48
+2000,540 - Produção e processamento (cursos gerais ou combinados),Fora da força de trabalho,32,4,3.23
+2000,540 - Produção e processamento (cursos gerais ou combinados),Ocupado,874,92,88.28
+2000,541 - Processamento de alimentos,Desocupado (procurando trabalho),179,19,4.42
+2000,541 - Processamento de alimentos,Fora da força de trabalho,263,26,6.49
+2000,541 - Processamento de alimentos,Ocupado,3609,368,89.09
+2000,"542 - Têxteis, roupas, calçados e couros",Desocupado (procurando trabalho),50,5,2.68
+2000,"542 - Têxteis, roupas, calçados e couros",Fora da força de trabalho,180,18,9.65
+2000,"542 - Têxteis, roupas, calçados e couros",Ocupado,1635,170,87.67
+2000,"543 - Materiais (madeira, papel, plástico, vidro)",Desocupado (procurando trabalho),78,9,2.5
+2000,"543 - Materiais (madeira, papel, plástico, vidro)",Fora da força de trabalho,168,18,5.38
+2000,"543 - Materiais (madeira, papel, plástico, vidro)",Ocupado,2875,285,92.12
+2000,544 - Mineração e extração,Desocupado (procurando trabalho),130,12,4.9
+2000,544 - Mineração e extração,Fora da força de trabalho,322,31,12.15
+2000,544 - Mineração e extração,Ocupado,2199,221,82.95
+2000,581 - Arquitetura e urbanismo,Desocupado (procurando trabalho),3513,355,4.54
+2000,581 - Arquitetura e urbanismo,Fora da força de trabalho,8438,846,10.9
+2000,581 - Arquitetura e urbanismo,Ocupado,65439,6622,84.56
+2000,582 - Engenharia civil e construção,Desocupado (procurando trabalho),5492,560,3.4
+2000,582 - Engenharia civil e construção,Fora da força de trabalho,15580,1589,9.64
+2000,582 - Engenharia civil e construção,Ocupado,140475,14366,86.96
+2000,621 - Produção agrícola e pecuária,Desocupado (procurando trabalho),3172,330,3.81
+2000,621 - Produção agrícola e pecuária,Fora da força de trabalho,7613,820,9.15
+2000,621 - Produção agrícola e pecuária,Ocupado,72418,8120,87.04
+2000,622 - Horticultura,Ocupado,71,7,100
+2000,623 - Engenharia florestal - silvicultura,Desocupado (procurando trabalho),304,30,5.83
+2000,623 - Engenharia florestal - silvicultura,Fora da força de trabalho,399,42,7.65
+2000,623 - Engenharia florestal - silvicultura,Ocupado,4510,471,86.51
+2000,624 - Recursos pesqueiros,Desocupado (procurando trabalho),41,5,3.96
+2000,624 - Recursos pesqueiros,Fora da força de trabalho,46,6,4.44
+2000,624 - Recursos pesqueiros,Ocupado,949,96,91.6
+2000,641 - Veterinária,Desocupado (procurando trabalho),1178,124,3.21
+2000,641 - Veterinária,Fora da força de trabalho,3393,357,9.24
+2000,641 - Veterinária,Ocupado,32133,3500,87.55
+2000,720 - Saúde (cursos gerais ou combinados),Desocupado (procurando trabalho),5142,534,3.39
+2000,720 - Saúde (cursos gerais ou combinados),Fora da força de trabalho,18569,1932,12.24
+2000,720 - Saúde (cursos gerais ou combinados),Ocupado,127954,13557,84.37
+2000,721 - Medicina,Desocupado (procurando trabalho),3428,350,1.31
+2000,721 - Medicina,Fora da força de trabalho,21182,2132,8.08
+2000,721 - Medicina,Ocupado,237437,24249,90.61
+2000,723 - Enfermagem e atenção primária,Desocupado (procurando trabalho),2628,263,2.91
+2000,723 - Enfermagem e atenção primária,Fora da força de trabalho,14261,1454,15.78
+2000,723 - Enfermagem e atenção primária,Ocupado,73505,7666,81.32
+2000,724 - Odontologia,Desocupado (procurando trabalho),3047,307,1.94
+2000,724 - Odontologia,Fora da força de trabalho,16047,1665,10.2
+2000,724 - Odontologia,Ocupado,138184,14446,87.86
+2000,725 - Tecnologias de diagnóstico e tratamento médico,Desocupado (procurando trabalho),1102,109,5.09
+2000,725 - Tecnologias de diagnóstico e tratamento médico,Fora da força de trabalho,2676,273,12.36
+2000,725 - Tecnologias de diagnóstico e tratamento médico,Ocupado,17875,1803,82.55
+2000,726 - Terapia e reabilitação,Desocupado (procurando trabalho),4492,453,6.25
+2000,726 - Terapia e reabilitação,Fora da força de trabalho,9214,962,12.82
+2000,726 - Terapia e reabilitação,Ocupado,58194,5963,80.94
+2000,727 - Farmácia,Desocupado (procurando trabalho),1160,122,2.18
+2000,727 - Farmácia,Fora da força de trabalho,6074,617,11.41
+2000,727 - Farmácia,Ocupado,45983,4908,86.41
+2000,762 - Serviço social e aconselhamento,Desocupado (procurando trabalho),4961,514,6.11
+2000,762 - Serviço social e aconselhamento,Fora da força de trabalho,17814,1826,21.92
+2000,762 - Serviço social e aconselhamento,Ocupado,58480,6011,71.97
+2000,"811 - Hotelaria, restaurantes e serviços de alimentação",Desocupado (procurando trabalho),411,40,9.49
+2000,"811 - Hotelaria, restaurantes e serviços de alimentação",Fora da força de trabalho,497,50,11.48
+2000,"811 - Hotelaria, restaurantes e serviços de alimentação",Ocupado,3423,347,79.03
+2000,"812 - Viagens, turismo e lazer",Desocupado (procurando trabalho),1909,193,9.78
+2000,"812 - Viagens, turismo e lazer",Fora da força de trabalho,3294,334,16.88
+2000,"812 - Viagens, turismo e lazer",Ocupado,14309,1439,73.33
+2000,813 - Esportes,Ocupado,23,2,100
+2000,814 - Economia doméstica,Desocupado (procurando trabalho),247,25,5.42
+2000,814 - Economia doméstica,Fora da força de trabalho,1389,151,30.47
+2000,814 - Economia doméstica,Ocupado,2922,330,64.11
+2000,815 - Serviços de beleza,Desocupado (procurando trabalho),7,1,100
+2000,841 - Meios específicos de transporte,Desocupado (procurando trabalho),31,3,5.72
+2000,841 - Meios específicos de transporte,Fora da força de trabalho,30,3,5.54
+2000,841 - Meios específicos de transporte,Ocupado,481,51,88.75
+2000,85 - Graduação mal especificada,Desocupado (procurando trabalho),2397,252,4.2
+2000,85 - Graduação mal especificada,Fora da força de trabalho,8875,931,15.56
+2000,85 - Graduação mal especificada,Ocupado,45756,5022,80.23
+2000,850 - Preservação ambiental (cursos gerais ou combinados),Ocupado,16,2,100
+2000,851 - Tecnologia de preservação ambiental,Desocupado (procurando trabalho),32,3,3.73
+2000,851 - Tecnologia de preservação ambiental,Fora da força de trabalho,77,8,8.98
+2000,851 - Tecnologia de preservação ambiental,Ocupado,748,82,87.28
+2000,853 - Serviços de saneamento,Desocupado (procurando trabalho),29,3,6.44
+2000,853 - Serviços de saneamento,Fora da força de trabalho,25,3,5.56
+2000,853 - Serviços de saneamento,Ocupado,396,41,88
+2000,861 - Proteção de pessoas e propriedades,Desocupado (procurando trabalho),61,6,1.75
+2000,861 - Proteção de pessoas e propriedades,Fora da força de trabalho,738,74,21.15
+2000,861 - Proteção de pessoas e propriedades,Ocupado,2690,277,77.1
+2000,862 - Saúde e segurança no trabalho,Ocupado,45,4,100
+2000,863 - Setor militar e de defesa,Desocupado (procurando trabalho),298,28,1.43
+2000,863 - Setor militar e de defesa,Fora da força de trabalho,6848,678,32.77
+2000,863 - Setor militar e de defesa,Ocupado,13748,1391,65.8
+2000,97 - Mestrado ou Doutorado mal especificado,Desocupado (procurando trabalho),290,29,1.91
+2000,97 - Mestrado ou Doutorado mal especificado,Fora da força de trabalho,1947,199,12.83
+2000,97 - Mestrado ou Doutorado mal especificado,Ocupado,12944,1331,85.26
+2000,Curso não informado,Desocupado (procurando trabalho),6265,628,3.86
+2000,Curso não informado,Fora da força de trabalho,23525,2389,14.48
+2000,Curso não informado,Ocupado,132722,13441,81.67
+2010,140 - FORMAÇÃO DO PROFESSOR E CIÊNCIAS DA EDUCAÇÃO (CURSO GERAIS),Desocupado (procurando trabalho),46,4,1.19
+2010,140 - FORMAÇÃO DO PROFESSOR E CIÊNCIAS DA EDUCAÇÃO (CURSO GERAIS),Fora da força de trabalho,485,41,12.56
+2010,140 - FORMAÇÃO DO PROFESSOR E CIÊNCIAS DA EDUCAÇÃO (CURSO GERAIS),Ocupado,3331,310,86.25
+2010,142 - CIÊNCIAS DA EDUCAÇÃO,Desocupado (procurando trabalho),35597,3393,2.2
+2010,142 - CIÊNCIAS DA EDUCAÇÃO,Fora da força de trabalho,323368,29944,20.01
+2010,142 - CIÊNCIAS DA EDUCAÇÃO,Ocupado,1256775,137238,77.78
+2010,143 - FORMAÇÃO DE PROFESSORES DE EDUCAÇÃO INFANTIL,Desocupado (procurando trabalho),75,8,2.68
+2010,143 - FORMAÇÃO DE PROFESSORES DE EDUCAÇÃO INFANTIL,Fora da força de trabalho,893,80,31.94
+2010,143 - FORMAÇÃO DE PROFESSORES DE EDUCAÇÃO INFANTIL,Ocupado,1828,193,65.38
+2010,144 - FORMAÇÃO DE PROFESSORES DA EDUCAÇÃO BÁSICA,Desocupado (procurando trabalho),95,13,1.18
+2010,144 - FORMAÇÃO DE PROFESSORES DA EDUCAÇÃO BÁSICA,Fora da força de trabalho,2294,228,28.48
+2010,144 - FORMAÇÃO DE PROFESSORES DA EDUCAÇÃO BÁSICA,Ocupado,5665,675,70.34
+2010,145 - FORMAÇÃO DE PROFESSORES COM ESPECIALIZAÇÃO EM MATÉRIAS ESPECÍFICAS,Desocupado (procurando trabalho),17040,1589,2.6
+2010,145 - FORMAÇÃO DE PROFESSORES COM ESPECIALIZAÇÃO EM MATÉRIAS ESPECÍFICAS,Fora da força de trabalho,121722,11146,18.54
+2010,145 - FORMAÇÃO DE PROFESSORES COM ESPECIALIZAÇÃO EM MATÉRIAS ESPECÍFICAS,Ocupado,517640,54585,78.86
+2010,146 - FORMAÇÃO DE PROFESSORES DE DISCIPLINAS PROFISSIONAIS,Desocupado (procurando trabalho),7333,611,2.69
+2010,146 - FORMAÇÃO DE PROFESSORES DE DISCIPLINAS PROFISSIONAIS,Fora da força de trabalho,40999,3410,15.03
+2010,146 - FORMAÇÃO DE PROFESSORES DE DISCIPLINAS PROFISSIONAIS,Ocupado,224432,20358,82.28
+2010,210 - ARTES (CURSO GERAIS),Desocupado (procurando trabalho),362,25,2.42
+2010,210 - ARTES (CURSO GERAIS),Fora da força de trabalho,2854,236,19.05
+2010,210 - ARTES (CURSO GERAIS),Ocupado,11766,1051,78.53
+2010,211 - BELAS ARTES,Desocupado (procurando trabalho),1159,80,2.68
+2010,211 - BELAS ARTES,Fora da força de trabalho,11492,859,26.59
+2010,211 - BELAS ARTES,Ocupado,30567,2376,70.73
+2010,212 - MÚSICA E ARTES CÊNICAS,Desocupado (procurando trabalho),776,49,2.29
+2010,212 - MÚSICA E ARTES CÊNICAS,Fora da força de trabalho,7936,543,23.45
+2010,212 - MÚSICA E ARTES CÊNICAS,Ocupado,25132,1717,74.26
+2010,213 - TÉCNICAS AUDIOVISUAIS E PRODUÇÃO DE MÍDIA,Desocupado (procurando trabalho),1162,70,4.42
+2010,213 - TÉCNICAS AUDIOVISUAIS E PRODUÇÃO DE MÍDIA,Fora da força de trabalho,2540,158,9.66
+2010,213 - TÉCNICAS AUDIOVISUAIS E PRODUÇÃO DE MÍDIA,Ocupado,22596,1401,85.92
+2010,214 - DESIGN E ESTILISMO,Desocupado (procurando trabalho),2314,170,4.39
+2010,214 - DESIGN E ESTILISMO,Fora da força de trabalho,9055,614,17.18
+2010,214 - DESIGN E ESTILISMO,Ocupado,41327,2917,78.43
+2010,215 - ARTESANATO,Fora da força de trabalho,200,17,40.24
+2010,215 - ARTESANATO,Ocupado,297,22,59.76
+2010,220 - HUMANIDADES E LETRAS (CURSO GERAIS),Fora da força de trabalho,83,6,28.14
+2010,220 - HUMANIDADES E LETRAS (CURSO GERAIS),Ocupado,212,17,71.86
+2010,221 - RELIGIÃO,Desocupado (procurando trabalho),1796,159,2.06
+2010,221 - RELIGIÃO,Fora da força de trabalho,19106,1705,21.94
+2010,221 - RELIGIÃO,Ocupado,66174,6185,76
+2010,222 - LÍNGUAS E CULTURAS ESTRANGEIRAS,Desocupado (procurando trabalho),2449,207,2.25
+2010,222 - LÍNGUAS E CULTURAS ESTRANGEIRAS,Fora da força de trabalho,22498,1784,20.64
+2010,222 - LÍNGUAS E CULTURAS ESTRANGEIRAS,Ocupado,84031,7539,77.11
+2010,223 - LÍNGUA MATERNA (VERNÁCULA),Desocupado (procurando trabalho),10387,932,2.2
+2010,223 - LÍNGUA MATERNA (VERNÁCULA),Fora da força de trabalho,101944,8752,21.58
+2010,223 - LÍNGUA MATERNA (VERNÁCULA),Ocupado,359994,35574,76.22
+2010,225 - HISTÓRIA E ARQUEOLOGIA,Desocupado (procurando trabalho),1672,142,2.22
+2010,225 - HISTÓRIA E ARQUEOLOGIA,Fora da força de trabalho,15797,1368,20.98
+2010,225 - HISTÓRIA E ARQUEOLOGIA,Ocupado,57836,5485,76.8
+2010,226 - FILOSOFIA E ÉTICA,Desocupado (procurando trabalho),779,61,1.99
+2010,226 - FILOSOFIA E ÉTICA,Fora da força de trabalho,12497,1015,31.91
+2010,226 - FILOSOFIA E ÉTICA,Ocupado,25893,2426,66.11
+2010,310 - CIÊNCIAS SOCIAIS E COMPORTAMENTAIS (CURSOS GERAIS),Desocupado (procurando trabalho),1129,87,2.77
+2010,310 - CIÊNCIAS SOCIAIS E COMPORTAMENTAIS (CURSOS GERAIS),Fora da força de trabalho,11974,985,29.35
+2010,310 - CIÊNCIAS SOCIAIS E COMPORTAMENTAIS (CURSOS GERAIS),Ocupado,27688,2211,67.88
+2010,311 - PSICOLOGIA,Desocupado (procurando trabalho),9749,698,4.02
+2010,311 - PSICOLOGIA,Fora da força de trabalho,44663,3032,18.43
+2010,311 - PSICOLOGIA,Ocupado,187895,13505,77.54
+2010,312 - SOCIOLOGIA E ESTUDOS CULTURAIS,Desocupado (procurando trabalho),150,15,1.28
+2010,312 - SOCIOLOGIA E ESTUDOS CULTURAIS,Fora da força de trabalho,3360,240,28.62
+2010,312 - SOCIOLOGIA E ESTUDOS CULTURAIS,Ocupado,8231,619,70.1
+2010,313 - CIÊNCIA POLÍTICA E EDUCAÇÃO CÍVICA,Desocupado (procurando trabalho),879,62,4.89
+2010,313 - CIÊNCIA POLÍTICA E EDUCAÇÃO CÍVICA,Fora da força de trabalho,3428,215,19.09
+2010,313 - CIÊNCIA POLÍTICA E EDUCAÇÃO CÍVICA,Ocupado,13653,908,76.02
+2010,314 - ECONOMIA,Desocupado (procurando trabalho),5611,386,2.39
+2010,314 - ECONOMIA,Fora da força de trabalho,53246,3694,22.73
+2010,314 - ECONOMIA,Ocupado,175430,12548,74.88
+2010,321 - JORNALISMO E REPORTAGEM,Desocupado (procurando trabalho),8097,530,4.38
+2010,321 - JORNALISMO E REPORTAGEM,Fora da força de trabalho,27804,1808,15.04
+2010,321 - JORNALISMO E REPORTAGEM,Ocupado,148975,9819,80.58
+2010,"322 - BIBLIOTECONOMIA, INFORMAÇÃO, ARQUIVOS",Desocupado (procurando trabalho),942,64,2.82
+2010,"322 - BIBLIOTECONOMIA, INFORMAÇÃO, ARQUIVOS",Fora da força de trabalho,9831,646,29.44
+2010,"322 - BIBLIOTECONOMIA, INFORMAÇÃO, ARQUIVOS",Ocupado,22624,1551,67.74
+2010,340 - COMÉRCIO E ADMINISTRAÇÃO(CURSO GERAIS),Desocupado (procurando trabalho),3255,236,3.52
+2010,340 - COMÉRCIO E ADMINISTRAÇÃO(CURSO GERAIS),Fora da força de trabalho,10790,776,11.66
+2010,340 - COMÉRCIO E ADMINISTRAÇÃO(CURSO GERAIS),Ocupado,78532,5872,84.83
+2010,341 - VENDAS EM ATACADO E VAREJO,Desocupado (procurando trabalho),129,14,2.18
+2010,341 - VENDAS EM ATACADO E VAREJO,Fora da força de trabalho,729,56,12.31
+2010,341 - VENDAS EM ATACADO E VAREJO,Ocupado,5063,401,85.51
+2010,342 - MARKETING E PUBLICIDADE,Desocupado (procurando trabalho),13261,871,4.38
+2010,342 - MARKETING E PUBLICIDADE,Fora da força de trabalho,31661,2049,10.46
+2010,342 - MARKETING E PUBLICIDADE,Ocupado,257883,17056,85.16
+2010,"343 - FINANÇAS, BANCOS, SEGUROS",Desocupado (procurando trabalho),142,9,0.97
+2010,"343 - FINANÇAS, BANCOS, SEGUROS",Fora da força de trabalho,1356,85,9.28
+2010,"343 - FINANÇAS, BANCOS, SEGUROS",Ocupado,13111,848,89.75
+2010,344 - CONTABILIDADE E TRIBUTAÇÃO,Desocupado (procurando trabalho),11810,947,1.99
+2010,344 - CONTABILIDADE E TRIBUTAÇÃO,Fora da força de trabalho,101338,7867,17.09
+2010,344 - CONTABILIDADE E TRIBUTAÇÃO,Ocupado,479841,40941,80.92
+2010,345 - GERENCIAMENTO E ADMINISTRAÇÃO,Desocupado (procurando trabalho),54003,4125,3.06
+2010,345 - GERENCIAMENTO E ADMINISTRAÇÃO,Fora da força de trabalho,212689,15751,12.03
+2010,345 - GERENCIAMENTO E ADMINISTRAÇÃO,Ocupado,1500562,118482,84.91
+2010,346 - SECRETARIADO E TRABALHOS DE ESCRITÓRIO,Desocupado (procurando trabalho),1915,147,4.49
+2010,346 - SECRETARIADO E TRABALHOS DE ESCRITÓRIO,Fora da força de trabalho,7880,550,18.48
+2010,346 - SECRETARIADO E TRABALHOS DE ESCRITÓRIO,Ocupado,32846,2479,77.03
+2010,347 - VIDA PROFISSIONAL,Desocupado (procurando trabalho),11,1,2.84
+2010,347 - VIDA PROFISSIONAL,Fora da força de trabalho,29,3,7.49
+2010,347 - VIDA PROFISSIONAL,Ocupado,347,24,89.66
+2010,380 - DIREITO,Desocupado (procurando trabalho),35461,2668,2.77
+2010,380 - DIREITO,Fora da força de trabalho,228447,16494,17.87
+2010,380 - DIREITO,Ocupado,1014323,77204,79.35
+2010,420 - CIÊNCIAS DA VIDA (CURSO GERAIS),Desocupado (procurando trabalho),81,8,1.08
+2010,420 - CIÊNCIAS DA VIDA (CURSO GERAIS),Fora da força de trabalho,1702,171,22.67
+2010,420 - CIÊNCIAS DA VIDA (CURSO GERAIS),Ocupado,5725,605,76.25
+2010,421 - BIOLOGIA E BIOQUÍMICA,Desocupado (procurando trabalho),7939,684,4.35
+2010,421 - BIOLOGIA E BIOQUÍMICA,Fora da força de trabalho,32762,2789,17.96
+2010,421 - BIOLOGIA E BIOQUÍMICA,Ocupado,141706,13269,77.69
+2010,422 - CIÊNCIAS AMBIENTAIS,Desocupado (procurando trabalho),107,10,3.96
+2010,422 - CIÊNCIAS AMBIENTAIS,Fora da força de trabalho,338,28,12.5
+2010,422 - CIÊNCIAS AMBIENTAIS,Ocupado,2258,203,83.54
+2010,440 - CIÊNCIAS FÍSICAS (CURSO GERAIS),Desocupado (procurando trabalho),40,6,1.34
+2010,440 - CIÊNCIAS FÍSICAS (CURSO GERAIS),Fora da força de trabalho,1052,109,35.17
+2010,440 - CIÊNCIAS FÍSICAS (CURSO GERAIS),Ocupado,1899,212,63.49
+2010,441 - FÍSICA,Desocupado (procurando trabalho),433,32,2.22
+2010,441 - FÍSICA,Fora da força de trabalho,3614,275,18.52
+2010,441 - FÍSICA,Ocupado,15468,1237,79.26
+2010,442 - QUÍMICA,Desocupado (procurando trabalho),1266,109,2.69
+2010,442 - QUÍMICA,Fora da força de trabalho,7718,598,16.4
+2010,442 - QUÍMICA,Ocupado,38067,3222,80.91
+2010,443 - CIÊNCIA DA TERRA,Desocupado (procurando trabalho),2285,203,2.05
+2010,443 - CIÊNCIA DA TERRA,Fora da força de trabalho,22213,1929,19.89
+2010,443 - CIÊNCIA DA TERRA,Ocupado,87154,8755,78.06
+2010,461 - MATEMÁTICA,Desocupado (procurando trabalho),2535,232,1.53
+2010,461 - MATEMÁTICA,Fora da força de trabalho,27886,2516,16.8
+2010,461 - MATEMÁTICA,Ocupado,135557,14042,81.67
+2010,462 - ESTATÍSTICA,Desocupado (procurando trabalho),385,20,3.44
+2010,462 - ESTATÍSTICA,Fora da força de trabalho,2139,132,19.1
+2010,462 - ESTATÍSTICA,Ocupado,8674,541,77.46
+2010,481 - CIÊNCIA DA COMPUTAÇÃO,Desocupado (procurando trabalho),6178,441,2.93
+2010,481 - CIÊNCIA DA COMPUTAÇÃO,Fora da força de trabalho,17043,1215,8.08
+2010,481 - CIÊNCIA DA COMPUTAÇÃO,Ocupado,187726,13603,88.99
+2010,482 - USO DO COMPUTADOR,Desocupado (procurando trabalho),95,9,3.29
+2010,482 - USO DO COMPUTADOR,Fora da força de trabalho,118,11,4.08
+2010,482 - USO DO COMPUTADOR,Ocupado,2676,181,92.63
+2010,483 - PROCESSAMENTO DA INFORMAÇÃO,Desocupado (procurando trabalho),5292,385,3.12
+2010,483 - PROCESSAMENTO DA INFORMAÇÃO,Fora da força de trabalho,12019,869,7.09
+2010,483 - PROCESSAMENTO DA INFORMAÇÃO,Ocupado,152144,11161,89.78
+2010,520 - ENGENHARIA E PROFISSÕES DE ENGENHARIA (CURSOS GERAIS),Desocupado (procurando trabalho),5390,393,2.58
+2010,520 - ENGENHARIA E PROFISSÕES DE ENGENHARIA (CURSOS GERAIS),Fora da força de trabalho,29468,2040,14.12
+2010,520 - ENGENHARIA E PROFISSÕES DE ENGENHARIA (CURSOS GERAIS),Ocupado,173768,12310,83.29
+2010,521 - ENGENHARIA MECÂNICA E METALURGIA,Desocupado (procurando trabalho),2538,193,2.27
+2010,521 - ENGENHARIA MECÂNICA E METALURGIA,Fora da força de trabalho,13390,1009,11.98
+2010,521 - ENGENHARIA MECÂNICA E METALURGIA,Ocupado,95843,7154,85.75
+2010,522 - ELETRICIDADE E ENERGIA,Desocupado (procurando trabalho),2249,167,2.36
+2010,522 - ELETRICIDADE E ENERGIA,Fora da força de trabalho,11249,830,11.79
+2010,522 - ELETRICIDADE E ENERGIA,Ocupado,81885,5875,85.85
+2010,523 - ELETRÔNICA E AUTOMAÇÃO,Desocupado (procurando trabalho),3041,209,2.94
+2010,523 - ELETRÔNICA E AUTOMAÇÃO,Fora da força de trabalho,10452,711,10.12
+2010,523 - ELETRÔNICA E AUTOMAÇÃO,Ocupado,89796,6206,86.94
+2010,524 - QUÍMICA E ENGENHARIA DE PROCESSOS,Desocupado (procurando trabalho),1350,99,3.38
+2010,524 - QUÍMICA E ENGENHARIA DE PROCESSOS,Fora da força de trabalho,6612,450,16.56
+2010,524 - QUÍMICA E ENGENHARIA DE PROCESSOS,Ocupado,31972,2340,80.06
+2010,"525 - VEÍCULOS A MOTOR, CONSTRUÇÃO NAVAL E AERONÁUTICA",Desocupado (procurando trabalho),255,18,2.93
+2010,"525 - VEÍCULOS A MOTOR, CONSTRUÇÃO NAVAL E AERONÁUTICA",Fora da força de trabalho,1685,120,19.35
+2010,"525 - VEÍCULOS A MOTOR, CONSTRUÇÃO NAVAL E AERONÁUTICA",Ocupado,6769,488,77.72
+2010,540 - FABRICAÇÃO E PROCESSAMENTO (CURSOS GERAIS),Desocupado (procurando trabalho),101,8,4.41
+2010,540 - FABRICAÇÃO E PROCESSAMENTO (CURSOS GERAIS),Fora da força de trabalho,172,11,7.51
+2010,540 - FABRICAÇÃO E PROCESSAMENTO (CURSOS GERAIS),Ocupado,2018,145,88.08
+2010,541 - PROCESSAMENTO DE ALIMENTOS,Desocupado (procurando trabalho),1259,111,5.53
+2010,541 - PROCESSAMENTO DE ALIMENTOS,Fora da força de trabalho,3397,304,14.91
+2010,541 - PROCESSAMENTO DE ALIMENTOS,Ocupado,18128,1676,79.56
+2010,"542 - TÊXTEIS, ROUPAS, CALÇADOS, COURO",Desocupado (procurando trabalho),140,13,3.45
+2010,"542 - TÊXTEIS, ROUPAS, CALÇADOS, COURO",Fora da força de trabalho,486,40,11.97
+2010,"542 - TÊXTEIS, ROUPAS, CALÇADOS, COURO",Ocupado,3434,317,84.58
+2010,"543 - MATERIAIS (MADEIRA, PAPEL, PLÁSTICO, VIDRO)",Desocupado (procurando trabalho),150,13,2.92
+2010,"543 - MATERIAIS (MADEIRA, PAPEL, PLÁSTICO, VIDRO)",Fora da força de trabalho,405,31,7.89
+2010,"543 - MATERIAIS (MADEIRA, PAPEL, PLÁSTICO, VIDRO)",Ocupado,4575,369,89.18
+2010,544 - MINERAÇÃO E EXTRAÇÃO,Desocupado (procurando trabalho),794,60,6.75
+2010,544 - MINERAÇÃO E EXTRAÇÃO,Fora da força de trabalho,1396,110,11.86
+2010,544 - MINERAÇÃO E EXTRAÇÃO,Ocupado,9578,738,81.39
+2010,581 - ARQUITETURA E URBANISMO,Desocupado (procurando trabalho),2666,179,2.11
+2010,581 - ARQUITETURA E URBANISMO,Fora da força de trabalho,16664,1100,13.17
+2010,581 - ARQUITETURA E URBANISMO,Ocupado,107152,7232,84.72
+2010,582 - ENGENHARIA CIVIL E DE CONSTRUÇÃO,Desocupado (procurando trabalho),2795,189,1.49
+2010,582 - ENGENHARIA CIVIL E DE CONSTRUÇÃO,Fora da força de trabalho,22259,1551,11.85
+2010,582 - ENGENHARIA CIVIL E DE CONSTRUÇÃO,Ocupado,162759,11658,86.66
+2010,"620 - AGRICULTURA, SILVICULTURA, RECURSOS PESQUEIROS (CURSOS GERAIS)",Fora da força de trabalho,42,2,30.22
+2010,"620 - AGRICULTURA, SILVICULTURA, RECURSOS PESQUEIROS (CURSOS GERAIS)",Ocupado,97,9,69.78
+2010,621 - PRODUÇÃO AGRÍCOLA E PECUÁRIA,Desocupado (procurando trabalho),5185,549,3.73
+2010,621 - PRODUÇÃO AGRÍCOLA E PECUÁRIA,Fora da força de trabalho,19385,1932,13.96
+2010,621 - PRODUÇÃO AGRÍCOLA E PECUÁRIA,Ocupado,114310,12711,82.31
+2010,622 - HORTICULTURA,Fora da força de trabalho,19,2,16.67
+2010,622 - HORTICULTURA,Ocupado,95,11,83.33
+2010,623 - ENGENHARIA FLORESTAL – SILVICULTURA,Desocupado (procurando trabalho),522,46,5.75
+2010,623 - ENGENHARIA FLORESTAL – SILVICULTURA,Fora da força de trabalho,1202,111,13.25
+2010,623 - ENGENHARIA FLORESTAL – SILVICULTURA,Ocupado,7349,665,81
+2010,624 - RECURSO PESQUEIROS,Desocupado (procurando trabalho),252,18,6.93
+2010,624 - RECURSO PESQUEIROS,Fora da força de trabalho,482,39,13.25
+2010,624 - RECURSO PESQUEIROS,Ocupado,2904,218,79.82
+2010,641 - VETERINÁRIA,Desocupado (procurando trabalho),2606,218,3.49
+2010,641 - VETERINÁRIA,Fora da força de trabalho,10237,880,13.7
+2010,641 - VETERINÁRIA,Ocupado,61905,5769,82.82
+2010,720 - SAÚDE (CURSO GERAIS),Desocupado (procurando trabalho),5635,430,3.04
+2010,720 - SAÚDE (CURSO GERAIS),Fora da força de trabalho,23766,1901,12.81
+2010,720 - SAÚDE (CURSO GERAIS),Ocupado,156140,13120,84.15
+2010,721 - MEDICINA,Desocupado (procurando trabalho),1946,149,0.66
+2010,721 - MEDICINA,Fora da força de trabalho,29574,2077,10.04
+2010,721 - MEDICINA,Ocupado,263117,18960,89.3
+2010,723 - ENFERMAGEM E ATENÇÃO PRIMÁRIA,Desocupado (procurando trabalho),19347,1781,5.95
+2010,723 - ENFERMAGEM E ATENÇÃO PRIMÁRIA,Fora da força de trabalho,48623,4066,14.96
+2010,723 - ENFERMAGEM E ATENÇÃO PRIMÁRIA,Ocupado,256981,22330,79.08
+2010,724 - ODONTOLOGIA,Desocupado (procurando trabalho),2138,175,1.02
+2010,724 - ODONTOLOGIA,Fora da força de trabalho,27510,2100,13.11
+2010,724 - ODONTOLOGIA,Ocupado,180205,14895,85.87
+2010,725 - TECNOLOGIAS DE DIAGNÓSTICO E TRATAMENTO MÉDICO,Desocupado (procurando trabalho),1629,130,5.95
+2010,725 - TECNOLOGIAS DE DIAGNÓSTICO E TRATAMENTO MÉDICO,Fora da força de trabalho,4005,297,14.64
+2010,725 - TECNOLOGIAS DE DIAGNÓSTICO E TRATAMENTO MÉDICO,Ocupado,21730,1725,79.41
+2010,726 - TERAPIA E REABILITAÇÃO,Desocupado (procurando trabalho),13012,1072,4.73
+2010,726 - TERAPIA E REABILITAÇÃO,Fora da força de trabalho,39518,2933,14.36
+2010,726 - TERAPIA E REABILITAÇÃO,Ocupado,222732,17333,80.92
+2010,727 - FARMÁCIA,Desocupado (procurando trabalho),4426,401,3.16
+2010,727 - FARMÁCIA,Fora da força de trabalho,19045,1579,13.62
+2010,727 - FARMÁCIA,Ocupado,116405,10646,83.22
+2010,761 - ATENDIMENTO À CRIANÇA E SERVIÇOS AOS JOVENS,Fora da força de trabalho,41,2,68.33
+2010,761 - ATENDIMENTO À CRIANÇA E SERVIÇOS AOS JOVENS,Ocupado,19,5,31.67
+2010,762 - SERVIÇO SOCIAL E ORIENTAÇÃO,Desocupado (procurando trabalho),6342,533,4.27
+2010,762 - SERVIÇO SOCIAL E ORIENTAÇÃO,Fora da força de trabalho,31994,2405,21.56
+2010,762 - SERVIÇO SOCIAL E ORIENTAÇÃO,Ocupado,110025,9586,74.16
+2010,"811 - HOTELARIA, RESTAURANTES E SERVIÇOS DE ALIMENTAÇÃO",Desocupado (procurando trabalho),2291,170,6.1
+2010,"811 - HOTELARIA, RESTAURANTES E SERVIÇOS DE ALIMENTAÇÃO",Fora da força de trabalho,6246,435,16.64
+2010,"811 - HOTELARIA, RESTAURANTES E SERVIÇOS DE ALIMENTAÇÃO",Ocupado,28996,2063,77.25
+2010,"812 - VIAGENS, TURISMO E LAZER",Desocupado (procurando trabalho),6638,469,6.29
+2010,"812 - VIAGENS, TURISMO E LAZER",Fora da força de trabalho,15803,1112,14.97
+2010,"812 - VIAGENS, TURISMO E LAZER",Ocupado,83152,6057,78.75
+2010,813 - ESPORTES,Desocupado (procurando trabalho),9,1,0.51
+2010,813 - ESPORTES,Fora da força de trabalho,328,29,18.68
+2010,813 - ESPORTES,Ocupado,1419,115,80.81
+2010,814 - CIÊNCIAS DOMÉSTICAS,Desocupado (procurando trabalho),195,17,3.41
+2010,814 - CIÊNCIAS DOMÉSTICAS,Fora da força de trabalho,1794,144,31.35
+2010,814 - CIÊNCIAS DOMÉSTICAS,Ocupado,3733,324,65.24
+2010,815 - SERVIÇOS DE BELEZA,Desocupado (procurando trabalho),483,42,3.99
+2010,815 - SERVIÇOS DE BELEZA,Fora da força de trabalho,1645,133,13.58
+2010,815 - SERVIÇOS DE BELEZA,Ocupado,9986,796,82.43
+2010,840 - SERVIÇOS DE TRANSPORTES (CURSO GERAIS),Desocupado (procurando trabalho),293,19,2.61
+2010,840 - SERVIÇOS DE TRANSPORTES (CURSO GERAIS),Fora da força de trabalho,1502,107,13.35
+2010,840 - SERVIÇOS DE TRANSPORTES (CURSO GERAIS),Ocupado,9452,650,84.04
+2010,85 - NÃO SABE E SUPERIOR NÃO ESPECIFICADO,Desocupado (procurando trabalho),9641,854,2.73
+2010,85 - NÃO SABE E SUPERIOR NÃO ESPECIFICADO,Fora da força de trabalho,56594,5038,16.01
+2010,85 - NÃO SABE E SUPERIOR NÃO ESPECIFICADO,Ocupado,287254,27955,81.26
+2010,850 - PROTEÇÃO AMBIENTAL (CURSO GERAIS),Desocupado (procurando trabalho),1730,161,4.96
+2010,850 - PROTEÇÃO AMBIENTAL (CURSO GERAIS),Fora da força de trabalho,3095,311,8.87
+2010,850 - PROTEÇÃO AMBIENTAL (CURSO GERAIS),Ocupado,30058,2946,86.17
+2010,851 - TECNOLOGIA DE PROTEÇÃO AMBIENTAL,Desocupado (procurando trabalho),7,1,3.23
+2010,851 - TECNOLOGIA DE PROTEÇÃO AMBIENTAL,Fora da força de trabalho,36,2,16.59
+2010,851 - TECNOLOGIA DE PROTEÇÃO AMBIENTAL,Ocupado,174,19,80.18
+2010,852 - AMBIENTES NATURAIS E VIDA SELVAGEM,Ocupado,31,3,100
+2010,853 - SERVIÇOS COMUNITÁRIOS DE SANEAMENTO,Desocupado (procurando trabalho),27,2,2.8
+2010,853 - SERVIÇOS COMUNITÁRIOS DE SANEAMENTO,Fora da força de trabalho,132,8,13.68
+2010,853 - SERVIÇOS COMUNITÁRIOS DE SANEAMENTO,Ocupado,806,71,83.52
+2010,860 - SERVIÇOS DE SEGURANÇA (CURSO GERAIS),Desocupado (procurando trabalho),31,1,8.01
+2010,860 - SERVIÇOS DE SEGURANÇA (CURSO GERAIS),Fora da força de trabalho,13,1,3.36
+2010,860 - SERVIÇOS DE SEGURANÇA (CURSO GERAIS),Ocupado,343,20,88.63
+2010,861 - PROTEÇÃO DE PESSOAS E PROPRIEDADES,Desocupado (procurando trabalho),136,11,0.93
+2010,861 - PROTEÇÃO DE PESSOAS E PROPRIEDADES,Fora da força de trabalho,1955,158,13.42
+2010,861 - PROTEÇÃO DE PESSOAS E PROPRIEDADES,Ocupado,12474,912,85.64
+2010,862 - SAÚDE E SEGURANÇA DO TRABALHO,Desocupado (procurando trabalho),526,42,4.84
+2010,862 - SAÚDE E SEGURANÇA DO TRABALHO,Fora da força de trabalho,1179,100,10.86
+2010,862 - SAÚDE E SEGURANÇA DO TRABALHO,Ocupado,9153,807,84.3
+2010,863 - SETOR MILITAR E DE DEFESA,Desocupado (procurando trabalho),73,6,0.41
+2010,863 - SETOR MILITAR E DE DEFESA,Fora da força de trabalho,5290,356,29.82
+2010,863 - SETOR MILITAR E DE DEFESA,Ocupado,12377,837,69.77
+2010,Curso não informado,Desocupado (procurando trabalho),11699,842,1.49
+2010,Curso não informado,Fora da força de trabalho,105402,7393,13.43
+2010,Curso não informado,Ocupado,667646,46189,85.08
+2022,Não disponível no microdado público de 2022,Desocupado (procurando trabalho),568744,44227,2.2
+2022,Não disponível no microdado público de 2022,Fora da força de trabalho,5419701,448544,20.94
+2022,Não disponível no microdado público de 2022,Ocupado,19888228,1668573,76.86

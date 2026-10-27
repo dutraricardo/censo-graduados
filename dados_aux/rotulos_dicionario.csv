@@ -1,0 +1,1565 @@
+ano,variavel,codigo,rotulo
+1960,V214,0,Sem Curso Completo
+1960,V214,10,Primário/Elementar
+1960,V214,11,Comercial - Elementar
+1960,V214,13,Saúde e Serviços Sanitários - Elementar
+1960,V214,14,Militar Elementar - Elementar
+1960,V214,15,Agricultura e Pecuária - Elementar
+1960,V214,16,Emendativo - Elementar
+1960,V214,17,Industrial - Elementar
+1960,V214,19,Outros - Elementar
+1960,V214,20,Ginasial
+1960,V214,21,Comercial - 1º Grau / Médio 1º Ciclo
+1960,V214,22,Normal/Pedagógico - 1º Grau / Médio 1º Ciclo
+1960,V214,24,Militar - 1º Grau / Médio 1º Ciclo
+1960,V214,25,Agricultura e Pecuária - 1º Grau / Médio 1º Ciclo
+1960,V214,26,Emendativo - 1º Grau / Médio 1º Ciclo
+1960,V214,27,Industrial - 1º Grau / Médio 1º Ciclo
+1960,V214,29,Outros - 1º Grau / Médio 1º Ciclo
+1960,V214,33,Serviços Sanitários - 1º Grau / Médio 1º Ciclo
+1960,V214,34,Militar Médio - 1º Grau / Médio 1º Ciclo
+1960,V214,36,Educação Física - 1º Grau / Médio 1º Ciclo
+1960,V214,38,Eclesiástico - 1º Grau / Médio 1º Ciclo
+1960,V214,39,Outros Níveis Médios (1º Grau / Médio 1º Ciclo)
+1960,V214,40,Colegial/Científico
+1960,V214,41,Comercial - 2º Grau
+1960,V214,42,Normal/Pedagógico - 2º Grau
+1960,V214,44,Militar - 2º Grau
+1960,V214,45,Agricultura e Pecuária - 2º Grau
+1960,V214,47,Industrial - 2º Grau
+1960,V214,49,Outros - 2º Grau
+1960,V214,50,Geografia e História - Superior
+1960,V214,51,História Natural - Superior
+1960,V214,52,Letras - Superior
+1960,V214,53,"Matemática, Física, Química, Desenho - Superior"
+1960,V214,54,"Outros Cursos Superiores (Pedagogia, Filosofia, Ciências Sociais, Teologia)"
+1960,V214,57,Belas Artes - Superior
+1960,V214,60,Medicina - Superior
+1960,V214,61,Farmácia - Superior
+1960,V214,62,Odontologia - Superior
+1960,V214,63,Veterinária - Superior
+1960,V214,64,Engenharia - Superior
+1960,V214,65,Arquitetura - Superior
+1960,V214,66,Química Industrial - Superior
+1960,V214,67,Direito - Superior
+1960,V214,68,Agronomia - Superior
+1960,V214,70,Ciências Econômicas - Superior
+1960,V214,71,Estatística - Superior
+1960,V214,72,Artes Domésticas - Superior
+1960,V214,73,"Saúde, Enfermagem e Serviços Sanitários - Superior"
+1960,V214,74,Militar - Superior
+1960,V214,76,Educação Física - Superior
+1960,V214,78,Eclesiástico - Superior (Teologia e Filosofia para formação eclesiástica)
+1960,V214,79,"Outros - Nível Superior (Adm. Pública, Música, Jornalismo, Museologia etc)"
+1960,V214,89,Curso com grau não especificado
+1960,V214,99,Ignorado
+1960,V223B,111,Cultura de agave ou sisal
+1960,V223B,112,Cultura de algodão
+1960,V223B,113,Cultura de arroz
+1960,V223B,114,Cultura de banana
+1960,V223B,115,Cultura de cacau
+1960,V223B,116,Cultura de café
+1960,V223B,117,Cultura de cana
+1960,V223B,118,Cultura de fumo
+1960,V223B,119,Cultura de trigo
+1960,V223B,120,Outras culturas não compreendidas nas classes anteriores
+1960,V223B,121,Fruticultura (exclusive banana)
+1960,V223B,122,Horticultura e floricultura
+1960,V223B,123,Silvicultura
+1960,V223B,129,Atividades agrícolas mal definidas
+1960,V223B,151,Pecuária
+1960,V223B,152,Avicultura e cunicultura
+1960,V223B,153,Apicultura e sericicultura
+1960,V223B,191,Agropecuária
+1960,V223B,211,Extração de borracha e gomas não elásticas
+1960,V223B,212,Extração de erva-mate
+1960,V223B,213,Extração de plantas fibrosas
+1960,V223B,214,Extração de frutos e sementes oleaginosas e caras
+1960,V223B,215,Extração de madeiras
+1960,V223B,216,Produção de carvão vegetal
+1960,V223B,219,Atividades não compreendidas nas classes anteriores ou mal definidas
+1960,V223B,251,"Extração e beneficiamento de minerais metálicos e não metálicos (exclusive petróleo, gás natural e carvão de pedra)"
+1960,V223B,252,Extração e aparelhamento de pedras e outros materiais de construção
+1960,V223B,253,Extração de petróleo e gás natural
+1960,V223B,254,Extração de carvão de pedra
+1960,V223B,255,Exploração de salinas e fontes hidrominerais
+1960,V223B,256,Faiscação e garimpagem
+1960,V223B,259,Atividades não compreendidas nas classes anteriores ou mal definidas
+1960,V223B,291,Caça
+1960,V223B,292,Pesca e Piscicultura
+1960,V223B,311,Indústrias metalúrgicas
+1960,V223B,312,Indústrias mecânicas
+1960,V223B,313,Indústrias de material elétrico e de material de comunicações
+1960,V223B,314,Indústrias de material de transportes (construção e montagem)
+1960,V223B,315,Indústrias de minerais não metálicos (exclusive combustíveis minerais)
+1960,V223B,316,Indústrias da borracha
+1960,V223B,317,Indústrias do fumo
+1960,V223B,318,Indústrias de papel e papelão
+1960,V223B,321,Indústrias do mobiliário (inclusive colchoarias)
+1960,V223B,322,Indústrias de madeira
+1960,V223B,323,"Indústrias de couro, peles e produtos similares (exclusive artigos do vestuário e calçados)"
+1960,V223B,324,Indústrias farmacêuticas
+1960,V223B,325,Indústrias de plásticos
+1960,V223B,326,Indústrias químicas
+1960,V223B,327,Indústrias de produtos derivados do petróleo e do carvão (exclusive produção de gás de iluminação)
+1960,V223B,328,Indústrias têxteis
+1960,V223B,331,Indústrias domiciliárias têxteis
+1960,V223B,332,Indústrias domiciliárias de artigos de palha
+1960,V223B,333,indústrias do vestuário
+1960,V223B,334,Indústrias do calçado
+1960,V223B,335,Indústrias de produtos alimentares e estimulantes
+1960,V223B,336,Indústrias de bebidas e álcoois
+1960,V223B,337,Indústrias editoriais e gráficas
+1960,V223B,339,Atividades não compreendidas nas classes anteriores ou mal definidas
+1960,V223B,351,Construção civil
+1960,V223B,391,Produção de energia elétrica e gás
+1960,V223B,392,Abastecimento de água e serviços de esgoto
+1960,V223B,411,Comércio de animais vivos e matérias-primas (exclusive aves para alimentação)
+1960,V223B,412,"Comércio de géneros alimentícios, bebidas e estimulantes"
+1960,V223B,413,"Comércio de tecidos e produtos afins, calçados, artigos do vestuário e armarinho"
+1960,V223B,414,"Comércio de móveis, tapeçarias, objetos de arte e ornamentação"
+1960,V223B,415,"Comércio de papel, impressos e artigos de escritório"
+1960,V223B,416,"Comércio de ferragens, louças, materiais de construção e produtos metalúrgicos"
+1960,V223B,417,"Comércio de máquinas, aparelhos, instrumentos, material elétrico, veículos e acessórios"
+1960,V223B,418,Comércio de produtos farmacêuticos
+1960,V223B,421,Comércio de combustíveis e lubrificantes
+1960,V223B,422,Comércio ambulante
+1960,V223B,423,Feiras e mercados
+1960,V223B,424,Atividades auxiliares do comércio
+1960,V223B,429,Atividades não compreendidas nas classes anteriores ou mal definidas
+1960,V223B,451,Comércio de imóveis
+1960,V223B,452,Comércio de títulos e moedas
+1960,V223B,453,Bancos e casas bancárias
+1960,V223B,454,Caixas econômicas e cooperativas de credito
+1960,V223B,455,Seguros e capitalização
+1960,V223B,459,Atividades não compreendidas nas classes anteriores ou mal definidas
+1960,V223B,511,Serviços de alojamento e de alimentação
+1960,V223B,512,Serviços de higiene pessoal
+1960,V223B,513,"Serviços de confecção, conservação e reparação de artigos de uso pessoal"
+1960,V223B,514,"Serviços de conservação, reparação e ornamentação de habitações e locais de trabalho"
+1960,V223B,515,"Serviços de conservação, reparação e instalação de máquinas e veículos"
+1960,V223B,516,"Serviços de diversões (espetáculos, radiodifusão, televisão e desportos)"
+1960,V223B,517,Serviços domésticos remunerados
+1960,V223B,518,Serviços de administração e conservação de edifícios
+1960,V223B,519,Atividades não compreendidas nas classes anteriores ou mal definidas
+1960,V223B,611,Transportes à tração e condução animal
+1960,V223B,612,Transportes rodoviários por veículos motorizados
+1960,V223B,613,Transportes urbanos de ferro-carril
+1960,V223B,614,Transportes ferroviários
+1960,V223B,615,"Transportes marítimos, fluviais e lacustres"
+1960,V223B,616,Serviços portuários
+1960,V223B,617,Transportes aéreos
+1960,V223B,618,"Serviços postais, telegráficos e de radiocomunicações"
+1960,V223B,621,Telefones
+1960,V223B,622,Armazenagem
+1960,V223B,629,Atividades não compreendidas nas classes anteriores ou mal definidas
+1960,V223B,711,Ensino público
+1960,V223B,712,Ensino particular
+1960,V223B,713,Assistência médico-hospitalar pública
+1960,V223B,714,Assistência médico-hospitalar particular
+1960,V223B,715,"Saneamento, abastecimento e melhoramentos urbanos (exclusive abastecimento de água e serviços de esgoto)"
+1960,V223B,716,Previdencia Social
+1960,V223B,717,Assistência e beneficência
+1960,V223B,718,Culto e atividades auxiliares
+1960,V223B,721,Instituições culturais
+1960,V223B,722,Sindicatos e associações de classe
+1960,V223B,729,Atividades não compreendidas nas classes anteriores ou mal definidas
+1960,V223B,751,Advocacia e atividades auxiliares
+1960,V223B,752,"Engenharia, arquitetura e atividades auxiliares"
+1960,V223B,753,Odontologia e atividades auxiliares
+1960,V223B,754,"Agronomias, veterinária e atividades auxiliares"
+1960,V223B,755,Medicina e atividades auxiliares
+1960,V223B,756,"Ciências, letras, artes e atividades auxiliares"
+1960,V223B,757,Contabilidade e atividades auxiliares
+1960,V223B,759,Atividades não compreendidas nas classes anteriores ou mal definidas
+1960,V223B,811,Poder legislativo
+1960,V223B,812,Justiça e atividades auxiliares
+1960,V223B,813,Serviço administrativo federal
+1960,V223B,814,Serviço administrativo estadual
+1960,V223B,815,Serviço administrativo municipal
+1960,V223B,816,Serviço administrativo autárquico
+1960,V223B,819,Atividades não compreendidas nas classes anteriores ou mal definidas
+1960,V223B,851,Exército
+1960,V223B,852,Marinha de Guerra
+1960,V223B,853,Aviação Militar
+1960,V223B,854,Policia Militar
+1960,V223B,855,Policia Civil
+1960,V223B,856,Corpo de Bombeiros
+1960,V223B,859,Outras organizações de segurança
+1960,V223B,911,Representações estrangeiras
+1960,V223B,912,Outras atividades não compreendidas nos demais ramos
+1960,V223B,919,Atividades mal definidas ou não declaradas
+1970,V039,0,sem declaração
+1970,V039,10,primário
+1970,V039,11,agrícola elementar
+1970,V039,12,comercial elementar
+1970,V039,19,industrial elementar
+1970,V039,21,militar elementar
+1970,V039,22,normal elementar
+1970,V039,27,outros elementar
+1970,V039,28,emendativo elementar
+1970,V039,30,ginasial
+1970,V039,31,agrícola 1º ciclo
+1970,V039,32,comercial 2º ciclo
+1970,V039,34,eclesiástico 1º ciclo
+1970,V039,35,educação física 1º ciclo
+1970,V039,36,enfermagem 1º ciclo
+1970,V039,39,industrial 1º ciclo
+1970,V039,41,militar 1º ciclo
+1970,V039,42,normal 1º ciclo
+1970,V039,47,outros 1º ciclo
+1970,V039,48,emendativo 1º ciclo
+1970,V039,50,colegial
+1970,V039,51,agrícola 2º ciclo
+1970,V039,52,comercial 2º ciclo
+1970,V039,53,belas artes 2º ciclo
+1970,V039,54,eclesiástico 2º ciclo
+1970,V039,55,educação física 2º ciclo
+1970,V039,56,enfermagem 2º ciclo
+1970,V039,58,estatística 2º ciclo
+1970,V039,59,industrial 2º ciclo
+1970,V039,61,militar 2º ciclo
+1970,V039,62,normal 2º ciclo
+1970,V039,65,serviço social 2º ciclo
+1970,V039,67,outros 2º ciclo
+1970,V039,70,administração
+1970,V039,71,agronomia
+1970,V039,72,arquitetura
+1970,V039,73,belas artes superior
+1970,V039,74,ciências sociais
+1970,V039,75,filosofia
+1970,V039,76,geografia ou história
+1970,V039,77,história natural
+1970,V039,78,letras
+1970,V039,79,matemática
+1970,V039,80,pedagogia
+1970,V039,81,contabilidade ou atuária
+1970,V039,82,economia
+1970,V039,83,direito
+1970,V039,84,eclesiástico superior
+1970,V039,85,educação física superior
+1970,V039,86,enfermagem superior
+1970,V039,87,engenharia
+1970,V039,88,estatística superior
+1970,V039,89,farmácia ou bioquímica
+1970,V039,90,medicina
+1970,V039,91,militar superior
+1970,V039,92,odontologia
+1970,V039,93,psicologia
+1970,V039,94,química industrial
+1970,V039,95,serviço social superior
+1970,V039,96,veterinária
+1970,V039,97,outros superiores
+1970,V039,98,grau indeterminado
+1970,V039,99,nenhum
+1970,V045,0,não aplicável
+1970,V045,111,cultura de agave
+1970,V045,112,cultura de algodão
+1970,V045,113,cultura de arroz
+1970,V045,114,cultura de banana
+1970,V045,115,cultura de cacau
+1970,V045,116,cultura de café
+1970,V045,117,cultura de cana-de-açúcar
+1970,V045,118,cultura de fumo
+1970,V045,119,cultura de trigo
+1970,V045,120,horticultura e floricultura
+1970,V045,121,silvicultura
+1970,V045,122,outras culturas
+1970,V045,123,pecuária
+1970,V045,124,avicultura e cunicultura
+1970,V045,125,apicultura e sericultura
+1970,V045,126,"outras classes e classe mal defefinida (AGRICULTURA, PECUÁRIA E SILVICULTURA)"
+1970,V045,211,extração da borracha e goma elástica
+1970,V045,212,extração de erva-mate
+1970,V045,213,extração de plantas fibrosas
+1970,V045,214,extração de frutos e sementes oleagenosas e ceras
+1970,V045,215,extração de madeira
+1970,V045,216,produção de carvão vegetal
+1970,V045,217,outras classes e classe mal definida (EXTRAÇÃO VEGETAL)
+1970,V045,221,caça
+1970,V045,222,pesca e piscicultura
+1970,V045,223,frente de trabalho
+1970,V045,301,extração e aparelhamento de pedras e outros materiais de construção
+1970,V045,302,extração de petróleo e gás natural
+1970,V045,303,extração de carvão-de-pedra
+1970,V045,304,exploração de salinas e fontes hidrominerais
+1970,V045,305,faiscação e garimpagem
+1970,V045,306,extração e beneficiamento de outros minerais
+1970,V045,311,industria metalúrgica
+1970,V045,312,indústria mecânica
+1970,V045,313,indústria de material elétrico e de comunicações
+1970,V045,314,"indústria de material de transporte, inclusive montagem e reparação"
+1970,V045,315,"indústria de minerais não metálicos, exclusive combustíveis minerais"
+1970,V045,316,indústria da borracha
+1970,V045,317,indústria de fumo
+1970,V045,318,indústria de papel e papelão
+1970,V045,319,indústria de mobiliário
+1970,V045,320,indústria de madeira
+1970,V045,321,"indústria de couro, peles e produtos similares, exclusive artigos do vestuário e calçados"
+1970,V045,322,indústria de produtos farmacêuticos e medicinais
+1970,V045,323,indústria de materiais plásticos
+1970,V045,324,indústria química
+1970,V045,325,"indústria de produtos derivados do petróleo e carvão, exclusive gás de iluminação"
+1970,V045,326,indústria têxtil
+1970,V045,327,indústria domiciliárias têxteis
+1970,V045,328,indústria domiciliárias de artigos de palha
+1970,V045,329,indústria do vestuário
+1970,V045,330,indústria do calçado
+1970,V045,331,indústria de produtos alimentares
+1970,V045,332,indústria de bebidas e álcoois
+1970,V045,333,indústria editorial e gráfica
+1970,V045,334,outras classes e classe mal definida (INDÚSTRIAS DE TRANSFORMAÇÃO)
+1970,V045,341,edificações
+1970,V045,342,rodo-ferrovias
+1970,V045,351,produção e distribuição de energia elétrica e gás
+1970,V045,352,abastecimento de água e serviço de esgoto
+1970,V045,411,comércio de produtos agropecuários e extrativos (exclusive aves para alimentação)
+1970,V045,412,"comércio de gêneros alimentícios e bebidas, sem alimentação"
+1970,V045,413,"comércio de gêneros alimentícios e bebidas, com alimentação"
+1970,V045,414,"comércio de tecidos e artefatos de tecidos, artigos do vestuário e armarinho"
+1970,V045,415,"comércio de móveis, tapeçarias, objetos de arte e ornamentação"
+1970,V045,416,"comércio de papel, impressos e artigos de escritório"
+1970,V045,417,"comércio de ferragens, louças, materiais de contrução e produtos metalúrgicos"
+1970,V045,418,"comércio de máquinas, aparelhos, instrumentos, material elétrico, veículos e acessórios"
+1970,V045,419,comércio de produtos farmacêuticos e medicinais
+1970,V045,420,comércio de combustíveis e lubrificantes
+1970,V045,421,comércio ambulante
+1970,V045,422,feiras e mercados
+1970,V045,423,atividades auxiliares do comércio de mercadorias
+1970,V045,424,outras classes e classe mal definida (COMÉRCIO DE MERCADORIAS)
+1970,V045,511,serviço de alojamento
+1970,V045,512,serviço de alimentação
+1970,V045,513,serviço de higiene pessoal
+1970,V045,514,"serviço de confecções sob medida, conservação e reparação de artigos do vestuário"
+1970,V045,515,"serviço de conservação, reparação e instalação de máquinas e veículos"
+1970,V045,516,serviço de diversão
+1970,V045,517,serviço doméstico
+1970,V045,518,serviço de conservação de edifícios
+1970,V045,519,outras classes e classe mal definida (PRESTAÇÃO DE SERVIÇOS)
+1970,V045,611,transporte à tração e condução animal
+1970,V045,612,transporte rodoviário
+1970,V045,613,transporte ferroviário
+1970,V045,614,"transporte marítimo, fluvial e lacustre"
+1970,V045,615,serviço portuário
+1970,V045,616,transporte aéreo
+1970,V045,617,"serviço postal, telegráfico e de radiocomunicação"
+1970,V045,618,telefone
+1970,V045,619,armazenagem
+1970,V045,620,"outras classes e classe mal definida (TRANSPORTES, COMUNICAÇÕES E ARMAZENAGEM)"
+1970,V045,711,ensino público
+1970,V045,712,ensino particular
+1970,V045,713,assistência médico-hospitalar pública
+1970,V045,714,assistência médico-hospitalar particular
+1970,V045,715,"saneamento, abastecimento e melhoramentos urbanos, exclusive abastecimento de água, eletricidade, gás e serviço de esgoto"
+1970,V045,716,previdência social
+1970,V045,717,assistência e beneficiência
+1970,V045,718,culto e atividades auxiliares
+1970,V045,719,instituições culturais
+1970,V045,720,sindicatos e associações de classe
+1970,V045,721,outras classes e classe mal definida (ATIVIDADES SOCIAIS)
+1970,V045,811,poder legislativo
+1970,V045,812,justiça e atividades auxiliares
+1970,V045,813,serviço administrativo federal
+1970,V045,814,serviço administrativo estadual
+1970,V045,815,serviço administrativo municipal
+1970,V045,816,serviço administrativo autárquico
+1970,V045,817,"outras classes e classe mal definida (SERVIÇOS ADMINISTRATIVOS GOVERNAMENTAIS, LEGISLATIVO, JUSTIÇA)"
+1970,V045,821,exército
+1970,V045,822,marinha de guerra
+1970,V045,823,aeronáutica
+1970,V045,824,polícia militar
+1970,V045,825,polícia civil
+1970,V045,826,corpo de bombeiros
+1970,V045,827,outras organizações de segurança
+1970,V045,911,comércio de imóveis
+1970,V045,912,comércio de títulos e moedas
+1970,V045,913,bancos e casas bancárias
+1970,V045,914,caixas econômicas e cooperativas de crédito
+1970,V045,915,seguros e capitalização
+1970,V045,916,"outras classes e classe mal definida (COMÉRCIO DE IMÓVEIS E VALORES MOBILIÁRIOS, CRÉDITOS, SEGUROS E CAPITALIZAÇÃO)"
+1970,V045,921,advocacia e atividades auxiliares
+1970,V045,922,"engenharia, arquitetura e atividades auxiliares"
+1970,V045,923,odontologia e atividades auxiliares
+1970,V045,924,"agronomia, veterinária e atividades auxiliares"
+1970,V045,925,medicina e atividades auxiliares
+1970,V045,926,"ciências, letras, artes e atividades auxiliares"
+1970,V045,927,contabilidade e atividades auxiliares
+1970,V045,928,outros profissionais liberais e atividades auxiliares
+1970,V045,931,representações estrangeiras
+1970,V045,932,outras atividades
+1970,V045,933,procurando trabalho pela 1ª vez
+1970,V045,934,"atividades mal definidas e atividades não declaradas (ATIVIDADES NÃO COMPREENDIDAS NOS DEMAIS RAMOS, MAL DEFINIDAS OU NÃO DECLARADAS)"
+1980,V525,0,sem curso concluído
+1980,V525,1,primário
+1980,V525,2,educação especial
+1980,V525,3,agrícola elementar
+1980,V525,4,comercial elementar
+1980,V525,5,artesanal elementar
+1980,V525,6,saúde elementar
+1980,V525,7,militar elementar
+1980,V525,8,outros elementares
+1980,V525,10,1º grau
+1980,V525,11,especial - 1º grau
+1980,V525,12,agrícola - 1º ciclo
+1980,V525,13,administração - 1º ciclo
+1980,V525,14,contabilidade - 1º ciclo
+1980,V525,15,básico comercial
+1980,V525,16,eletricidade - 1º grau
+1980,V525,17,mecânica - 1º ciclo
+1980,V525,18,artesanato básico
+1980,V525,19,enfermagem - 1º ciclo
+1980,V525,20,farmácia - 1º grau
+1980,V525,21,militar - 1º ciclo
+1980,V525,22,normal - 1º ciclo
+1980,V525,23,outros - 1º grau
+1980,V525,24,colegial
+1980,V525,25,educação especial - 2º grau
+1980,V525,26,agrícola - 2º ciclo
+1980,V525,27,administração - 2º grau
+1980,V525,28,contabilidade - 2º ciclo
+1980,V525,29,estatística - 2º grau
+1980,V525,30,secretariado - 2º grau
+1980,V525,31,comercial - 2º ciclo
+1980,V525,32,desenho - 2º grau
+1980,V525,33,eletricidade - 2º grau
+1980,V525,34,mecânica - 2º grau
+1980,V525,35,química - 2º grau
+1980,V525,36,industrial - 2º ciclo
+1980,V525,37,enfermagem - 2º ciclo
+1980,V525,38,patologia - 2º ciclo
+1980,V525,39,nutrição - 2º grau
+1980,V525,40,militar - 2º ciclo
+1980,V525,41,normal - 2º grau
+1980,V525,42,outros - 2º ciclo
+1980,V525,43,biologia - superior
+1980,V525,44,educação física - superior
+1980,V525,45,enfermagem - superior
+1980,V525,46,farmácia - superior
+1980,V525,47,medicina - superior
+1980,V525,48,dentista
+1980,V525,49,nutrição - superior
+1980,V525,50,arquitetura - superior
+1980,V525,51,ciências - bacharelado
+1980,V525,52,computação - bacharelado
+1980,V525,53,engenharia - superior
+1980,V525,54,eletricidade - superior
+1980,V525,55,engenharia - superior
+1980,V525,56,química - superior
+1980,V525,57,topografia - superior
+1980,V525,58,estatística - superior
+1980,V525,59,física - bacharelado
+1980,V525,60,geologia - superior
+1980,V525,61,matemática - bacharelado
+1980,V525,62,química - bacharelado
+1980,V525,63,astronomia - superior
+1980,V525,64,agrícola - superior
+1980,V525,65,veterinária - superior
+1980,V525,66,agrimensura - superior
+1980,V525,67,administração - superior
+1980,V525,68,biblioteconomia - superior
+1980,V525,69,contabilidade - superior
+1980,V525,70,economia - superior
+1980,V525,71,antropologia - superior
+1980,V525,72,comunicação - superior
+1980,V525,73,direito - superior
+1980,V525,74,filosofia - bacharelado
+1980,V525,75,geografia - bacharelado
+1980,V525,76,história - bacharelado
+1980,V525,77,educação - superior
+1980,V525,78,psicologia - bacharelado
+1980,V525,79,serviço social - superior
+1980,V525,80,sacerdote - superior
+1980,V525,81,museologia - superior
+1980,V525,82,lingüística - superior
+1980,V525,83,belas artes - superior
+1980,V525,84,academia militar
+1980,V525,85,diplomacia - superior
+1980,V525,86,medicina - mestrado
+1980,V525,87,biologia - mestrado
+1980,V525,88,engenharia - mestrado
+1980,V525,89,computação - mestrado
+1980,V525,90,agronomia - mestrado
+1980,V525,91,administração - mestrado
+1980,V525,92,economia - mestrado
+1980,V525,93,direito - mestrado
+1980,V525,94,educação - mestrado
+1980,V525,95,biblioteconomia - mestrado
+1980,V525,96,artes - mestrado
+1980,V525,99,ignorado
+1980,V532,11,Cultura de agave
+1980,V532,12,Cultura de algodão
+1980,V532,13,Cultura de arroz
+1980,V532,14,Cultura da banana
+1980,V532,15,Cultura de cacau
+1980,V532,16,Cultura de café
+1980,V532,17,Cultura de cana-de-açúcar
+1980,V532,18,Cultura de fumo
+1980,V532,19,Cultura de mandioca
+1980,V532,20,Cultura de milho
+1980,V532,21,Cultura de soja
+1980,V532,22,Cultura de trigo
+1980,V532,23,Horticultura e floricultura
+1980,V532,24,Silvicultura
+1980,V532,25,Culturas não discriminadas anteriormente
+1980,V532,26,Pecuária
+1980,V532,27,Avicultura
+1980,V532,28,Apicultura e sericultura
+1980,V532,29,Atividades não compreendidas nas classes anteriores ou mal definidas
+1980,V532,31,Extração da borracha e gomas elásticas
+1980,V532,32,Extração de erva-mate
+1980,V532,33,Extração de plantas fibrosas
+1980,V532,34,Extração de frutos; sementes oleaginosas e ceras
+1980,V532,35,Extração de madeiras
+1980,V532,36,Produção de carvão vegetal
+1980,V532,37,Atividades não compreendidas nas classes anteriores ou mal definidas
+1980,V532,41,Pesca
+1980,V532,42,Piscicultura
+1980,V532,50,Extração e aparelhamento de pedras e outros materiais de construção
+1980,V532,51,Extração de petróleo e gás natural
+1980,V532,52,Extração de carvão-de-pedra
+1980,V532,53,Exploração de salinas e fontes hidrominerais
+1980,V532,54,Faiscação e garimpagem de minerais não metálicos
+1980,V532,55,Faiscasção e garimpagem de minerais metálicos
+1980,V532,56,Extração de minerais radioativos
+1980,V532,57,Extração de minerais não metálicos (exceto os compreendidos em outras classes)
+1980,V532,58,Extração de minerais metálicos (exceto os compreendidos em outras classes)
+1980,V532,59,Atividades não compreendidas nas classes anteriores ou mal definidas
+1980,V532,100,Industrias de transformação de minerais não metálicos (exclusive combustíveis minerais)
+1980,V532,110,Indústrias metalúrgicas
+1980,V532,120,Indústrias mecânicas
+1980,V532,130,Indústrias de material elétrico e de comunicações
+1980,V532,140,Indústrias de material de transporte
+1980,V532,150,Indústrias de madeira
+1980,V532,151,Indústrias domiciliares de artigos de palha
+1980,V532,160,Indústrias do mobiliário
+1980,V532,170,Indústrias do papel e papelão
+1980,V532,180,Indústrias da borracha
+1980,V532,190,Indústrias de couro; peles e similares (exclusive artigos do vestuário e calçados)
+1980,V532,200,Indústrias químicas (inclusive produção de álcool)
+1980,V532,201,Indústrias de produtos derivados do petróleo e do carvão (exclusive produção de gás de iluminação)
+1980,V532,210,Indústrias de produtos farmacêuticos e veterinários
+1980,V532,220,Indústrias de perfumaria; sabões e velas
+1980,V532,230,Indústrias de produtos de matérias plásticas
+1980,V532,240,Indústrias têxteis
+1980,V532,241,Indústrias domiciliares têxteis
+1980,V532,250,Indústrias do vestuário
+1980,V532,251,Indústrias do calçado
+1980,V532,260,Indústrias de produtos alimentares
+1980,V532,270,Indústrias de bebidas (exclusive produção de álcool)
+1980,V532,280,Indústrias do fumo
+1980,V532,290,Indústrias editoriais e gráficas
+1980,V532,300,Atividades não compreendidas nas classes anteriores ou mal definidas
+1980,V532,340,Indústrias de construção
+1980,V532,351,Produção e distribuição de energia elétrica
+1980,V532,352,Produção e distribuição de gás canalizado
+1980,V532,353,Abastecimento d'água e serviços de esgoto
+1980,V532,354,Limpeza pública e remoção de lixo
+1980,V532,410,Comércio de produtos agropecuários e extrativos (exclusive aves para alimentação)
+1980,V532,411,Comércio de gêneros alimentícios; bebidas e estimulantes
+1980,V532,412,Comércio de tecidos; artefatos de tecidos; artigos do vestuário e armarinho
+1980,V532,413,Comércio de móveis; tapeçarias; objetos de arte e ornamentação
+1980,V532,414,Comércio de papel; impressos e artigos de escritório
+1980,V532,415,Comércio de ferragens; louças; materiais de construção e produtos metalúrgicos
+1980,V532,416,Comércio de máquinas; aparelhos; instrumentos e material elétrico
+1980,V532,417,Comércio de veículos e acessórios
+1980,V532,418,Comércio de produtos químicos e farmacêuticos
+1980,V532,419,Comércio de combustíveis e lubrificantes
+1980,V532,420,Comércio ambulante
+1980,V532,421,Feiras
+1980,V532,422,Supermercados
+1980,V532,423,Lojas de departamentos
+1980,V532,424,Atividades não compreendidas nas classes anteriores ou mal definidas
+1980,V532,451,Bancos; financeiras e capitalização
+1980,V532,452,Caixas econômicas e cooperativas de crédito
+1980,V532,453,Seguros
+1980,V532,461,Administração; comércio e incorporação de imóveis
+1980,V532,462,Comércio de títulos e moedas
+1980,V532,463,Concessionários de loterias; exclusive agências lotéricas
+1980,V532,464,Organizações de cartões de crédito; sorteios; consórcios; clubes de mercadorias e similares
+1980,V532,471,Transportes a tração e condução animal
+1980,V532,472,Transportes rodoviários de passageiros
+1980,V532,473,Transportes rodoviários de cargas
+1980,V532,474,Transportes ferroviários
+1980,V532,475,Transportes marítimos; fluviais e lacustres
+1980,V532,476,Transportes aéreos
+1980,V532,477,Atividades não compreendidas nas classes anteriores ou mal definidas
+1980,V532,481,Serviços postais; telegráficos e de radiocomunicações
+1980,V532,482,Comunicações telefônicas
+1980,V532,511,Serviços de alojamento
+1980,V532,512,Serviços de alimentação
+1980,V532,521,Serviços de reparação e conservação de máquinas e aparelhos; elétricos ou não; de uso pessoal ou doméstico
+1980,V532,522,Serviços de reparação e manutenção de veículos; exclusive trens; aviões; tratores e máquinas de terraplanagem
+1980,V532,523,Serviços de reparação de artigos de madeira e do mobiliário
+1980,V532,524,Serviços de reparação de instalações elétricas; hidráulicas e de gás
+1980,V532,525,Serviços de reparação não incluídos nas classes anteriores ou mal definidos
+1980,V532,531,Serviços de higiene pessoal
+1980,V532,532,Serviços de confecção sob medida e reparação de artigos do vestuário
+1980,V532,533,Serviços pessoais não incluídos nas classes anteriores ou mal definidos
+1980,V532,541,Serviços de conservação de artigos do vestuário e de outros artigos de tecidos
+1980,V532,542,Serviços de limpeza e conservação de casas; escritórios; lojas e edifícios
+1980,V532,543,Serviços de vigilância e guarda
+1980,V532,544,Serviços domésticos remunerados
+1980,V532,545,Serviços domiciliares não incluídos nas classes anteriores ou mal definidos
+1980,V532,551,Serviços de diversões e promoção de espetáculos artísticos
+1980,V532,552,Serviços de radiodifusão e televisão
+1980,V532,571,Serviços jurídicos
+1980,V532,572,Serviços de contabilidade e auditoria
+1980,V532,573,Serviços de assessoria; consultoria; pesquisa; análise; e processamento de dados
+1980,V532,574,Serviços de engenharia e arquitetura
+1980,V532,575,Serviços de publicidade e propaganda
+1980,V532,576,Serviços de tradução; de reprodução e documentação
+1980,V532,577,Estúdios de pintura; desenho; escultura e serviço de decoração
+1980,V532,578,Serviços técnico-profissionais não incluídos nas classes anteriores ou mal definidos
+1980,V532,581,Serviços auxiliares da agricultura e da pecuária
+1980,V532,582,Serviços auxiliares do comércio de mercadorias
+1980,V532,583,Serviços de armazenagem
+1980,V532,584,Serviços auxiliares do comércio e da indústria em geral
+1980,V532,585,Serviços auxiliares das atividades de seguros; finanças e valores
+1980,V532,586,Serviços auxiliares dos transportes; exclusive rodoviário e marítimo
+1980,V532,587,Serviços auxiliares dos transportes rodoviários
+1980,V532,588,Serviços auxiliares dos transportes marítimos
+1980,V532,589,Serviços auxiliares das atividades econômicas em geral
+1980,V532,610,Assistência e beneficência
+1980,V532,611,Previdência social pública
+1980,V532,612,Previdência social particular
+1980,V532,613,Sindicatos e associações de classe
+1980,V532,614,Instituições científicas e tecnológicas
+1980,V532,615,Instituições filosóficas e culturais
+1980,V532,616,Culto e atividades auxiliares
+1980,V532,617,Entidades desportivas e recreativas
+1980,V532,618,Organizações cívicas e políticas
+1980,V532,619,Serviços comunitários e sociais não incluídos nas classes anteriores ou mal definidas
+1980,V532,621,Serviços médicos públicos
+1980,V532,622,Serviços médicos particulares
+1980,V532,623,Serviços odontológicos
+1980,V532,624,Serviços de veterinária
+1980,V532,631,Ensino público
+1980,V532,632,Ensino particular
+1980,V532,711,Poder legislativo
+1980,V532,712,Justiça e atividades auxiliares
+1980,V532,713,Serviços administrativos federais
+1980,V532,714,Serviços administrativos estaduais
+1980,V532,715,Serviços administrativos municipais
+1980,V532,716,Serviços administrativos autárquicos
+1980,V532,717,Serviços administrativos dos poderes públicos não incluídos nas classes anteriores ou mal definidos
+1980,V532,721,Exército
+1980,V532,722,Marinha de Guerra
+1980,V532,723,Aeronáutica
+1980,V532,724,Polícia Militar
+1980,V532,725,Polícia Civil
+1980,V532,726,Corpo de Bombeiros
+1980,V532,727,Outras organizações governamentais de segurança
+1980,V532,801,Organizações internacionais e representações estrangeiras
+1980,V532,901,Outras atividades não compreendidas nos demais ramos
+1980,V532,902,Atividades mal defendidas ou não declaradas
+1991,V0347,11,Cultura de agave
+1991,V0347,12,Cultura de algodão
+1991,V0347,13,Cultura de arroz
+1991,V0347,14,Cultura de banana
+1991,V0347,15,Cultura de cacau
+1991,V0347,16,Cultura de café
+1991,V0347,17,Cultura de cana-de-açúcar
+1991,V0347,18,Cultura de fumo
+1991,V0347,19,Cultura de mandioca
+1991,V0347,20,Cultura de milho
+1991,V0347,21,Cultura de soja
+1991,V0347,22,Cultura de trigo
+1991,V0347,23,Horticultura e Floricultura
+1991,V0347,24,Silvicultura
+1991,V0347,25,Culturas não discriminadas anteriormente
+1991,V0347,26,Pecuária
+1991,V0347,27,Avicultura
+1991,V0347,28,Apicultura e Sericicultura
+1991,V0347,29,Atividades não compreendidas nas classes anteriores
+1991,V0347,31,Extração de borracha e gomas elásticas
+1991,V0347,32,Extração de erva-mate
+1991,V0347,33,Extração de plantas fibrosas
+1991,V0347,34,"Extração de frutos, sementes oleaginosas e ceras"
+1991,V0347,35,Extração de madeiras
+1991,V0347,36,Produção de carvão vegetal
+1991,V0347,37,Atividades não compreendidas nas classes anteriores
+1991,V0347,41,Pesca
+1991,V0347,42,Piscicultura
+1991,V0347,50,Extração e aparelhamento de pedras e outros materiais de construção
+1991,V0347,51,Extração de petróleo e gás natural
+1991,V0347,52,Extração de carvão de pedra
+1991,V0347,53,Exploração de salinas e fontes hidrominerais
+1991,V0347,54,Faiscação e garimpagem de minerais não metálicos
+1991,V0347,55,Faiscação e garimpagem de minerais metálicos
+1991,V0347,56,Extração de minerais radioativos
+1991,V0347,57,Extração de minerais não metálicos (exceto os de outras classes)
+1991,V0347,58,Extração de minerais metálicos (exceto os de outras classes)
+1991,V0347,59,Atividades não compreendidas nas classes anteriores ou mal definidas
+1991,V0347,100,Indústria de transformação de minerais não metálicos (exclusive combustíveis minerais)
+1991,V0347,110,Indústrias metalúrgicas
+1991,V0347,120,Indústrias mecânicas
+1991,V0347,130,Indústrias de material elétrico e de comunicações
+1991,V0347,140,Indústrias de material de transportes
+1991,V0347,150,Indústrias de madeira
+1991,V0347,151,Indústrias domiciliares de artigos de palha
+1991,V0347,160,Indústrias do mobiliário
+1991,V0347,170,Indústrias do papel e papelão
+1991,V0347,180,Indústrias da borracha
+1991,V0347,190,"Indústrias de couros, peles e similares (exclusive vestuário e calçados)"
+1991,V0347,200,Indústrias químicas (inclusive produção de álcool)
+1991,V0347,201,Indústrias de produtos da destilação do petróleo e do carvão
+1991,V0347,202,"Indústrias químicas de matérias primas para produção de material plástico, borracha, etc."
+1991,V0347,210,Indústrias de produtos farmacêuticos e veterinários
+1991,V0347,220,"Indústrias de perfumaria, sabões e velas"
+1991,V0347,230,Indústrias de produtos de matérias plásticas
+1991,V0347,240,Indústrias têxteis
+1991,V0347,241,Indústrias domiciliares têxteis
+1991,V0347,250,Indústrias do vestuário
+1991,V0347,251,Indústrias do calçado
+1991,V0347,260,Indústrias de produtos alimentares
+1991,V0347,261,Indústrias domiciliares de produtos alimentares
+1991,V0347,270,Indústrias de bebidas (exclusive produção de álcool)
+1991,V0347,280,Indústrias do fumo
+1991,V0347,290,Indústrias editoriais e gráficas
+1991,V0347,300,Atividades não compreendidas nas classes anteriores ou mal definidas
+1991,V0347,340,Indústrias da construção
+1991,V0347,351,Produção e distribuição de energia elétrica
+1991,V0347,352,Produção e distribuição de gás canalizado
+1991,V0347,353,Abastecimento de água e serviço de esgoto
+1991,V0347,354,Limpeza pública e remoção de lixo
+1991,V0347,410,Comércio de produtos agropecuários e extrativos (exclusive aves para alimentação)
+1991,V0347,411,"Comércio de gêneros alimentícios, bebidas e estimulantes"
+1991,V0347,412,"Comércio de tecidos, artigos do vestuário e armarinho"
+1991,V0347,413,"Comércio de móveis, tapeçarias, objetos de arte e ornamentação"
+1991,V0347,414,"Comércio de papel, impressos e artigos de escritório"
+1991,V0347,415,"Comércio de ferragens, louças, materiais de construção e produtos metalúrgicos"
+1991,V0347,416,"Comércio de máquinas, aparelhos, instrumentos e material elétrico"
+1991,V0347,417,Comércio de veículos e acessórios
+1991,V0347,418,Comércio de produtos químicos e farmacêuticos
+1991,V0347,419,Comércio de combustíveis e lubrificantes
+1991,V0347,420,Comércio ambulante
+1991,V0347,421,Feiras
+1991,V0347,422,Supermercados
+1991,V0347,423,Lojas de Departamentos
+1991,V0347,424,Atividades não compreendidas nas classes anteriores ou mal definidas
+1991,V0347,451,"Banco, financeiras e capitalização"
+1991,V0347,452,Caixas econômicas e cooperativas de crédito
+1991,V0347,453,Seguros
+1991,V0347,461,"Administração, comércio e incorporação de imóveis"
+1991,V0347,462,Comércio de títulos e moedas
+1991,V0347,463,Concessionários de loterias (exclusive agências lotéricas)
+1991,V0347,464,"Organização de cartões de crédito, consórcios, clubes de mercadorias, etc."
+1991,V0347,471,Transportes a tração e condução animal
+1991,V0347,472,Transportes rodoviários de passageiros
+1991,V0347,473,Transportes rodoviários de cargas
+1991,V0347,474,Transportes ferroviários
+1991,V0347,475,Transportes marítimos fluviais e lacustres
+1991,V0347,476,Transportes aéreos
+1991,V0347,477,Atividades não compreendidas acima ou mal definidas
+1991,V0347,481,"Serviços postais, telegráficos e de rádiocomunicações"
+1991,V0347,482,Comunicações telefônicas
+1991,V0347,511,Serviços de alojamento
+1991,V0347,512,Serviços de alimentação
+1991,V0347,521,Serviços de reparação e conservação de máquinas e aparelhos elétricos ou não (uso doméstico)
+1991,V0347,522,Serviços de reparação e manutenção de veículos (exclusive trens e máquinas de terraplenagem)
+1991,V0347,523,Serviços de reparação de artigos de madeira e do mobiliário
+1991,V0347,524,"Serviços de reparação de instalações elétricas, hidráulicas e de gás"
+1991,V0347,525,Serviços de reparação não incluídos nas classes anteriores ou mal definidos
+1991,V0347,531,Serviços de higiene pessoal
+1991,V0347,532,Serviços de confecção sob medida e reparação de artigos do vestuários
+1991,V0347,533,Serviços pessoais não incluídos anterioremente ou mal definidos
+1991,V0347,541,Serviços de conservação de artigos do vestuário e de outros artigos e tecidos
+1991,V0347,542,"Serviços de limpeza e conservação de casas, escritórios, lojas e edifícios"
+1991,V0347,543,Serviços de vigilância e guarda
+1991,V0347,544,Serviços domésticos remunerados
+1991,V0347,545,Serviços domiciliares não incluídos anteriormente ou mal definidos
+1991,V0347,551,Serviços de diversões e promoção de espetáculos artísticos
+1991,V0347,552,Serviços radiofusão e televisão
+1991,V0347,571,Serviços jurídicos
+1991,V0347,572,Serviços de contabilidade e auditoria
+1991,V0347,573,"Serviços de assessoria, consultoria, pesquisa, análise e processamento de dados"
+1991,V0347,574,Serviços de engenharia e arquitetura
+1991,V0347,575,Serviços de publicidade e propaganda
+1991,V0347,576,"Serviços de tradução, reprodução e documentação"
+1991,V0347,577,"Serviços de pintura, desenho, escultura e serviço de decoração"
+1991,V0347,578,Serviços técnico-profissionais não incluídos anteriormente ou mal definidos
+1991,V0347,581,Serviços auxiliares da agricultura e da pecuária
+1991,V0347,582,Serviços auxiliares do comércio de mercadorias
+1991,V0347,583,Serviços auxiliares de armazenagem
+1991,V0347,584,Serviços auxiliares do comércio e da indústria em geral
+1991,V0347,585,"Serviços auxiliares das atividades de seguros, finanças e valores"
+1991,V0347,586,Serviços auxiliares dos transportes (exclusive rodoviário e marítimo)
+1991,V0347,587,Serviços auxiliares dos transportes rodoviários
+1991,V0347,588,Serviços auxiliares dos transportes marítimos
+1991,V0347,589,Serviços auxiliares das atividades econômicas em geral
+1991,V0347,610,Assistência e beneficiência
+1991,V0347,611,Previdência Social Pública
+1991,V0347,612,Previdência Social Particular
+1991,V0347,613,Sindicatos e associações de classe
+1991,V0347,614,Instituições científicas e tecnológicas
+1991,V0347,615,Instituições filosofícas e culturais
+1991,V0347,616,Culto e atividades auxiliares
+1991,V0347,617,Entidades desportivas e recreativas
+1991,V0347,618,Organizações cívicas e políticas
+1991,V0347,619,Serviços comunitários e sociais não incluídos anteriormente ou mal definidos
+1991,V0347,621,Serviços médicos públicos
+1991,V0347,622,Serviços médicos particulares
+1991,V0347,623,Serviços odontológicos
+1991,V0347,624,Serviços de veterinária
+1991,V0347,631,Ensino público
+1991,V0347,632,Ensino particular
+1991,V0347,711,Poder Legislativo
+1991,V0347,712,Justiça e atividades auxiliares
+1991,V0347,713,Serviços administrativos federais
+1991,V0347,714,Serviços administrativos estaduais
+1991,V0347,715,Serviços administrativos municipais
+1991,V0347,716,Serviços administrativos autárquicos
+1991,V0347,717,Serviços administrativos públicos não incluídos anteriormente ou mal definidos
+1991,V0347,721,Exército
+1991,V0347,722,Marinha de Guerra
+1991,V0347,723,Aeronáutica
+1991,V0347,724,Polícia Militar
+1991,V0347,725,Polícia Civil
+1991,V0347,726,Corpo de Bombeiros
+1991,V0347,727,Outras organizações governamentais de segurança
+1991,V0347,801,Organizações internacionais e representações estrangeiras
+1991,V0347,901,Outras ativdades não compreendidas nos demais ramos
+1991,V0347,902,Atividades mal definidas
+1991,V0347,903,Atividade não declarada
+1991,V0329,0,Nenhum curso
+1991,V0329,1,Primário ou Elementar (Ensino Geral)
+1991,V0329,2,Primário ou Elementar (Educação Especial)
+1991,V0329,3,Primário ou Elementar (Agrícola)
+1991,V0329,4,Primário ou Elementar (Administração)
+1991,V0329,5,Primário ou Elementar (Industrial)
+1991,V0329,6,Primário ou Elementar (Saúde)
+1991,V0329,7,Primário ou Elementar (Militar)
+1991,V0329,8,Primário ou Elementar (Outros)
+1991,V0329,10,Ensino Geral - 1º grau
+1991,V0329,11,Educação Especial - 1º grau
+1991,V0329,12,Agrícola - 1º grau
+1991,V0329,13,Administração - 1º grau
+1991,V0329,14,Contabilidade - 1º grau
+1991,V0329,15,Outro - 1º grau - Comercial
+1991,V0329,16,Eletrotécnica ou Eletrônica - 1º grau
+1991,V0329,17,Mecânica - 1º grau
+1991,V0329,18,Outro -1º grau - Industrial
+1991,V0329,19,Enfermagem - 1º grau
+1991,V0329,20,Outros - 1º grau - Saúde
+1991,V0329,21,Militar - 1º grau
+1991,V0329,22,Normal - 1º grau
+1991,V0329,23,Outros - 1º grau
+1991,V0329,24,Ensino Geral - 2º grau
+1991,V0329,25,Educação Especial - 2º grau
+1991,V0329,26,Agrícola - 2º grau
+1991,V0329,27,Administração - 2º grau
+1991,V0329,28,Contabilidade - 2º grau
+1991,V0329,29,Estatística - 2º grau
+1991,V0329,30,Secretariado - 2º grau
+1991,V0329,31,Outros - 2º grau - Comercial
+1991,V0329,32,Desenho - 2º grau
+1991,V0329,33,Eletrotécnica ou Eletrônica - 2º grau
+1991,V0329,34,Mecânica - 2º grau
+1991,V0329,35,Química - 2º grau
+1991,V0329,36,Outros - 2º grau - Industrial
+1991,V0329,37,Enfermagem - 2º grau
+1991,V0329,38,Laboratorista de análise clínica - 2º grau
+1991,V0329,39,Outros - 2º grau - Saúde
+1991,V0329,40,Militar - 2º grau
+1991,V0329,41,Normal - 2º grau
+1991,V0329,42,Outros - 2º grau
+1991,V0329,43,"Biologia (inclui: Biomedicina, Biologia, Ciências Biológicas e afins)"
+1991,V0329,44,Educação Física (inclui: Técnico de desportos)
+1991,V0329,45,Enfermagem
+1991,V0329,46,Farmácia (inclui: Farmácia Bioquímica e afins)
+1991,V0329,47,Medicina
+1991,V0329,48,Odontologia
+1991,V0329,49,"Outros da Biologia (inclui: Nutrição, Fisioterapia, fonoaudiologia, Terapia Ocupacional)"
+1991,V0329,50,Arquitetura e Urbanismo
+1991,V0329,51,Ciências Exatas
+1991,V0329,52,"Ciências da Computação (inclui: Processamento de Dados, Engenharia de Sistemas, Informática e afins)"
+1991,V0329,53,"Engenharia Civil (inclui: Engenharia de Edificações, Pontes, Estradas, etc.)"
+1991,V0329,54,"Engenharia Elétrica e Eletrônica (inclui: Eletrotécnica, Telecomunicações, Comunicações, etc.)"
+1991,V0329,55,"Engenharia Mecânica (inclui: Engenharia Naval, Aeronáutica, Metalúrgica, Mecânica de Automóveis, etc.)"
+1991,V0329,56,Engenharia Química e Química Industrial
+1991,V0329,57,Engenharia não classificada ou mal definida
+1991,V0329,58,Estatística
+1991,V0329,59,Física
+1991,V0329,60,Geologia
+1991,V0329,61,Matemática
+1991,V0329,62,Química
+1991,V0329,63,Outros da Tecnologia (exclusive Engenharia)
+1991,V0329,64,"Agronomia (inclui: Ciências Agrícolas, Engenharia Agrícola e Engenharia Florestal)"
+1991,V0329,65,Medicina Veterinária
+1991,V0329,66,"Outros (inclui: Agrimensura, Engenharia de Pesca, Zootecnia, Fitotecnia) - Agrárias"
+1991,V0329,67,"Administração (inclui: Secretariado, Administração de Empresas, Administração Pública)"
+1991,V0329,68,Biblioteconomia (inclui: Arquivologia)
+1991,V0329,69,Ciências Contábeis e Atuariais
+1991,V0329,70,Ciências Econômicas
+1991,V0329,71,"Ciências e Estudos Sociais (inclui: Sociologia, Ciências Políticas e Sociais, Antropologia, etc.)"
+1991,V0329,72,"Comunicação Social (inclui: Editoração, Jornalismo, Rádio e TV, Publicidade, Turismo)"
+1991,V0329,73,Direito (inclui: Relações Internacionais)
+1991,V0329,74,Filosofia
+1991,V0329,75,Geografia
+1991,V0329,76,História
+1991,V0329,77,"Pedagogia (inclui: Administração Escolar, Educação Especial, Orientação Educacional, Formação de Professores)"
+1991,V0329,78,Psicologia
+1991,V0329,79,Serviço Social
+1991,V0329,80,Teologia
+1991,V0329,81,"Outros de Humanas (inclui: Museologia, Arqueologia)"
+1991,V0329,82,Letras (inclui: Tradutor e Intérprete)
+1991,V0329,83,"Artes (inclui: Cinema, Comunicação Visual, Dança, História da Arte, Desenho, Música, Teatro, etc.)"
+1991,V0329,84,Defesa Nacional (Militar)
+1991,V0329,85,Outros Cursos de Grau Superior
+1991,V0329,86,Mestrado ou Doutorado - Medicina
+1991,V0329,87,Mestrado ou Doutorado - Outros (Biologia)
+1991,V0329,88,Mestrado ou Doutorado - Engenharia
+1991,V0329,89,Mestrado ou Doutorado - Outros (Ciências Tecnológicas)
+1991,V0329,90,Mestrado ou Doutorado - Ciências Agrárias
+1991,V0329,91,Mestrado ou Doutorado - Administração
+1991,V0329,92,"Mestrado ou Doutorado - Ciências Econômicas, Contábeis, etc."
+1991,V0329,93,Mestrado ou Doutorado - Direito
+1991,V0329,94,Mestrado ou Doutorado - Pedagogia
+1991,V0329,95,Mestrado ou Doutorado - Outros (Ciências Humanas e Sociais)
+1991,V0329,96,Mestrado ou Doutorado - Letras e Artes
+1991,V0329,97,Mestrado ou Doutorado - (área não especificada)
+2000,V4354,140,Formação de professores e ciência da educação (cursos gerais ou combinados)
+2000,V4354,142,Ciências da educação
+2000,V4354,143,Formação de professor da educação básica (infantil)
+2000,V4354,144,Formação de professor da educação básica (fundamental e média)
+2000,V4354,145,Formação de professor de matérias acadêmicas
+2000,V4354,146,Formação de professor de disciplinas profissionalizantes
+2000,V4354,210,Artes (cursos gerais ou combinados)
+2000,V4354,211,Belas artes
+2000,V4354,212,Música e artes cênicas
+2000,V4354,213,Artes visuais e produção para mídia
+2000,V4354,214,Design e estilismo
+2000,V4354,215,Artesanato
+2000,V4354,220,Humanidades e letras (cursos gerais ou combinados)
+2000,V4354,221,Religião e teologia
+2000,V4354,222,Línguas e culturas estrangeiras
+2000,V4354,223,Língua portuguesa
+2000,V4354,225,História e arqueologia
+2000,V4354,226,Filosofia e ética
+2000,V4354,310,Ciências sociais e comportamentais (cursos gerais ou combinados)
+2000,V4354,311,Psicologia
+2000,V4354,312,Sociologia e estudos culturais
+2000,V4354,313,Ciência política e educação cívica
+2000,V4354,314,Economia
+2000,V4354,320,"Comunicação, jornalismo e informação (cursos gerais ou combinados)"
+2000,V4354,321,Jornalismo e reportagem
+2000,V4354,322,"Biblioteconomia, informação, arquivos"
+2000,V4354,340,Comércio e administração (cursos gerais ou combinados)
+2000,V4354,341,Vendas em atacado e varejo
+2000,V4354,342,Marketing e publicidade
+2000,V4354,343,"Finanças, bancos, seguros"
+2000,V4354,344,Contabilidade e tributação
+2000,V4354,345,Administração e gestão
+2000,V4354,346,Secretariado e trabalhos de escritório
+2000,V4354,347,Trabalho e relações industriais
+2000,V4354,380,Direito
+2000,V4354,420,Ciências da vida (cursos gerais ou combinados)
+2000,V4354,421,Biologia e bioquímica
+2000,V4354,422,Ciências ambientais
+2000,V4354,440,Ciências físicas (cursos gerais ou combinados)
+2000,V4354,441,Física
+2000,V4354,442,Química
+2000,V4354,443,Ciências da Terra
+2000,V4354,461,Matemática
+2000,V4354,462,Estatística
+2000,V4354,481,Ciência da Computação
+2000,V4354,482,Uso do computador
+2000,V4354,520,Engenharia e tecnologias correlatas (cursos gerais ou combinados)
+2000,V4354,521,Mecânica e metalurgia
+2000,V4354,522,Eletricidade e energia
+2000,V4354,523,Eletrônica e automação
+2000,V4354,524,Química e engenharia de processos
+2000,V4354,525,"Veículos a motor, construção naval e aeronáutica"
+2000,V4354,540,Produção e processamento (cursos gerais ou combinados)
+2000,V4354,541,Processamento de alimentos
+2000,V4354,542,"Têxteis, roupas, calçados e couros"
+2000,V4354,543,"Materiais (madeira, papel, plástico, vidro)"
+2000,V4354,544,Mineração e extração
+2000,V4354,581,Arquitetura e urbanismo
+2000,V4354,582,Engenharia civil e construção
+2000,V4354,620,"Agricultura, silvicultura e recursos pesqueiros (cursos gerais ou combinados)"
+2000,V4354,621,Produção agrícola e pecuária
+2000,V4354,622,Horticultura
+2000,V4354,623,Engenharia florestal - silvicultura
+2000,V4354,624,Recursos pesqueiros
+2000,V4354,641,Veterinária
+2000,V4354,720,Saúde (cursos gerais ou combinados)
+2000,V4354,721,Medicina
+2000,V4354,723,Enfermagem e atenção primária
+2000,V4354,724,Odontologia
+2000,V4354,725,Tecnologias de diagnóstico e tratamento médico
+2000,V4354,726,Terapia e reabilitação
+2000,V4354,727,Farmácia
+2000,V4354,761,Assistência à criança e à juventude
+2000,V4354,762,Serviço social e aconselhamento
+2000,V4354,810,Serviços pessoais (cursos gerais ou combinados)
+2000,V4354,811,"Hotelaria, restaurantes e serviços de alimentação"
+2000,V4354,812,"Viagens, turismo e lazer"
+2000,V4354,813,Esportes
+2000,V4354,814,Economia doméstica
+2000,V4354,815,Serviços de beleza
+2000,V4354,840,Serviços de transporte (cursos gerais ou combinados)
+2000,V4354,841,Meios específicos de transporte
+2000,V4354,850,Preservação ambiental (cursos gerais ou combinados)
+2000,V4354,851,Tecnologia de preservação ambiental
+2000,V4354,852,Ambientes naturais e animais silvestres
+2000,V4354,853,Serviços de saneamento
+2000,V4354,860,Serviços de segurança (cursos gerais ou combinados)
+2000,V4354,861,Proteção de pessoas e propriedades
+2000,V4354,862,Saúde e segurança no trabalho
+2000,V4354,863,Setor militar e de defesa
+2000,V4354,85,Graduação mal especificada
+2000,V4354,97,Mestrado ou Doutorado mal especificado
+2000,V4462,1101,Cultivo de arroz
+2000,V4462,1102,Cultivo de milho
+2000,V4462,1103,Cultivo de outros cereais para grãos
+2000,V4462,1104,Cultivo de algodão herbáceo
+2000,V4462,1105,Cultivo de cana-de-açúcar
+2000,V4462,1106,Cultivo de fumo
+2000,V4462,1107,Cultivo de soja
+2000,V4462,1108,Cultivo de mandioca
+2000,V4462,1109,Cultivo de outros produtos de lavoura temporária
+2000,V4462,1110,"Cultivo de hortaliças, legumes e outros produtos da horticultura"
+2000,V4462,1111,"Cultivo de flores, plantas ornamentais e produtos de viveiro"
+2000,V4462,1112,Cultivo de frutas cítricas
+2000,V4462,1113,Cultivo de café
+2000,V4462,1114,Cultivo de cacau
+2000,V4462,1115,Cultivo de uva
+2000,V4462,1116,Cultivo de banana
+2000,V4462,1117,Cultivo de outros produtos de lavoura permanente
+2000,V4462,1118,Cultivos agrícolas mal especificados
+2000,V4462,1201,Criação de bovinos
+2000,V4462,1202,Criação de outros animais de grande porte
+2000,V4462,1203,Criação de ovinos
+2000,V4462,1204,Criação de suinos
+2000,V4462,1205,Criação de aves
+2000,V4462,1206,Apicultura
+2000,V4462,1207,Sericicultura
+2000,V4462,1208,Criação de outros animais
+2000,V4462,1209,Criação de animais mal especificados
+2000,V4462,1300,Produção mista: lavoura e pecuária
+2000,V4462,1401,Atividades de serviços relacionados com a agricultura
+2000,V4462,1402,Atividades de serviços relacionados com a pecuária - exceto atividades veterinárias
+2000,V4462,1500,"Caça, repovoamento ciegético e serviços relacionados"
+2000,V4462,2001,Silvicultura e exploração florestal
+2000,V4462,2002,Atividades de serviços relacionados com a silvicultura e a exploração florestal
+2000,V4462,5001,Pesca e serviços relacionados
+2000,V4462,5002,Aquicultura e serviços relacionados
+2000,V4462,10000,Extração de carvão mineral
+2000,V4462,11000,Extração de petróleo e gás natural e serviços relacionados
+2000,V4462,12000,Extração de minerais radioativos
+2000,V4462,13001,Extração de minérios de metais preciosos
+2000,V4462,13002,Extração de minerais metálicos - exceto metais preciosos e radioativos
+2000,V4462,14001,Extração de pedras e outros materiais para construção
+2000,V4462,14002,Extração de pedras preciosas e semi-preciosas
+2000,V4462,14003,Extração de outros minerais não-metálicos
+2000,V4462,14004,Extração de minerais mal especificados
+2000,V4462,15010,Abate e preparação de carne e pescado
+2000,V4462,15021,"Produção de conservas de frutas, legumes e outros vegetais"
+2000,V4462,15022,Produção de gorduras e óleos vegetais
+2000,V4462,15030,Fabricação de produtos do laticínio
+2000,V4462,15041,Fabricação e refino do açúcar
+2000,V4462,15042,Torrefação e moagem de café
+2000,V4462,15043,Fabricação de outros produtos alimentícios
+2000,V4462,15050,Fabricação de bebidas
+2000,V4462,16000,Fabricação de produtos do fumo
+2000,V4462,17001,"Beneficiamento de fibras, fiação e tecelagem"
+2000,V4462,17002,Fabricação de artefatos têxteis a partir de tecidos - exceto vestuário
+2000,V4462,18001,Confecção de artigos do vestuário e acessórios - exceto sob medida
+2000,V4462,18002,Confecção sob medida de artigos do vestuário e acessórios
+2000,V4462,18999,Confecção de artigos do vestuário e acessórios sob medida ou não
+2000,V4462,19011,Curtimento e outras preparações de couro
+2000,V4462,19012,Fabricação de artefatos de couro
+2000,V4462,19020,Fabricação de calçados
+2000,V4462,20000,Fabricação de produtos de madeira
+2000,V4462,21001,"Fabricação de celulose, papel e papelão liso, cartolina e cartão"
+2000,V4462,21002,Fabricação de papelão corrugado e de embalagens e artefatos de papel e papelão
+2000,V4462,22000,"Edição, impressão e reprodução de gravações"
+2000,V4462,23010,Coquerias
+2000,V4462,23020,Fabricação de produtos do refino do petróleo
+2000,V4462,23030,Elaboração de combustíveis nucleares
+2000,V4462,23400,Produção de álcool
+2000,V4462,24010,"Fabricação de tintas, vernizes, esmaltes e lacas"
+2000,V4462,24020,Fabricação de produtos farmacêuticos
+2000,V4462,24030,"Fabricação de sabões, detergentes, produtos de limpeza e perfumaria"
+2000,V4462,24090,Fabricação de produtos químicos diversos
+2000,V4462,25010,Fabricação de produtos de borracha
+2000,V4462,25020,Fabricação de produtos de plástico
+2000,V4462,26010,Fabricação de vidro e produtos de vidro
+2000,V4462,26091,Fabricação de produtos cerâmicos
+2000,V4462,26092,Fabricação de produtos diversos de minerais não-metálicos
+2000,V4462,27001,Fabricação de produtos siderúrgicos
+2000,V4462,27002,Metalurgia dos metais não-ferrosos
+2000,V4462,27003,Fundição
+2000,V4462,28001,Fabricação de produtos de metal - exceto máquinas e equipamentos
+2000,V4462,28002,"Forjaria, estamparia, metalurgia do pó e serviços de tratamento de metais"
+2000,V4462,29001,Fabricação de máquinas e equipamentos - exceto eletrodomésticos
+2000,V4462,29002,Fabricação de eletrodomésticos
+2000,V4462,30000,Fabricação de máquinas de escritório e equipamentos de informática
+2000,V4462,31001,"Fabricação de máquinas, aparelhos e materiais elétricos diversos - exceto para veículos"
+2000,V4462,31002,Fabricação de material elétrico para veículos
+2000,V4462,32000,Fabricação de material eletrônico e de aparelhos e equipamentos de comunicação
+2000,V4462,33001,Fabricação de aparelhos e equipamentos médico-hospitalares
+2000,V4462,33002,"Fabricação de aparelhos e instrumentos de medida, teste e controle - exceto para controle de processos industriais"
+2000,V4462,33003,"Fabricação de máquinas, aparelhos e equipamentos de sistemas eletrônicos dedicados a automação industrial e controle do processo produtivo"
+2000,V4462,33004,"Fabricação de aparelhos, instrumentos e materiais ópticos, fotográficos e cinematográficos"
+2000,V4462,33005,Fabricação de cronômetros e relógios
+2000,V4462,34001,Fabricação e montagem de veículos automotores
+2000,V4462,34002,"Fabricação de cabines, carrocerias, reboques e peças para veículos automotores"
+2000,V4462,34003,Recondicionamento ou recuperação de motores de veículos automotores
+2000,V4462,35010,Construção e reparação de embarcações
+2000,V4462,35020,"Construção e montagem de locomotivas, vagões e outros materiais rodantes"
+2000,V4462,35030,"Construção, montagem e reparação de aeronaves"
+2000,V4462,35090,Fabricação de equipamentos de transporte diversos
+2000,V4462,36010,Fabricação de artigos do mobiliário
+2000,V4462,36090,Fabricação de produtos diversos
+2000,V4462,37000,Reciclagem
+2000,V4462,40010,Produção e distribuição de energia elétrica
+2000,V4462,40020,Produção e distribuição de gás através de tubulações
+2000,V4462,41000,"Captação, tratamento e distribuição de água"
+2000,V4462,45001,Preparação do terreno
+2000,V4462,45002,Construção de edifícios e obras de engenharia civil
+2000,V4462,45003,Obras de instalações
+2000,V4462,45004,Obras de acabamento
+2000,V4462,45005,Aluguel de equipamentos de construção e demolição com operários
+2000,V4462,45999,Atividades de construção - especialidade não definida
+2000,V4462,50010,Comércio de veículos automotores
+2000,V4462,50020,Serviços de reparação e manutenção de veículos automotores
+2000,V4462,50030,Comércio de peças e acessórios para veículos automotores
+2000,V4462,50040,"Comércio, manutenção e reparação de motocicletas"
+2000,V4462,50050,Posto de combustíveis
+2000,V4462,53010,Representantes comerciais e agentes do comércio
+2000,V4462,53020,Comércio de produtos agropecuários
+2000,V4462,53030,"Comércio de produtos alimentícios, bebidas e fumo"
+2000,V4462,53041,"Comércio de fios têxteis, tecidos, artefatos de tecidos e armarinho"
+2000,V4462,53042,"Comércio de artigos do vestuário, complementos e calçados"
+2000,V4462,53050,"Comércio de madeira, material de construção, ferragens e ferramentas"
+2000,V4462,53061,"Comércio de eletrodomésticos, móveis e outros artigos de residência"
+2000,V4462,53062,"Comércio de livros, jornais, revistas e papelaria"
+2000,V4462,53063,"Comércio de produtos farmacêuticos, médicos, ortopédicos, odontológicos, cosméticos e de perfumaria"
+2000,V4462,53064,"Comércio de máquinas, aparelhos e equipamentos - exceto eletrodomésticos"
+2000,V4462,53065,Comércio de combustíveis - exceto posto de combustíveis
+2000,V4462,53066,Comércio de resíduos e sucatas
+2000,V4462,53067,Comércio de produtos extrativos de origem mineral
+2000,V4462,53068,Comércio de mercadorias em geral - inclusive mercadorias usadas
+2000,V4462,53070,Supermercado e Hipermercado
+2000,V4462,53080,"Lojas de departamento e outros comércios não especializados, sem predominância de produtos alimentícios"
+2000,V4462,53090,"Comércio varejista de artigos em geral por catálogo, televisão, internet e outros meios de comunicação"
+2000,V4462,53101,"Comércio varejista realizado em postos móveis, instalados em vias públicas ou em mercados"
+2000,V4462,53102,"Outros tipos de comércio varejista, não realizado em lojas"
+2000,V4462,53111,Reparação e manutenção de eletrodomésticos
+2000,V4462,53112,Reparação de calçados
+2000,V4462,53113,Reparação de objetos pessoais e domésticos - exceto de eletrodomésticos e calçados
+2000,V4462,53999,Atividades de comércio não especificadas
+2000,V4462,55010,Alojamento
+2000,V4462,55020,Ambulantes de alimentação
+2000,V4462,55030,Outros serviços de alimentação - exceto ambulantes
+2000,V4462,55999,Atividades de alojamento e/ou alimentação não especificadas
+2000,V4462,60010,Transporte ferroviário
+2000,V4462,60020,Transporte metroviário
+2000,V4462,60031,Transporte rodoviário de cargas - exceto de mudanças
+2000,V4462,60032,Transporte rodoviário de mudanças
+2000,V4462,60040,Transporte rodoviário de passageiros
+2000,V4462,60091,"Transporte em bondes, funiculares, teleféricos ou trens próprios para exploração de pontos turísticos"
+2000,V4462,60092,Transporte dutoviário
+2000,V4462,60999,Transporte terrestre - modalidade não especificada
+2000,V4462,61000,Transporte aquaviário
+2000,V4462,62000,Transporte aéreo
+2000,V4462,63010,"Carga e descarga, armazenamento e depósitos"
+2000,V4462,63021,Atividades auxiliares aos transportes
+2000,V4462,63022,Organização do transporte de cargas
+2000,V4462,63030,Agências de viagens e organizadores de viagens
+2000,V4462,64010,Atividades de correio
+2000,V4462,64020,Telecomunicações
+2000,V4462,65000,Intermediação Financeira
+2000,V4462,66000,Seguros e previdência privada
+2000,V4462,67010,Atividades auxiliares da intermediação financeira
+2000,V4462,67020,Atividades auxiliares dos seguros e da previdência privada
+2000,V4462,70001,Atividades imobiliárias - exceto condomínios prediais
+2000,V4462,70002,Condomínios prediais
+2000,V4462,71010,Aluguel de veículos
+2000,V4462,71020,Aluguel de máquinas e equipamentos
+2000,V4462,71030,Aluguel de objetos pessoais e domésticos
+2000,V4462,72010,Atividades de informática
+2000,V4462,72020,Manutenção e reparação de máquinas de escritório e de informática
+2000,V4462,73000,Pesquisa e desenvolvimento
+2000,V4462,74011,Atividades jurídicas
+2000,V4462,74012,Atividades de assessoria em gestão empresarial
+2000,V4462,74021,Serviços de arquitetura e engenharia e de assessoramento técnico especializado
+2000,V4462,74022,Ensaios de materiais e de produtos
+2000,V4462,74030,Publicidade
+2000,V4462,74040,"Seleção, agenciamento e locação de mão-de-obra"
+2000,V4462,74050,"Investigação, vigilância e segurança"
+2000,V4462,74060,"Atividades de imunização, higienização e de limpeza em prédios e em domicílios"
+2000,V4462,74090,Outros serviços prestados às empresas
+2000,V4462,75011,Administração do Estado e da política econômica e social - Federal
+2000,V4462,75012,Administração do Estado e da política econômica e social - Estadual
+2000,V4462,75013,Administração do Estado e da política econômica e social - Municipal
+2000,V4462,75014,Forças Armadas
+2000,V4462,75015,Outros serviços coletivos prestados pela administração pública - Federal
+2000,V4462,75016,Outros serviços coletivos prestados pela administração pública - Estadual
+2000,V4462,75017,Outros serviços coletivos prestados pela administração pública - Municipal
+2000,V4462,75020,Seguridade social
+2000,V4462,75999,"Administração pública, esfera de governo não especificada"
+2000,V4462,80011,"Educação regular, supletiva e especial pública"
+2000,V4462,80012,"Educação regular, supletiva e especial particular"
+2000,V4462,80090,Outras atividades de ensino
+2000,V4462,80999,Atividades de ensino não especificadas
+2000,V4462,85011,Saúde pública
+2000,V4462,85012,Saúde particular
+2000,V4462,85013,Outras atividades de saúde
+2000,V4462,85020,Serviços veterinários
+2000,V4462,85030,Serviços sociais
+2000,V4462,85999,Atividades de saúde não especificadas
+2000,V4462,90000,Limpeza urbana e esgoto
+2000,V4462,91010,Atividades de organizações sindicais
+2000,V4462,91020,"Atividades de organizações empresariais, patronais e profissionais"
+2000,V4462,91091,Atividades de organizações religiosas e filosóficas
+2000,V4462,91092,Outras atividades associativas
+2000,V4462,92011,Produção de filmes cinematográficos e fitas de vídeo
+2000,V4462,92012,Distribuição e projeção de filmes e de vídeos
+2000,V4462,92013,Atividades de rádio
+2000,V4462,92014,Atividades de televisão
+2000,V4462,92015,Outras atividades artísticas e de espetáculos
+2000,V4462,92020,Atividades de agências de notícias
+2000,V4462,92030,"Bibliotecas, arquivos, museus e outras atividades culturais"
+2000,V4462,92040,Atividades desportivas e outras relacionadas ao lazer
+2000,V4462,93010,Lavanderias e tinturarias
+2000,V4462,93020,Cabeleireiros e outros tratamentos de beleza
+2000,V4462,93030,Atividades funerárias
+2000,V4462,93091,Atividades de manutenção do físico corporal
+2000,V4462,93092,Outras atividades de serviços pessoais
+2000,V4462,95000,Serviços domésticos
+2000,V4462,99000,Organismos internacionais e outras instituições extraterritoriais
+2000,V4462,0,Atividades mal especificadas
+2010,V6352,140,FORMAÇÃO DO PROFESSOR E CIÊNCIAS DA EDUCAÇÃO (CURSO GERAIS)
+2010,V6352,142,CIÊNCIAS DA EDUCAÇÃO
+2010,V6352,143,FORMAÇÃO DE PROFESSORES DE EDUCAÇÃO INFANTIL
+2010,V6352,144,FORMAÇÃO DE PROFESSORES DA EDUCAÇÃO BÁSICA
+2010,V6352,145,FORMAÇÃO DE PROFESSORES COM ESPECIALIZAÇÃO EM MATÉRIAS ESPECÍFICAS
+2010,V6352,146,FORMAÇÃO DE PROFESSORES DE DISCIPLINAS PROFISSIONAIS
+2010,V6352,210,ARTES (CURSO GERAIS)
+2010,V6352,211,BELAS ARTES
+2010,V6352,212,MÚSICA E ARTES CÊNICAS
+2010,V6352,213,TÉCNICAS AUDIOVISUAIS E PRODUÇÃO DE MÍDIA
+2010,V6352,214,DESIGN E ESTILISMO
+2010,V6352,215,ARTESANATO
+2010,V6352,220,HUMANIDADES E LETRAS (CURSO GERAIS)
+2010,V6352,221,RELIGIÃO
+2010,V6352,222,LÍNGUAS E CULTURAS ESTRANGEIRAS
+2010,V6352,223,LÍNGUA MATERNA (VERNÁCULA)
+2010,V6352,225,HISTÓRIA E ARQUEOLOGIA
+2010,V6352,226,FILOSOFIA E ÉTICA
+2010,V6352,310,CIÊNCIAS SOCIAIS E COMPORTAMENTAIS (CURSOS GERAIS)
+2010,V6352,311,PSICOLOGIA
+2010,V6352,312,SOCIOLOGIA E ESTUDOS CULTURAIS
+2010,V6352,313,CIÊNCIA POLÍTICA E EDUCAÇÃO CÍVICA
+2010,V6352,314,ECONOMIA
+2010,V6352,321,JORNALISMO E REPORTAGEM
+2010,V6352,322,"BIBLIOTECONOMIA, INFORMAÇÃO, ARQUIVOS"
+2010,V6352,340,COMÉRCIO E ADMINISTRAÇÃO(CURSO GERAIS)
+2010,V6352,341,VENDAS EM ATACADO E VAREJO
+2010,V6352,342,MARKETING E PUBLICIDADE
+2010,V6352,343,"FINANÇAS, BANCOS, SEGUROS"
+2010,V6352,344,CONTABILIDADE E TRIBUTAÇÃO
+2010,V6352,345,GERENCIAMENTO E ADMINISTRAÇÃO
+2010,V6352,346,SECRETARIADO E TRABALHOS DE ESCRITÓRIO
+2010,V6352,347,VIDA PROFISSIONAL
+2010,V6352,380,DIREITO
+2010,V6352,420,CIÊNCIAS DA VIDA (CURSO GERAIS)
+2010,V6352,421,BIOLOGIA E BIOQUÍMICA
+2010,V6352,422,CIÊNCIAS AMBIENTAIS
+2010,V6352,440,CIÊNCIAS FÍSICAS (CURSO GERAIS)
+2010,V6352,441,FÍSICA
+2010,V6352,442,QUÍMICA
+2010,V6352,443,CIÊNCIA DA TERRA
+2010,V6352,461,MATEMÁTICA
+2010,V6352,462,ESTATÍSTICA
+2010,V6352,481,CIÊNCIA DA COMPUTAÇÃO
+2010,V6352,482,USO DO COMPUTADOR
+2010,V6352,483,PROCESSAMENTO DA INFORMAÇÃO
+2010,V6352,520,ENGENHARIA E PROFISSÕES DE ENGENHARIA (CURSOS GERAIS)
+2010,V6352,521,ENGENHARIA MECÂNICA E METALURGIA
+2010,V6352,522,ELETRICIDADE E ENERGIA
+2010,V6352,523,ELETRÔNICA E AUTOMAÇÃO
+2010,V6352,524,QUÍMICA E ENGENHARIA DE PROCESSOS
+2010,V6352,525,"VEÍCULOS A MOTOR, CONSTRUÇÃO NAVAL E AERONÁUTICA"
+2010,V6352,540,FABRICAÇÃO E PROCESSAMENTO (CURSOS GERAIS)
+2010,V6352,541,PROCESSAMENTO DE ALIMENTOS
+2010,V6352,542,"TÊXTEIS, ROUPAS, CALÇADOS, COURO"
+2010,V6352,543,"MATERIAIS (MADEIRA, PAPEL, PLÁSTICO, VIDRO)"
+2010,V6352,544,MINERAÇÃO E EXTRAÇÃO
+2010,V6352,581,ARQUITETURA E URBANISMO
+2010,V6352,582,ENGENHARIA CIVIL E DE CONSTRUÇÃO
+2010,V6352,620,"AGRICULTURA, SILVICULTURA, RECURSOS PESQUEIROS (CURSOS GERAIS)"
+2010,V6352,621,PRODUÇÃO AGRÍCOLA E PECUÁRIA
+2010,V6352,622,HORTICULTURA
+2010,V6352,623,ENGENHARIA FLORESTAL – SILVICULTURA
+2010,V6352,624,RECURSO PESQUEIROS
+2010,V6352,641,VETERINÁRIA
+2010,V6352,720,SAÚDE (CURSO GERAIS)
+2010,V6352,721,MEDICINA
+2010,V6352,723,ENFERMAGEM E ATENÇÃO PRIMÁRIA
+2010,V6352,724,ODONTOLOGIA
+2010,V6352,725,TECNOLOGIAS DE DIAGNÓSTICO E TRATAMENTO MÉDICO
+2010,V6352,726,TERAPIA E REABILITAÇÃO
+2010,V6352,727,FARMÁCIA
+2010,V6352,761,ATENDIMENTO À CRIANÇA E SERVIÇOS AOS JOVENS
+2010,V6352,762,SERVIÇO SOCIAL E ORIENTAÇÃO
+2010,V6352,810,SERVIÇOS A PARTICULARES (CURSO GERAIS)
+2010,V6352,811,"HOTELARIA, RESTAURANTES E SERVIÇOS DE ALIMENTAÇÃO"
+2010,V6352,812,"VIAGENS, TURISMO E LAZER"
+2010,V6352,813,ESPORTES
+2010,V6352,814,CIÊNCIAS DOMÉSTICAS
+2010,V6352,815,SERVIÇOS DE BELEZA
+2010,V6352,840,SERVIÇOS DE TRANSPORTES (CURSO GERAIS)
+2010,V6352,850,PROTEÇÃO AMBIENTAL (CURSO GERAIS)
+2010,V6352,851,TECNOLOGIA DE PROTEÇÃO AMBIENTAL
+2010,V6352,852,AMBIENTES NATURAIS E VIDA SELVAGEM
+2010,V6352,853,SERVIÇOS COMUNITÁRIOS DE SANEAMENTO
+2010,V6352,860,SERVIÇOS DE SEGURANÇA (CURSO GERAIS)
+2010,V6352,861,PROTEÇÃO DE PESSOAS E PROPRIEDADES
+2010,V6352,862,SAÚDE E SEGURANÇA DO TRABALHO
+2010,V6352,863,SETOR MILITAR E DE DEFESA
+2010,V6352,85,NÃO SABE E SUPERIOR NÃO ESPECIFICADO
+2010,V6471,1101,CULTIVO DE ARROZ
+2010,V6471,1102,CULTIVO DE MILHO
+2010,V6471,1103,CULTIVO DE OUTROS CEREAIS
+2010,V6471,1104,CULTIVO DE ALGODÃO
+2010,V6471,1105,CULTIVO DE CANA-DE-AÇÚCAR
+2010,V6471,1106,CULTIVO DE FUMO
+2010,V6471,1107,CULTIVO DE SOJA
+2010,V6471,1108,CULTIVO DE MANDIOCA
+2010,V6471,1109,CULTIVO DE OUTRAS LAVOURAS TEMPORÁRIAS NÃO ESPECIFICADAS ANTERIORMENTE
+2010,V6471,1110,HORTICULTURA
+2010,V6471,1111,CULTIVO DE FLORES E PLANTAS ORNAMENTAIS
+2010,V6471,1112,CULTIVO DE FRUTAS CÍTRICAS
+2010,V6471,1113,CULTIVO DE CAFÉ
+2010,V6471,1114,CULTIVO DE CACAU
+2010,V6471,1115,CULTIVO DE UVA
+2010,V6471,1116,CULTIVO DE BANANA
+2010,V6471,1117,CULTIVO DE OUTRAS PLANTAS E FRUTAS DE LAVOURA PERMANENTE NÃO ESPECIFICADAS ANTERIORMENTE
+2010,V6471,1118,PRODUÇÃO DE SEMENTES E MUDAS CERTIFICADAS
+2010,V6471,1119,LAVOURA NÃO ESPECIFICADA
+2010,V6471,1201,CRIAÇÃO DE BOVINOS
+2010,V6471,1202,CRIAÇÃO DE OUTROS ANIMAIS DE GRANDE PORTE NÃO ESPECIFICADOS ANTERIORMENTE
+2010,V6471,1203,CRIAÇÃO DE CAPRINOS E OVINOS
+2010,V6471,1204,CRIAÇÃO DE SUÍNOS
+2010,V6471,1205,CRIAÇÃO DE AVES
+2010,V6471,1206,APICULTURA
+2010,V6471,1207,SERICICULTURA
+2010,V6471,1208,CRIAÇÃO DE OUTROS ANIMAIS NÃO ESPECIFICADOS ANTERIORMENTE
+2010,V6471,1209,PECUÁRIA NÃO ESPECIFICADA
+2010,V6471,1401,ATIVIDADES DE APOIO À AGRICULTURA E PÓS-COLHEITA
+2010,V6471,1402,ATIVIDADES DE APOIO À PECUÁRIA
+2010,V6471,1500,CAÇA E SERVIÇOS RELACIONADOS
+2010,V6471,1999,AGROPECUÁRIA
+2010,V6471,2000,PRODUÇÃO FLORESTAL
+2010,V6471,3001,PESCA
+2010,V6471,3002,AQUICULTURA
+2010,V6471,5000,EXTRAÇÃO DE CARVÃO MINERAL
+2010,V6471,6000,EXTRAÇÃO DE PETRÓLEO E GÁS NATURAL
+2010,V6471,7001,EXTRAÇÃO DE MINÉRIOS DE METAIS PRECIOSOS
+2010,V6471,7002,EXTRAÇÃO DE MINERAIS METÁLICOS NÃO ESPECIFICADOS ANTERIORMENTE
+2010,V6471,8001,"EXTRAÇÃO DE PEDRAS, AREIA E ARGILA"
+2010,V6471,8002,EXTRAÇÃO DE GEMAS (PEDRAS PRECIOSAS E SEMIPRECIOSAS)
+2010,V6471,8009,EXTRAÇÃO DE MINERAIS NÃO METÁLICOS NÃO ESPECIFICADOS ANTERIORMENTE
+2010,V6471,8999,EXTRAÇÃO DE MINERAIS NÃO ESPECIFICADOS
+2010,V6471,9000,ATIVIDADES DE APOIO À EXTRAÇÃO DE MINERAIS
+2010,V6471,10010,ABATE E FABRICAÇÃO DE PRODUTOS DE CARNE E PESCADO
+2010,V6471,10021,"FABRICAÇÃO DE CONSERVAS DE FRUTAS, LEGUMES E OUTROS VEGETAIS"
+2010,V6471,10022,FABRICAÇÃO DE ÓLEOS VEGETAIS E GORDURAS VEGETAIS E ANIMAIS
+2010,V6471,10030,LATICÍNIOS
+2010,V6471,10091,"MOAGEM, FABRICAÇÃO DE PRODUTOS AMILÁCEOS E DE ALIMENTOS PARA ANIMAIS"
+2010,V6471,10092,FABRICAÇÃO E REFINO DO AÇÚCAR
+2010,V6471,10093,TORREFAÇÃO E MOAGEM DE CAFÉ
+2010,V6471,10099,FABRICAÇÃO DE OUTROS PRODUTOS ALIMENTÍCIOS
+2010,V6471,10999,FABRICAÇÃO DE PRODUTOS ALIMENTÍCIOS NÃO ESPECIFICADOS
+2010,V6471,11000,FABRICAÇÃO DE BEBIDAS
+2010,V6471,12000,PROCESSAMENTO INDUSTRIAL E FABRICAÇÃO DE PRODUTOS DO FUMO
+2010,V6471,13001,"PREPARAÇÃO DE FIBRAS, FIAÇÃO E TECELAGEM"
+2010,V6471,13002,"FABRICAÇÃO DE ARTEFATOS TÊXTEIS, EXCETO VESTUÁRIO"
+2010,V6471,13999,INDUSTRIA TÊXTIL - ATIVIDADES NÃO ESPECIFICADAS
+2010,V6471,14001,"CONFECÇÃO DE ARTIGOS DO VESTUÁRIO E ACESSÓRIOS, EXCETO SOB MEDIDA"
+2010,V6471,14002,"CONFECÇÃO, SOB MEDIDA, DE ARTIGOS DO VESTUÁRIO"
+2010,V6471,14999,"CONFECÇÃO DE ARTIGOS DO VESTUÁRIO E ACESSÓRIOS, SOB MEDIDA OU NÃO"
+2010,V6471,15011,CURTIMENTO E OUTRAS PREPARAÇÕES DE COURO
+2010,V6471,15012,FABRICAÇÃO DE ARTIGOS DE VIAGEM E DE ARTEFATOS DIVERSOS DE COURO
+2010,V6471,15020,"FABRICAÇÃO DE CALÇADOS E PARTES PARA CALÇADOS, DE QUALQUER MATERIAL"
+2010,V6471,16001,SERRARIAS
+2010,V6471,16002,"FABRICAÇÃO DE PRODUTOS DE MADEIRA, CORTIÇA E MATERIAL TRANÇADO, EXCETO MÓVEIS"
+2010,V6471,17001,"FABRICAÇÃO DE CELULOSE, PAPEL, CARTOLINA E PAPEL-CARTÃO"
+2010,V6471,17002,"FABRICAÇÃO DE EMBALAGENS E DE PRODUTOS DIVERSOS DE PAPEL, CARTOLINA, PAPEL-CARTÃO E PAPELÃO ONDULADO"
+2010,V6471,17999,FABRICAÇÃO DE PAPEL E ARTEFATOS - ATIVIDADES NÃO ESPECIFICADAS
+2010,V6471,18000,IMPRESSÃO E REPRODUÇÃO DE GRAVAÇÕES
+2010,V6471,19010,COQUERIAS
+2010,V6471,19020,FABRICAÇÃO DE PRODUTOS DERIVADOS DO PETRÓLEO
+2010,V6471,19030,PRODUÇÃO DE BIOCOMBUSTÍVEIS
+2010,V6471,20010,"FABRICAÇÃO DE TINTAS, VERNIZES, ESMALTES, LACAS E PRODUTOS AFINS"
+2010,V6471,20020,"FABRICAÇÃO DE SABÕES, DETERGENTES, PRODUTOS DE LIMPEZA, COSMÉTICOS, PRODUTOS DE PERFUMARIA E DE HIGIENE PESSOAL"
+2010,V6471,20090,FABRICAÇÃO DE OUTROS PRODUTOS QUÍMICOS NÃO ESPECIFICADOS ANTERIORMENTE
+2010,V6471,20999,INDÚSTRIA QUÍMICA - ATIVIDADES NÃO ESPECIFICADAS
+2010,V6471,21000,FABRICAÇÃO DE PRODUTOS FARMOQUÍMICOS E FARMACÊUTICOS
+2010,V6471,22010,FABRICAÇÃO DE PRODUTOS DE BORRACHA
+2010,V6471,22020,FABRICAÇÃO DE PRODUTOS DE MATERIAL PLÁSTICO
+2010,V6471,23010,FABRICAÇÃO DE VIDRO E PRODUTOS DE VIDRO
+2010,V6471,23091,FABRICAÇÃO DE PRODUTOS CERÂMICOS
+2010,V6471,23099,FABRICAÇÃO DE OUTROS PRODUTOS DE MINERAIS NÃO METÁLICOS NÃO ESPECIFICADOS ANTERIORMENTE
+2010,V6471,24001,FABRICAÇÃO DE PRODUTOS SIDERÚRGICOS
+2010,V6471,24002,METALURGIA DOS METAIS NÃO FERROSOS
+2010,V6471,24003,FUNDIÇÃO
+2010,V6471,24999,FABRICAÇÃO DE PRODUTOS DE METALURGIA NÃO ESPECIFICADOS
+2010,V6471,25001,"FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS E EQUIPAMENTOS"
+2010,V6471,25002,"FORJARIA, ESTAMPARIA, METALURGIA DO PÓ E SERVIÇOS DE TRATAMENTO DE METAIS"
+2010,V6471,26010,FABRICAÇÃO DE COMPONENTES ELETRÔNICOS
+2010,V6471,26020,FABRICAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA E PERIFÉRICOS
+2010,V6471,26030,"FABRICAÇÃO DE EQUIPAMENTOS DE COMUNICAÇÃO E DE APARELHOS DE RECEPÇÃO, REPRODUÇÃO, GRAVAÇÃO E AMPLIFICAÇÃO DE ÁUDIO E VÍDEO"
+2010,V6471,26041,"FABRICAÇÃO DE APARELHOS E INSTRUMENTOS DE MEDIDA, TESTE E CONTROLE; CRONÔMETROS E RELÓGIOS E DE APARELHOS ELETROMÉDICOS E ELETROTERAPÊUTICOS"
+2010,V6471,26042,"FABRICAÇÃO DE EQUIPAMENTOS E INSTRUMENTOS ÓPTICOS, FOTOGRÁFICOS E CINEMATOGRÁFICOS E DE MÍDIAS VIRGENS, MAGNÉTICAS E ÓPTICAS"
+2010,V6471,26999,FABRICAÇÃO DE PRODUTOS ELETRÔNICOS NÃO ESPECIFICADOS
+2010,V6471,27010,FABRICAÇÃO DE ELETRODOMÉSTICOS
+2010,V6471,27090,"FABRICAÇÃO DE MÁQUINAS, APARELHOS E MATERIAIS ELÉTRICOS DIVERSOS, EXCETO ELETRODOMÉSTICOS"
+2010,V6471,27999,FABRICAÇÃO DE PRODUTOS ELÉTRICOS NÃO ESPECIFICADOS
+2010,V6471,28000,FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2010,V6471,29001,FABRICAÇÃO E MONTAGEM DE VEÍCULOS AUTOMOTORES
+2010,V6471,29002,"FABRICAÇÃO DE CABINES, CARROCERIAS, REBOQUES E PEÇAS PARA VEÍCULOS AUTOMOTORES"
+2010,V6471,29003,"RECONSTRUÇÃO, EM FÁBRICA, DE MOTORES DE VEÍCULOS AUTOMOTORES"
+2010,V6471,30010,CONSTRUÇÃO DE EMBARCAÇÕES
+2010,V6471,30020,FABRICAÇÃO DE VEÍCULOS FERROVIÁRIOS
+2010,V6471,30030,FABRICAÇÃO DE AERONAVES
+2010,V6471,30090,FABRICAÇÃO DE OUTROS EQUIPAMENTOS DE TRANSPORTE NÃO ESPECIFICADOS ANTERIORMENTE
+2010,V6471,30999,FABRICAÇÃO DE EQUIPAMENTOS DE TRANSPORTE NÃO ESPECIFICADOS
+2010,V6471,31000,FABRICAÇÃO DE MÓVEIS
+2010,V6471,32001,"FABRICAÇÃO DE ARTIGOS DE JOALHERIA, BIJUTERIA E SEMELHANTES"
+2010,V6471,32002,FABRICAÇÃO DE INSTRUMENTOS MUSICAIS
+2010,V6471,32003,FABRICAÇÃO DE ARTEFATOS PARA PESCA E ESPORTE E DE BRINQUEDOS E JOGOS RECREATIVOS
+2010,V6471,32009,FABRICAÇÃO DE PRODUTOS DIVERSOS
+2010,V6471,32999,FABRICAÇÃO DE PRODUTOS INDUSTRIAIS NÃO ESPECIFICADOS
+2010,V6471,33001,MANUTENÇÃO E REPARAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2010,V6471,33002,INSTALAÇÃO DE MÁQUINAS E EQUIPAMENTOS
+2010,V6471,35010,"GERAÇÃO, TRANSMISSÃO E DISTRIBUIÇÃO DE ENERGIA ELÉTRICA"
+2010,V6471,35021,PRODUÇÃO E DISTRIBUIÇÃO DE COMBUSTÍVEIS GASOSOS POR REDES URBANAS
+2010,V6471,35022,"PRODUÇÃO E DISTRIBUIÇÃO DE VAPOR, ÁGUA QUENTE E AR CONDICIONADO"
+2010,V6471,36000,"CAPTAÇÃO, TRATAMENTO E DISTRIBUIÇÃO DE ÁGUA"
+2010,V6471,37000,ESGOTO E ATIVIDADES RELACIONADAS
+2010,V6471,38000,"COLETA, TRATAMENTO E DISPOSIÇÃO DE RESÍDUOS; RECUPERAÇÃO DE MATERIAIS"
+2010,V6471,39000,DESCONTAMINAÇÃO E OUTROS SERVIÇOS DE GESTÃO DE RESÍDUOS
+2010,V6471,41000,CONSTRUÇÃO DE EDIFÍCIOS
+2010,V6471,42000,CONSTRUÇÃO DE OBRAS DE INFRAESTRUTURA
+2010,V6471,43000,SERVIÇOS ESPECIALIZADOS PARA CONSTRUÇÃO
+2010,V6471,43999,ATIVIDADES DE CONSTRUÇÃO NÃO ESPECIFICADAS
+2010,V6471,45010,COMÉRCIO DE VEÍCULOS AUTOMOTORES
+2010,V6471,45020,MANUTENÇÃO E REPARAÇÃO DE VEÍCULOS AUTOMOTORES
+2010,V6471,45030,COMÉRCIO DE PEÇAS E ACESSÓRIOS PARA VEÍCULOS AUTOMOTORES
+2010,V6471,45040,"COMÉRCIO, MANUTENÇÃO E REPARAÇÃO DE MOTOCICLETAS, PEÇAS E ACESSÓRIOS"
+2010,V6471,48010,"REPRESENTANTES COMERCIAIS E AGENTES DO COMÉRCIO, EXCETO DE VEÍCULOS AUTOMOTORES E MOTOCICLETAS"
+2010,V6471,48020,COMÉRCIO DE MATÉRIAS-PRIMAS AGRÍCOLAS E ANIMAIS VIVOS
+2010,V6471,48030,"COMÉRCIO DE PRODUTOS ALIMENTÍCIOS, BEBIDAS E FUMO"
+2010,V6471,48041,"COMÉRCIO DE TECIDOS, ARTEFATOS DE TECIDOS E ARMARINHO"
+2010,V6471,48042,"COMÉRCIO DE ARTIGOS DO VESTUÁRIO, COMPLEMENTOS, CALÇADOS E ARTIGOS DE VIAGEM"
+2010,V6471,48050,"COMÉRCIO DE MADEIRA, MATERIAL DE CONSTRUÇÃO, FERRAGENS E FERRAMENTAS"
+2010,V6471,48060,COMÉRCIO DE COMBUSTÍVEIS PARA VEÍCULOS AUTOMOTORES
+2010,V6471,48071,"COMÉRCIO DE PRODUTOS FARMACÊUTICOS, MÉDICOS, ORTOPÉDICOS, ODONTOLÓGICOS E DE COSMÉTICOS E PERFUMARIA"
+2010,V6471,48072,"COMÉRCIO DE ARTIGOS DE ESCRITÓRIO E DE PAPELARIA; LIVROS, JORNAIS E OUTRAS PUBLICAÇÕES"
+2010,V6471,48073,"COMÉRCIO DE ELETRODOMÉSTICOS, MÓVEIS E OUTROS ARTIGOS DE RESIDÊNCIA"
+2010,V6471,48074,COMÉRCIO DE EQUIPAMENTOS E PRODUTOS DE TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO
+2010,V6471,48075,"COMÉRCIO DE MÁQUINAS, APARELHOS E EQUIPAMENTOS, EXCETO ELETRODOMÉSTICOS"
+2010,V6471,48076,"COMÉRCIO DE COMBUSTÍVEIS SÓLIDOS, LÍQUIDOS E GASOSOS, EXCETO PARA VEÍCULOS AUTOMOTORES"
+2010,V6471,48077,COMÉRCIO DE PRODUTOS USADOS
+2010,V6471,48078,COMERCIO DE RESÍDUOS E SUCATAS
+2010,V6471,48079,COMÉRCIO DE PRODUTOS NOVOS NÃO ESPECIFICADOS ANTERIORMENTE
+2010,V6471,48080,SUPERMERCADO E HIPERMERCADO
+2010,V6471,48090,"LOJAS DE DEPARTAMENTO E OUTROS COMÉRCIOS NÃO ESPECIALIZADOS, SEM PREDOMINÂNCIA DE PRODUTOS ALIMENTÍCIOS"
+2010,V6471,48100,COMÉRCIO AMBULANTE E FEIRAS
+2010,V6471,48999,ATIVIDADES DE COMÉRCIO NÃO ESPECIFICADAS
+2010,V6471,49010,TRANSPORTE FERROVIÁRIO E METROFERROVIÁRIO
+2010,V6471,49030,TRANSPORTE RODOVIÁRIO DE PASSAGEIROS
+2010,V6471,49040,TRANSPORTE RODOVIÁRIO DE CARGA
+2010,V6471,49090,OUTROS TRANSPORTES TERRESTRES
+2010,V6471,49999,ATIVIDADES DE TRANSPORTE NÃO ESPECIFICADAS
+2010,V6471,50000,TRANSPORTE AQUAVIÁRIO
+2010,V6471,51000,TRANSPORTE AÉREO
+2010,V6471,52010,"ARMAZENAMENTO, CARGA E DESCARGA"
+2010,V6471,52020,ATIVIDADES AUXILIARES DOS TRANSPORTES E ATIVIDADES RELACIONADAS À ORGANIZAÇÃO DO TRANSPORTE DE CARGA
+2010,V6471,53001,ATIVIDADES DE CORREIO
+2010,V6471,53002,ATIVIDADES DE MALOTE E DE ENTREGA
+2010,V6471,55000,ALOJAMENTO
+2010,V6471,56011,RESTAURANTES E OUTROS ESTABELECIMENTOS DE SERVIÇOS DE ALIMENTAÇÃO E BEBIDAS
+2010,V6471,56012,"SERVIÇOS DE CATERING, BUFÊ E OUTROS SERVIÇOS DE COMIDA PREPARADA"
+2010,V6471,56020,SERVIÇOS AMBULANTES DE ALIMENTAÇÃO
+2010,V6471,56999,ATIVIDADES DE ALIMENTAÇÃO NÃO ESPECIFICADAS
+2010,V6471,58000,EDIÇÃO E EDIÇÃO INTEGRADA À IMPRESSÃO
+2010,V6471,59000,"ATIVIDADES CINEMATOGRÁFICAS, PRODUÇÃO DE VÍDEOS E DE PROGRAMAS DE TELEVISÃO, GRAVAÇÃO DE SOM E DE MÚSICA"
+2010,V6471,60001,ATIVIDADES DE RÁDIO
+2010,V6471,60002,ATIVIDADES DE TELEVISÃO
+2010,V6471,61000,TELECOMUNICAÇÕES
+2010,V6471,62000,ATIVIDADES DOS SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO
+2010,V6471,63000,ATIVIDADES DE PRESTAÇÃO DE SERVIÇOS DE INFORMAÇÃO
+2010,V6471,64000,SERVIÇOS FINANCEIROS
+2010,V6471,65000,SEGUROS E PREVIDÊNCIA PRIVADA
+2010,V6471,66001,ATIVIDADES AUXILIARES DOS SERVIÇOS FINANCEIROS
+2010,V6471,66002,"ATIVIDADES AUXILIARES DOS SEGUROS, DA PREVIDÊNCIA COMPLEMENTAR E DOS PLANOS DE SAÚDE"
+2010,V6471,68000,ATIVIDADES IMOBILIÁRIAS
+2010,V6471,69000,"ATIVIDADES JURÍDICAS, DE CONTABILIDADE E DE AUDITORIA"
+2010,V6471,70000,ATIVIDADES DE CONSULTORIA EM GESTÃO EMPRESARIAL
+2010,V6471,71000,SERVIÇOS DE ARQUITETURA E ENGENHARIA E ATIVIDADES TÉCNICAS RELACIONADAS; TESTES E ANÁLISES TÉCNICAS
+2010,V6471,72000,PESQUISA E DESENVOLVIMENTO CIENTÍFICO
+2010,V6471,73010,PUBLICIDADE
+2010,V6471,73020,PESQUISAS DE MERCADO E OPINIÃO PÚBLICA
+2010,V6471,74000,"OUTRAS ATIVIDADES PROFISSIONAIS, CIENTÍFICAS E TÉCNICAS NÃO ESPECIFICADAS ANTERIORMENTE"
+2010,V6471,75000,ATIVIDADES VETERINÁRIAS
+2010,V6471,77010,ALUGUEL DE OBJETOS PESSOAIS E DOMÉSTICOS
+2010,V6471,77020,"ALUGUEL DE MEIOS DE TRANSPORTES, MAQUINAS E EQUIPAMENTOS SEM OPERADOR E GESTÃO DE ATIVOS INTANGÍVEIS NÃO FINANCEIROS"
+2010,V6471,78000,"SELEÇÃO, AGENCIAMENTO E LOCAÇÃO DE MÃO-DE-OBRA"
+2010,V6471,79000,"AGÊNCIAS DE VIAGENS, OPERADORES TURÍSTICOS E SERVIÇOS DE RESERVAS"
+2010,V6471,80000,"ATIVIDADES DE VIGILÂNCIA, SEGURANÇA, TRANSPORTE DE VALORES E INVESTIGAÇÃO"
+2010,V6471,81011,"SERVIÇOS DE LIMPEZA E DE APOIO A EDIFÍCIOS, EXCETO CONDOMÍNIOS PREDIAIS"
+2010,V6471,81012,CONDOMÍNIOS PREDIAIS
+2010,V6471,81020,ATIVIDADES PAISAGÍSTICAS
+2010,V6471,82001,SERVIÇOS DE ESCRITÓRIO E APOIO ADMINISTRATIVO
+2010,V6471,82002,ATIVIDADES DE TELEATENDIMENTO
+2010,V6471,82003,"ATIVIDADES DE ORGANIZAÇÃO DE EVENTOS, EXCETO CULTURAIS E ESPORTIVOS"
+2010,V6471,82009,OUTRAS ATIVIDADES DE SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS
+2010,V6471,84011,ADMINISTRAÇÃO PUBLICA E REGULAÇÃO DA POLÍTICA ECONÔMICA E SOCIAL - FEDERAL
+2010,V6471,84012,ADMINISTRAÇÃO PUBLICA E REGULAÇÃO DA POLÍTICA ECONÔMICA E SOCIAL - ESTADUAL
+2010,V6471,84013,ADMINISTRAÇÃO PUBLICA E REGULAÇÃO DA POLÍTICA ECONÔMICA E SOCIAL - MUNICIPAL
+2010,V6471,84014,DEFESA
+2010,V6471,84015,OUTROS SERVIÇOS COLETIVOS PRESTADOS PELA ADMINISTRAÇÃO PÚBLICA - FEDERAL
+2010,V6471,84016,OUTROS SERVIÇOS COLETIVOS PRESTADOS PELA ADMINISTRAÇÃO PÚBLICA - ESTADUAL
+2010,V6471,84017,OUTROS SERVIÇOS COLETIVOS PRESTADOS PELA ADMINISTRAÇÃO PÚBLICA - MUNICIPAL
+2010,V6471,84020,SEGURIDADE SOCIAL OBRIGATÓRIA
+2010,V6471,84999,ADMINISTRAÇÃO PÚBLICA - ESFERA NÃO ESPECIFICADA
+2010,V6471,85011,CRECHE
+2010,V6471,85012,PRÉ-ESCOLA E ENSINO FUNDAMENTAL
+2010,V6471,85013,ENSINO MÉDIO
+2010,V6471,85014,EDUCAÇÃO SUPERIOR
+2010,V6471,85021,SERVIÇOS AUXILIARES À EDUCAÇÃO
+2010,V6471,85029,OUTRAS ATIVIDADES DE ENSINO
+2010,V6471,85999,ATIVIDADES DE EDUCAÇÃO NÃO ESPECIFICADAS
+2010,V6471,86001,ATIVIDADES DE ATENDIMENTO HOSPITALAR
+2010,V6471,86002,ATIVIDADES DE ATENÇÃO AMBULATORIAL EXECUTADAS POR MÉDICOS E ODONTÓLOGOS
+2010,V6471,86003,ATIVIDADES DE SERVIÇOS DE COMPLEMENTAÇÃO DIAGNÓSTICA E TERAPÊUTICA
+2010,V6471,86004,"ATIVIDADES DE PROFISSIONAIS DA ÁREA DE SAÚDE, EXCETO MÉDICOS E ODONTÓLOGOS"
+2010,V6471,86009,ATIVIDADES DE ATENÇÃO À SAÚDE HUMANA NÃO ESPECIFICADAS ANTERIORMENTE
+2010,V6471,86999,ATIVIDADES DE SAÚDE NÃO ESPECIFICADAS
+2010,V6471,87000,"ATIVIDADES DE ASSISTÊNCIA À SAÚDE HUMANA INTEGRADAS COM ASSISTÊNCIA SOCIAL, INCLUSIVE PRESTADAS EM RESIDENCIAS"
+2010,V6471,88000,SERVIÇOS DE ASSISTÊNCIA SOCIAL SEM ALOJAMENTO
+2010,V6471,90000,"ATIVIDADES ARTÍSTICAS, CRIATIVAS E DE ESPETÁCULOS"
+2010,V6471,91000,ATIVIDADES LIGADAS AO PATRIMÔNIO CULTURAL E AMBIENTAL
+2010,V6471,92000,ATIVIDADES DE EXPLORAÇÃO DE JOGOS DE AZAR E APOSTAS
+2010,V6471,93011,ATIVIDADES ESPORTIVAS
+2010,V6471,93012,ATIVIDADES DE CONDICIONAMENTO FÍSICO
+2010,V6471,93020,ATIVIDADES DE RECREAÇÃO E LAZER
+2010,V6471,94010,"ATIVIDADES DE ORGANIZAÇÕES ASSOCIATIVAS PATRONAIS, EMPRESARIAIS E PROFISSIONAIS"
+2010,V6471,94020,ATIVIDADES DE ORGANIZAÇÕES SINDICAIS
+2010,V6471,94091,ATIVIDADES DE ORGANIZAÇÕES RELIGIOSAS E FILOSÓFICAS
+2010,V6471,94099,OUTRAS ATIVIDADES ASSOCIATIVAS NÃO ESPECIFICADAS ANTERIORMENTE
+2010,V6471,95010,REPARAÇÃO E MANUTENÇÃO DE EQUIPAMENTOS DE INFORMÁTICA E COMUNICAÇÃO
+2010,V6471,95030,REPARAÇÃO E MANUTENÇÃO DE OBJETOS E EQUIPAMENTOS PESSOAIS E DOMÉSTICOS
+2010,V6471,96010,"LAVANDERIAS, TINTURARIAS E TOALHEIROS"
+2010,V6471,96020,CABELEIREIROS E OUTRAS ATIVIDADES DE TRATAMENTO DE BELEZA
+2010,V6471,96030,ATIVIDADES FUNERÁRIAS E SERVIÇOS RELACIONADOS
+2010,V6471,96090,OUTRAS ATIVIDADES DE SERVIÇOS PESSOAIS
+2010,V6471,97000,SERVIÇOS DOMÉSTICOS
+2010,V6471,99000,ORGANISMOS INTERNACIONAIS E OUTRAS INSTITUIÇÕES EXTRATERRITORIAIS
+2010,V6471,0,ATIVIDADES MALDEFINIDAS

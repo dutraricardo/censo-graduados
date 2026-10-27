@@ -1,0 +1,55 @@
+ano,area,pessoas,n_amostra,pct
+1960,Agricultura e veterinária,14020,2910,4.82
+1960,"Ciências sociais, negócios e direito",71914,13010,24.71
+1960,"Ciências, matemática e computação",7824,1710,2.69
+1960,"Engenharia, produção e construção",47235,9508,16.23
+1960,Humanidades e artes,27251,5980,9.36
+1960,Saúde e bem-estar social,89564,17686,30.77
+1960,Serviços (inclui militar e defesa),22053,2772,7.58
+1960,Área não especificada ou agregada,11229,2224,3.86
+1970,Agricultura e veterinária,19152,4996,3.42
+1970,"Ciências sociais, negócios e direito",160009,41331,28.57
+1970,"Ciências, matemática e computação",6295,1610,1.12
+1970,Educação,9553,2457,1.71
+1970,"Engenharia, produção e construção",88061,22709,15.73
+1970,Humanidades e artes,83601,21390,14.93
+1970,Saúde e bem-estar social,129601,33575,23.14
+1970,Serviços (inclui militar e defesa),18921,4849,3.38
+1970,Área não especificada ou agregada,44795,11509,8
+1980,Agricultura e veterinária,47236,11975,2.53
+1980,"Ciências sociais, negócios e direito",657542,164713,35.19
+1980,"Ciências, matemática e computação",103658,26077,5.55
+1980,Educação,152952,38668,8.19
+1980,"Engenharia, produção e construção",216530,54024,11.59
+1980,Humanidades e artes,228022,57629,12.2
+1980,Saúde e bem-estar social,324878,81512,17.39
+1980,Serviços (inclui militar e defesa),10818,2696,0.58
+1980,Área não especificada ou agregada,126949,32027,6.79
+1991,Agricultura e veterinária,109977,11826,2.7
+1991,"Ciências sociais, negócios e direito",1551589,157189,38.03
+1991,"Ciências, matemática e computação",330051,34478,8.09
+1991,Educação,394707,42090,9.68
+1991,"Engenharia, produção e construção",430281,43076,10.55
+1991,Humanidades e artes,462360,48422,11.33
+1991,Saúde e bem-estar social,599136,61235,14.69
+1991,Serviços (inclui militar e defesa),17964,1799,0.44
+1991,Área não especificada ou agregada,183402,19012,4.5
+2000,Agricultura e veterinária,126228,13908,2.09
+2000,"Ciências sociais, negócios e direito",2314816,237363,38.24
+2000,"Ciências, matemática e computação",546265,58196,9.02
+2000,Educação,659886,71861,10.9
+2000,"Engenharia, produção e construção",567093,57555,9.37
+2000,Humanidades e artes,659999,70984,10.9
+2000,Saúde e bem-estar social,889409,92116,14.69
+2000,Serviços (inclui militar e defesa),54726,5569,0.9
+2000,Área não especificada ou agregada,234722,24222,3.88
+2010,Agricultura e veterinária,226591,23180,1.68
+2010,"Ciências sociais, negócios e direito",4862773,369579,36.12
+2010,"Ciências, matemática e computação",934294,79812,6.94
+2010,Educação,2559620,263826,19.01
+2010,"Engenharia, produção e construção",928041,66467,6.89
+2010,Humanidades e artes,954682,85662,7.09
+2010,Saúde e bem-estar social,1605908,130631,11.93
+2010,Serviços (inclui militar e defesa),253611,19458,1.88
+2010,Área não especificada ou agregada,1138237,88271,8.45
+2022,Não disponível no microdado público de 2022,25876673,2161344,100

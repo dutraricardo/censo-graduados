@@ -1,0 +1,1062 @@
+ano,atividade,pessoas,n_amostra,pct
+1960,111 - Cultura de agave ou sisal,18,5,0.01
+1960,112 - Cultura de algodão,178,45,0.07
+1960,113 - Cultura de arroz,244,63,0.09
+1960,114 - Cultura de banana,44,11,0.02
+1960,115 - Cultura de cacau,84,22,0.03
+1960,116 - Cultura de café,1042,265,0.4
+1960,117 - Cultura de cana,464,94,0.18
+1960,118 - Cultura de fumo,16,4,0.01
+1960,119 - Cultura de trigo,164,24,0.06
+1960,120 - Outras culturas não compreendidas nas classes anteriores,553,124,0.21
+1960,121 - Fruticultura (exclusive banana),115,29,0.04
+1960,122 - Horticultura e floricultura,169,27,0.06
+1960,123 - Silvicultura,89,23,0.03
+1960,129 - Atividades agrícolas mal definidas,152,39,0.06
+1960,151 - Pecuária,1811,409,0.7
+1960,152 - Avicultura e cunicultura,136,33,0.05
+1960,153 - Apicultura e sericicultura,16,4,0.01
+1960,191 - Agropecuária,364,81,0.14
+1960,211 - Extração de borracha e gomas não elásticas,31,8,0.01
+1960,213 - Extração de plantas fibrosas,7,2,0
+1960,214 - Extração de frutos e sementes oleaginosas e caras,8,2,0
+1960,215 - Extração de madeiras,73,19,0.03
+1960,216 - Produção de carvão vegetal,39,10,0.01
+1960,219 - Atividades não compreendidas nas classes anteriores ou mal definidas,11,3,0
+1960,"251 - Extração e beneficiamento de minerais metálicos e não metálicos (exclusive petróleo, gás natural e carvão de pedra)",220,40,0.08
+1960,252 - Extração e aparelhamento de pedras e outros materiais de construção,109,28,0.04
+1960,253 - Extração de petróleo e gás natural,498,128,0.19
+1960,254 - Extração de carvão de pedra,12,3,0
+1960,255 - Exploração de salinas e fontes hidrominerais,39,10,0.01
+1960,256 - Faiscação e garimpagem,7,2,0
+1960,259 - Atividades não compreendidas nas classes anteriores ou mal definidas,19,5,0.01
+1960,292 - Pesca e Piscicultura,24,6,0.01
+1960,311 - Indústrias metalúrgicas,1681,392,0.65
+1960,312 - Indústrias mecânicas,477,121,0.18
+1960,313 - Indústrias de material elétrico e de material de comunicações,1657,323,0.64
+1960,314 - Indústrias de material de transportes (construção e montagem),1716,392,0.66
+1960,315 - Indústrias de minerais não metálicos (exclusive combustíveis minerais),719,137,0.28
+1960,316 - Indústrias da borracha,319,81,0.12
+1960,317 - Indústrias do fumo,35,9,0.01
+1960,318 - Indústrias de papel e papelão,502,95,0.19
+1960,321 - Indústrias do mobiliário (inclusive colchoarias),213,39,0.08
+1960,322 - Indústrias de madeira,183,31,0.07
+1960,"323 - Indústrias de couro, peles e produtos similares (exclusive artigos do vestuário e calçados)",110,28,0.04
+1960,324 - Indústrias farmacêuticas,1873,382,0.72
+1960,325 - Indústrias de plásticos,342,66,0.13
+1960,326 - Indústrias químicas,2789,603,1.07
+1960,327 - Indústrias de produtos derivados do petróleo e do carvão (exclusive produção de gás de iluminação),1194,184,0.46
+1960,328 - Indústrias têxteis,1001,238,0.38
+1960,331 - Indústrias domiciliárias têxteis,27,7,0.01
+1960,332 - Indústrias domiciliárias de artigos de palha,4,1,0
+1960,333 - indústrias do vestuário,256,65,0.1
+1960,334 - Indústrias do calçado,106,27,0.04
+1960,335 - Indústrias de produtos alimentares e estimulantes,1335,322,0.51
+1960,336 - Indústrias de bebidas e álcoois,329,84,0.13
+1960,337 - Indústrias editoriais e gráficas,1100,243,0.42
+1960,339 - Atividades não compreendidas nas classes anteriores ou mal definidas,829,210,0.32
+1960,351 - Construção civil,7017,1315,2.69
+1960,391 - Produção de energia elétrica e gás,1367,270,0.52
+1960,392 - Abastecimento de água e serviços de esgoto,382,97,0.15
+1960,411 - Comércio de animais vivos e matérias-primas (exclusive aves para alimentação),125,32,0.05
+1960,"412 - Comércio de géneros alimentícios, bebidas e estimulantes",1536,276,0.59
+1960,"413 - Comércio de tecidos e produtos afins, calçados, artigos do vestuário e armarinho",1304,235,0.5
+1960,"414 - Comércio de móveis, tapeçarias, objetos de arte e ornamentação",473,59,0.18
+1960,"415 - Comércio de papel, impressos e artigos de escritório",441,73,0.17
+1960,"416 - Comércio de ferragens, louças, materiais de construção e produtos metalúrgicos",584,134,0.22
+1960,"417 - Comércio de máquinas, aparelhos, instrumentos, material elétrico, veículos e acessórios",1826,368,0.7
+1960,418 - Comércio de produtos farmacêuticos,6490,1518,2.49
+1960,421 - Comércio de combustíveis e lubrificantes,409,86,0.16
+1960,422 - Comércio ambulante,74,19,0.03
+1960,423 - Feiras e mercados,67,17,0.03
+1960,424 - Atividades auxiliares do comércio,296,75,0.11
+1960,429 - Atividades não compreendidas nas classes anteriores ou mal definidas,1097,203,0.42
+1960,451 - Comércio de imóveis,593,151,0.23
+1960,452 - Comércio de títulos e moedas,67,17,0.03
+1960,453 - Bancos e casas bancárias,5578,802,2.14
+1960,454 - Caixas econômicas e cooperativas de credito,904,160,0.35
+1960,455 - Seguros e capitalização,723,114,0.28
+1960,459 - Atividades não compreendidas nas classes anteriores ou mal definidas,35,9,0.01
+1960,511 - Serviços de alojamento e de alimentação,560,86,0.21
+1960,512 - Serviços de higiene pessoal,28,7,0.01
+1960,"513 - Serviços de confecção, conservação e reparação de artigos de uso pessoal",159,18,0.06
+1960,"514 - Serviços de conservação, reparação e ornamentação de habitações e locais de trabalho",83,21,0.03
+1960,"515 - Serviços de conservação, reparação e instalação de máquinas e veículos",278,71,0.11
+1960,"516 - Serviços de diversões (espetáculos, radiodifusão, televisão e desportos)",408,104,0.16
+1960,517 - Serviços domésticos remunerados,12,3,0
+1960,518 - Serviços de administração e conservação de edifícios,4,1,0
+1960,519 - Atividades não compreendidas nas classes anteriores ou mal definidas,399,83,0.15
+1960,612 - Transportes rodoviários por veículos motorizados,416,73,0.16
+1960,613 - Transportes urbanos de ferro-carril,47,12,0.02
+1960,614 - Transportes ferroviários,1822,263,0.7
+1960,"615 - Transportes marítimos, fluviais e lacustres",761,74,0.29
+1960,616 - Serviços portuários,238,39,0.09
+1960,617 - Transportes aéreos,492,68,0.19
+1960,"618 - Serviços postais, telegráficos e de radiocomunicações",721,123,0.28
+1960,621 - Telefones,91,23,0.03
+1960,622 - Armazenagem,39,10,0.01
+1960,629 - Atividades não compreendidas nas classes anteriores ou mal definidas,39,10,0.01
+1960,711 - Ensino público,18369,3721,7.05
+1960,712 - Ensino particular,10664,2154,4.09
+1960,713 - Assistência médico-hospitalar pública,12957,2346,4.97
+1960,714 - Assistência médico-hospitalar particular,3780,784,1.45
+1960,"715 - Saneamento, abastecimento e melhoramentos urbanos (exclusive abastecimento de água e serviços de esgoto)",307,79,0.12
+1960,716 - Previdencia Social,4786,652,1.84
+1960,717 - Assistência e beneficência,421,69,0.16
+1960,718 - Culto e atividades auxiliares,11137,2674,4.28
+1960,721 - Instituições culturais,137,35,0.05
+1960,722 - Sindicatos e associações de classe,350,25,0.13
+1960,729 - Atividades não compreendidas nas classes anteriores ou mal definidas,12,3,0
+1960,751 - Advocacia e atividades auxiliares,22936,4318,8.8
+1960,"752 - Engenharia, arquitetura e atividades auxiliares",14002,2871,5.37
+1960,753 - Odontologia e atividades auxiliares,20366,4126,7.82
+1960,"754 - Agronomias, veterinária e atividades auxiliares",2503,503,0.96
+1960,755 - Medicina e atividades auxiliares,17708,3726,6.8
+1960,"756 - Ciências, letras, artes e atividades auxiliares",361,73,0.14
+1960,757 - Contabilidade e atividades auxiliares,2230,431,0.86
+1960,759 - Atividades não compreendidas nas classes anteriores ou mal definidas,241,40,0.09
+1960,811 - Poder legislativo,1774,292,0.68
+1960,812 - Justiça e atividades auxiliares,7979,1522,3.06
+1960,813 - Serviço administrativo federal,4886,588,1.88
+1960,814 - Serviço administrativo estadual,5789,1035,2.22
+1960,815 - Serviço administrativo municipal,1735,373,0.67
+1960,816 - Serviço administrativo autárquico,946,144,0.36
+1960,819 - Atividades não compreendidas nas classes anteriores ou mal definidas,5568,1167,2.14
+1960,851 - Exército,11934,1808,4.58
+1960,852 - Marinha de Guerra,4589,253,1.76
+1960,853 - Aviação Militar,3091,427,1.19
+1960,854 - Policia Militar,1121,268,0.43
+1960,855 - Policia Civil,1337,274,0.51
+1960,856 - Corpo de Bombeiros,149,10,0.06
+1960,859 - Outras organizações de segurança,82,21,0.03
+1960,911 - Representações estrangeiras,544,61,0.21
+1960,912 - Outras atividades não compreendidas nos demais ramos,37,9,0.01
+1960,919 - Atividades mal definidas ou não declaradas,2137,474,0.82
+1970,111 - cultura de agave,13,4,0
+1970,112 - cultura de algodão,78,21,0.02
+1970,113 - cultura de arroz,283,73,0.06
+1970,114 - cultura de banana,24,7,0
+1970,115 - cultura de cacau,168,46,0.03
+1970,116 - cultura de café,623,164,0.13
+1970,117 - cultura de cana-de-açúcar,304,82,0.06
+1970,118 - cultura de fumo,23,6,0
+1970,119 - cultura de trigo,109,28,0.02
+1970,120 - horticultura e floricultura,195,55,0.04
+1970,121 - silvicultura,254,66,0.05
+1970,122 - outras culturas,1049,284,0.22
+1970,123 - pecuária,2620,695,0.54
+1970,124 - avicultura e cunicultura,281,76,0.06
+1970,125 - apicultura e sericultura,49,13,0.01
+1970,"126 - outras classes e classe mal defefinida (AGRICULTURA, PECUÁRIA E SILVICULTURA)",700,187,0.14
+1970,211 - extração da borracha e goma elástica,16,5,0
+1970,213 - extração de plantas fibrosas,12,3,0
+1970,214 - extração de frutos e sementes oleagenosas e ceras,6,1,0
+1970,215 - extração de madeira,39,10,0.01
+1970,216 - produção de carvão vegetal,9,2,0
+1970,217 - outras classes e classe mal definida (EXTRAÇÃO VEGETAL),16,4,0
+1970,222 - pesca e piscicultura,15,4,0
+1970,301 - extração e aparelhamento de pedras e outros materiais de construção,114,29,0.02
+1970,302 - extração de petróleo e gás natural,609,156,0.13
+1970,303 - extração de carvão-de-pedra,41,11,0.01
+1970,304 - exploração de salinas e fontes hidrominerais,38,12,0.01
+1970,305 - faiscação e garimpagem,12,3,0
+1970,306 - extração e beneficiamento de outros minerais,1023,263,0.21
+1970,311 - industria metalúrgica,7499,1938,1.54
+1970,312 - indústria mecânica,4585,1186,0.94
+1970,313 - indústria de material elétrico e de comunicações,3154,814,0.65
+1970,"314 - indústria de material de transporte, inclusive montagem e reparação",3604,921,0.74
+1970,"315 - indústria de minerais não metálicos, exclusive combustíveis minerais",1660,427,0.34
+1970,316 - indústria da borracha,517,134,0.11
+1970,317 - indústria de fumo,246,64,0.05
+1970,318 - indústria de papel e papelão,839,218,0.17
+1970,319 - indústria de mobiliário,608,157,0.13
+1970,320 - indústria de madeira,696,181,0.14
+1970,"321 - indústria de couro, peles e produtos similares, exclusive artigos do vestuário e calçados",326,83,0.07
+1970,322 - indústria de produtos farmacêuticos e medicinais,2794,727,0.57
+1970,323 - indústria de materiais plásticos,675,173,0.14
+1970,324 - indústria química,4851,1240,1
+1970,"325 - indústria de produtos derivados do petróleo e carvão, exclusive gás de iluminação",3109,799,0.64
+1970,326 - indústria têxtil,3219,832,0.66
+1970,327 - indústria domiciliárias têxteis,20,5,0
+1970,329 - indústria do vestuário,690,178,0.14
+1970,330 - indústria do calçado,337,86,0.07
+1970,331 - indústria de produtos alimentares,3687,956,0.76
+1970,332 - indústria de bebidas e álcoois,871,225,0.18
+1970,333 - indústria editorial e gráfica,4817,1240,0.99
+1970,334 - outras classes e classe mal definida (INDÚSTRIAS DE TRANSFORMAÇÃO),3572,922,0.74
+1970,341 - edificações,18014,4640,3.71
+1970,342 - rodo-ferrovias,4279,1103,0.88
+1970,351 - produção e distribuição de energia elétrica e gás,5070,1302,1.04
+1970,352 - abastecimento de água e serviço de esgoto,1154,301,0.24
+1970,411 - comércio de produtos agropecuários e extrativos (exclusive aves para alimentação),474,126,0.1
+1970,"412 - comércio de gêneros alimentícios e bebidas, sem alimentação",2091,537,0.43
+1970,"413 - comércio de gêneros alimentícios e bebidas, com alimentação",714,185,0.15
+1970,"414 - comércio de tecidos e artefatos de tecidos, artigos do vestuário e armarinho",2926,759,0.6
+1970,"415 - comércio de móveis, tapeçarias, objetos de arte e ornamentação",636,164,0.13
+1970,"416 - comércio de papel, impressos e artigos de escritório",762,196,0.16
+1970,"417 - comércio de ferragens, louças, materiais de contrução e produtos metalúrgicos",1260,327,0.26
+1970,"418 - comércio de máquinas, aparelhos, instrumentos, material elétrico, veículos e acessórios",3481,895,0.72
+1970,419 - comércio de produtos farmacêuticos e medicinais,5155,1348,1.06
+1970,420 - comércio de combustíveis e lubrificantes,811,213,0.17
+1970,421 - comércio ambulante,197,50,0.04
+1970,422 - feiras e mercados,29,8,0.01
+1970,423 - atividades auxiliares do comércio de mercadorias,1032,267,0.21
+1970,424 - outras classes e classe mal definida (COMÉRCIO DE MERCADORIAS),3385,866,0.7
+1970,511 - serviço de alojamento,394,102,0.08
+1970,512 - serviço de alimentação,136,35,0.03
+1970,513 - serviço de higiene pessoal,165,44,0.03
+1970,"514 - serviço de confecções sob medida, conservação e reparação de artigos do vestuário",429,111,0.09
+1970,"515 - serviço de conservação, reparação e instalação de máquinas e veículos",1818,470,0.37
+1970,516 - serviço de diversão,44,11,0.01
+1970,517 - serviço doméstico,56,15,0.01
+1970,518 - serviço de conservação de edifícios,2968,765,0.61
+1970,612 - transporte rodoviário,1065,271,0.22
+1970,613 - transporte ferroviário,2018,520,0.42
+1970,"614 - transporte marítimo, fluvial e lacustre",905,227,0.19
+1970,615 - serviço portuário,493,124,0.1
+1970,616 - transporte aéreo,1051,269,0.22
+1970,"617 - serviço postal, telegráfico e de radiocomunicação",1814,468,0.37
+1970,618 - telefone,865,223,0.18
+1970,619 - armazenagem,72,19,0.01
+1970,"620 - outras classes e classe mal definida (TRANSPORTES, COMUNICAÇÕES E ARMAZENAGEM)",327,84,0.07
+1970,711 - ensino público,71680,18475,14.75
+1970,712 - ensino particular,25845,6598,5.32
+1970,713 - assistência médico-hospitalar pública,27799,7156,5.72
+1970,714 - assistência médico-hospitalar particular,14278,3688,2.94
+1970,"715 - saneamento, abastecimento e melhoramentos urbanos, exclusive abastecimento de água, eletricidade, gás e serviço de esgoto",1794,459,0.37
+1970,716 - previdência social,12313,3162,2.53
+1970,717 - assistência e beneficiência,3071,782,0.63
+1970,718 - culto e atividades auxiliares,13586,3396,2.8
+1970,719 - instituições culturais,945,238,0.19
+1970,720 - sindicatos e associações de classe,709,180,0.15
+1970,721 - outras classes e classe mal definida (ATIVIDADES SOCIAIS),756,199,0.16
+1970,811 - poder legislativo,1882,485,0.39
+1970,812 - justiça e atividades auxiliares,15760,4084,3.24
+1970,813 - serviço administrativo federal,14059,3610,2.89
+1970,814 - serviço administrativo estadual,11292,2920,2.32
+1970,815 - serviço administrativo municipal,3189,831,0.66
+1970,816 - serviço administrativo autárquico,1475,377,0.3
+1970,"817 - outras classes e classe mal definida (SERVIÇOS ADMINISTRATIVOS GOVERNAMENTAIS, LEGISLATIVO, JUSTIÇA)",10292,2655,2.12
+1970,821 - exército,11440,2945,2.35
+1970,822 - marinha de guerra,3158,802,0.65
+1970,823 - aeronáutica,4455,1152,0.92
+1970,824 - polícia militar,1948,507,0.4
+1970,825 - polícia civil,3673,939,0.76
+1970,826 - corpo de bombeiros,97,25,0.02
+1970,827 - outras organizações de segurança,145,38,0.03
+1970,911 - comércio de imóveis,2587,669,0.53
+1970,912 - comércio de títulos e moedas,2559,666,0.53
+1970,913 - bancos e casas bancárias,15344,3977,3.16
+1970,914 - caixas econômicas e cooperativas de crédito,1474,384,0.3
+1970,915 - seguros e capitalização,1502,384,0.31
+1970,"916 - outras classes e classe mal definida (COMÉRCIO DE IMÓVEIS E VALORES MOBILIÁRIOS, CRÉDITOS, SEGUROS E CAPITALIZAÇÃO)",100,26,0.02
+1970,921 - advocacia e atividades auxiliares,23539,6087,4.84
+1970,"922 - engenharia, arquitetura e atividades auxiliares",8670,2247,1.78
+1970,923 - odontologia e atividades auxiliares,18147,4732,3.73
+1970,"924 - agronomia, veterinária e atividades auxiliares",1728,450,0.36
+1970,925 - medicina e atividades auxiliares,14176,3700,2.92
+1970,"926 - ciências, letras, artes e atividades auxiliares",606,157,0.12
+1970,927 - contabilidade e atividades auxiliares,5110,1334,1.05
+1970,928 - outros profissionais liberais e atividades auxiliares,184,46,0.04
+1970,931 - representações estrangeiras,680,173,0.14
+1970,932 - outras atividades,341,89,0.07
+1970,"934 - atividades mal definidas e atividades não declaradas (ATIVIDADES NÃO COMPREENDIDAS NOS DEMAIS RAMOS, MAL DEFINIDAS OU NÃO DECLARADAS)",6404,1627,1.32
+1980,100 - Industrias de transformação de minerais não metálicos (exclusive combustíveis minerais),7764,1956,0.48
+1980,11 - Cultura de agave,31,8,0
+1980,110 - Indústrias metalúrgicas,32817,8221,2.03
+1980,12 - Cultura de algodão,152,42,0.01
+1980,120 - Indústrias mecânicas,17307,4325,1.07
+1980,13 - Cultura de arroz,719,184,0.04
+1980,130 - Indústrias de material elétrico e de comunicações,18274,4559,1.13
+1980,14 - Cultura da banana,61,17,0
+1980,140 - Indústrias de material de transporte,18636,4667,1.15
+1980,15 - Cultura de cacau,497,129,0.03
+1980,150 - Indústrias de madeira,2629,668,0.16
+1980,151 - Indústrias domiciliares de artigos de palha,12,3,0
+1980,16 - Cultura de café,2180,575,0.14
+1980,160 - Indústrias do mobiliário,2898,722,0.18
+1980,17 - Cultura de cana-de-açúcar,736,188,0.05
+1980,170 - Indústrias do papel e papelão,4363,1101,0.27
+1980,18 - Cultura de fumo,52,13,0
+1980,180 - Indústrias da borracha,2414,604,0.15
+1980,19 - Cultura de mandioca,108,28,0.01
+1980,190 - Indústrias de couro; peles e similares (exclusive artigos do vestuário e calçados),797,202,0.05
+1980,20 - Cultura de milho,286,75,0.02
+1980,200 - Indústrias químicas (inclusive produção de álcool),17403,4348,1.08
+1980,201 - Indústrias de produtos derivados do petróleo e do carvão (exclusive produção de gás de iluminação),11665,2889,0.72
+1980,21 - Cultura de soja,939,236,0.06
+1980,210 - Indústrias de produtos farmacêuticos e veterinários,6758,1686,0.42
+1980,22 - Cultura de trigo,95,24,0.01
+1980,220 - Indústrias de perfumaria; sabões e velas,1673,421,0.1
+1980,23 - Horticultura e floricultura,448,116,0.03
+1980,230 - Indústrias de produtos de matérias plásticas,3814,955,0.24
+1980,24 - Silvicultura,479,124,0.03
+1980,240 - Indústrias têxteis,8573,2148,0.53
+1980,241 - Indústrias domiciliares têxteis,96,24,0.01
+1980,25 - Culturas não discriminadas anteriormente,1968,504,0.12
+1980,250 - Indústrias do vestuário,3787,944,0.23
+1980,251 - Indústrias do calçado,1399,356,0.09
+1980,26 - Pecuária,7799,2005,0.48
+1980,260 - Indústrias de produtos alimentares,15754,3961,0.98
+1980,27 - Avicultura,1185,309,0.07
+1980,270 - Indústrias de bebidas (exclusive produção de álcool),2851,716,0.18
+1980,28 - Apicultura e sericultura,52,14,0
+1980,280 - Indústrias do fumo,1409,352,0.09
+1980,29 - Atividades não compreendidas nas classes anteriores ou mal definidas,1915,485,0.12
+1980,290 - Indústrias editoriais e gráficas,12593,3142,0.78
+1980,300 - Atividades não compreendidas nas classes anteriores ou mal definidas,8057,2014,0.5
+1980,31 - Extração da borracha e gomas elásticas,73,18,0
+1980,32 - Extração de erva-mate,12,3,0
+1980,33 - Extração de plantas fibrosas,4,1,0
+1980,34 - Extração de frutos; sementes oleaginosas e ceras,20,5,0
+1980,340 - Indústrias de construção,48361,12032,3
+1980,35 - Extração de madeiras,112,30,0.01
+1980,351 - Produção e distribuição de energia elétrica,23620,5919,1.46
+1980,352 - Produção e distribuição de gás canalizado,632,158,0.04
+1980,353 - Abastecimento d'água e serviços de esgoto,7260,1819,0.45
+1980,354 - Limpeza pública e remoção de lixo,582,144,0.04
+1980,36 - Produção de carvão vegetal,81,22,0.01
+1980,37 - Atividades não compreendidas nas classes anteriores ou mal definidas,103,26,0.01
+1980,41 - Pesca,183,47,0.01
+1980,410 - Comércio de produtos agropecuários e extrativos (exclusive aves para alimentação),2695,690,0.17
+1980,411 - Comércio de gêneros alimentícios; bebidas e estimulantes,8180,2052,0.51
+1980,412 - Comércio de tecidos; artefatos de tecidos; artigos do vestuário e armarinho,10773,2694,0.67
+1980,413 - Comércio de móveis; tapeçarias; objetos de arte e ornamentação,2605,652,0.16
+1980,414 - Comércio de papel; impressos e artigos de escritório,2269,568,0.14
+1980,415 - Comércio de ferragens; louças; materiais de construção e produtos metalúrgicos,6370,1585,0.39
+1980,416 - Comércio de máquinas; aparelhos; instrumentos e material elétrico,6345,1587,0.39
+1980,417 - Comércio de veículos e acessórios,8134,2032,0.5
+1980,418 - Comércio de produtos químicos e farmacêuticos,8355,2116,0.52
+1980,419 - Comércio de combustíveis e lubrificantes,3585,895,0.22
+1980,42 - Piscicultura,14,4,0
+1980,420 - Comércio ambulante,1225,306,0.08
+1980,421 - Feiras,215,52,0.01
+1980,422 - Supermercados,3316,825,0.21
+1980,423 - Lojas de departamentos,1235,308,0.08
+1980,424 - Atividades não compreendidas nas classes anteriores ou mal definidas,11518,2886,0.71
+1980,451 - Bancos; financeiras e capitalização,82701,20715,5.12
+1980,452 - Caixas econômicas e cooperativas de crédito,9336,2363,0.58
+1980,453 - Seguros,5692,1416,0.35
+1980,461 - Administração; comércio e incorporação de imóveis,11616,2898,0.72
+1980,462 - Comércio de títulos e moedas,2301,565,0.14
+1980,463 - Concessionários de loterias; exclusive agências lotéricas,18,5,0
+1980,464 - Organizações de cartões de crédito; sorteios; consórcios; clubes de mercadorias e similares,176,44,0.01
+1980,471 - Transportes a tração e condução animal,15,4,0
+1980,472 - Transportes rodoviários de passageiros,3373,847,0.21
+1980,473 - Transportes rodoviários de cargas,3669,911,0.23
+1980,474 - Transportes ferroviários,6697,1662,0.41
+1980,475 - Transportes marítimos; fluviais e lacustres,2372,586,0.15
+1980,476 - Transportes aéreos,3999,989,0.25
+1980,477 - Atividades não compreendidas nas classes anteriores ou mal definidas,133,32,0.01
+1980,481 - Serviços postais; telegráficos e de radiocomunicações,3042,765,0.19
+1980,482 - Comunicações telefônicas,14813,3700,0.92
+1980,50 - Extração e aparelhamento de pedras e outros materiais de construção,528,132,0.03
+1980,51 - Extração de petróleo e gás natural,2189,548,0.14
+1980,511 - Serviços de alojamento,2439,611,0.15
+1980,512 - Serviços de alimentação,3963,992,0.25
+1980,52 - Extração de carvão-de-pedra,165,41,0.01
+1980,521 - Serviços de reparação e conservação de máquinas e aparelhos; elétricos ou não; de uso pessoal ou doméstico,999,256,0.06
+1980,522 - Serviços de reparação e manutenção de veículos; exclusive trens; aviões; tratores e máquinas de terraplanagem,1261,316,0.08
+1980,523 - Serviços de reparação de artigos de madeira e do mobiliário,54,14,0
+1980,524 - Serviços de reparação de instalações elétricas; hidráulicas e de gás,423,106,0.03
+1980,525 - Serviços de reparação não incluídos nas classes anteriores ou mal definidos,581,145,0.04
+1980,53 - Exploração de salinas e fontes hidrominerais,74,19,0
+1980,531 - Serviços de higiene pessoal,1136,283,0.07
+1980,532 - Serviços de confecção sob medida e reparação de artigos do vestuário,935,238,0.06
+1980,533 - Serviços pessoais não incluídos nas classes anteriores ou mal definidos,908,226,0.06
+1980,54 - Faiscação e garimpagem de minerais não metálicos,109,28,0.01
+1980,541 - Serviços de conservação de artigos do vestuário e de outros artigos de tecidos,305,76,0.02
+1980,542 - Serviços de limpeza e conservação de casas; escritórios; lojas e edifícios,619,154,0.04
+1980,543 - Serviços de vigilância e guarda,469,118,0.03
+1980,544 - Serviços domésticos remunerados,551,136,0.03
+1980,545 - Serviços domiciliares não incluídos nas classes anteriores ou mal definidos,92,23,0.01
+1980,55 - Faiscasção e garimpagem de minerais metálicos,86,22,0.01
+1980,551 - Serviços de diversões e promoção de espetáculos artísticos,3672,908,0.23
+1980,552 - Serviços de radiodifusão e televisão,4529,1125,0.28
+1980,56 - Extração de minerais radioativos,114,30,0.01
+1980,57 - Extração de minerais não metálicos (exceto os compreendidos em outras classes),300,77,0.02
+1980,571 - Serviços jurídicos,61655,15441,3.82
+1980,572 - Serviços de contabilidade e auditoria,18011,4524,1.12
+1980,573 - Serviços de assessoria; consultoria; pesquisa; análise; e processamento de dados,15518,3841,0.96
+1980,574 - Serviços de engenharia e arquitetura,33038,8226,2.05
+1980,575 - Serviços de publicidade e propaganda,4500,1116,0.28
+1980,576 - Serviços de tradução; de reprodução e documentação,766,190,0.05
+1980,577 - Estúdios de pintura; desenho; escultura e serviço de decoração,3504,881,0.22
+1980,578 - Serviços técnico-profissionais não incluídos nas classes anteriores ou mal definidos,2001,499,0.12
+1980,58 - Extração de minerais metálicos (exceto os compreendidos em outras classes),2258,581,0.14
+1980,581 - Serviços auxiliares da agricultura e da pecuária,13480,3459,0.84
+1980,582 - Serviços auxiliares do comércio de mercadorias,8521,2108,0.53
+1980,583 - Serviços de armazenagem,688,171,0.04
+1980,584 - Serviços auxiliares do comércio e da indústria em geral,2056,508,0.13
+1980,585 - Serviços auxiliares das atividades de seguros; finanças e valores,959,238,0.06
+1980,586 - Serviços auxiliares dos transportes; exclusive rodoviário e marítimo,3098,767,0.19
+1980,587 - Serviços auxiliares dos transportes rodoviários,473,118,0.03
+1980,588 - Serviços auxiliares dos transportes marítimos,2286,570,0.14
+1980,589 - Serviços auxiliares das atividades econômicas em geral,1674,415,0.1
+1980,59 - Atividades não compreendidas nas classes anteriores ou mal definidas,2228,561,0.14
+1980,610 - Assistência e beneficência,14809,3722,0.92
+1980,611 - Previdência social pública,29407,7349,1.82
+1980,612 - Previdência social particular,1011,254,0.06
+1980,613 - Sindicatos e associações de classe,5333,1332,0.33
+1980,614 - Instituições científicas e tecnológicas,6710,1677,0.42
+1980,615 - Instituições filosóficas e culturais,4070,1018,0.25
+1980,616 - Culto e atividades auxiliares,14715,3820,0.91
+1980,617 - Entidades desportivas e recreativas,2965,736,0.18
+1980,618 - Organizações cívicas e políticas,153,39,0.01
+1980,619 - Serviços comunitários e sociais não incluídos nas classes anteriores ou mal definidas,469,120,0.03
+1980,621 - Serviços médicos públicos,54304,13593,3.37
+1980,622 - Serviços médicos particulares,76880,19254,4.76
+1980,623 - Serviços odontológicos,41181,10362,2.55
+1980,624 - Serviços de veterinária,2686,672,0.17
+1980,631 - Ensino público,318161,80585,19.72
+1980,632 - Ensino particular,96833,24311,6
+1980,711 - Poder legislativo,6195,1539,0.38
+1980,712 - Justiça e atividades auxiliares,24908,6255,1.54
+1980,713 - Serviços administrativos federais,49904,12488,3.09
+1980,714 - Serviços administrativos estaduais,45730,11464,2.83
+1980,715 - Serviços administrativos municipais,24497,6167,1.52
+1980,716 - Serviços administrativos autárquicos,1885,473,0.12
+1980,717 - Serviços administrativos dos poderes públicos não incluídos nas classes anteriores ou mal definidos,2090,526,0.13
+1980,721 - Exército,13339,3324,0.83
+1980,722 - Marinha de Guerra,5383,1333,0.33
+1980,723 - Aeronáutica,5893,1479,0.37
+1980,724 - Polícia Militar,6007,1510,0.37
+1980,725 - Polícia Civil,11591,2911,0.72
+1980,726 - Corpo de Bombeiros,487,122,0.03
+1980,727 - Outras organizações governamentais de segurança,586,145,0.04
+1980,801 - Organizações internacionais e representações estrangeiras,1323,329,0.08
+1980,901 - Outras atividades não compreendidas nos demais ramos,85,22,0.01
+1980,902 - Atividades mal defendidas ou não declaradas,9685,2422,0.6
+1991,100 - Indústria de transformação de minerais não metálicos (exclusive combustíveis minerais),14988,1528,0.43
+1991,11 - Cultura de agave,18,2,0
+1991,110 - Indústrias metalúrgicas,75065,7498,2.18
+1991,12 - Cultura de algodão,533,69,0.02
+1991,120 - Indústrias mecânicas,20261,2017,0.59
+1991,13 - Cultura de arroz,1581,184,0.05
+1991,130 - Indústrias de material elétrico e de comunicações,28940,2852,0.84
+1991,14 - Cultura de banana,127,18,0
+1991,140 - Indústrias de material de transportes,21262,2123,0.62
+1991,15 - Cultura de cacau,508,59,0.01
+1991,150 - Indústrias de madeira,5108,548,0.15
+1991,151 - Indústrias domiciliares de artigos de palha,24,2,0
+1991,16 - Cultura de café,2948,357,0.09
+1991,160 - Indústrias do mobiliário,7438,779,0.22
+1991,17 - Cultura de cana-de-açúcar,1267,149,0.04
+1991,170 - Indústrias do papel e papelão,9001,920,0.26
+1991,18 - Cultura de fumo,178,23,0.01
+1991,180 - Indústrias da borracha,4636,447,0.13
+1991,19 - Cultura de mandioca,217,28,0.01
+1991,"190 - Indústrias de couros, peles e similares (exclusive vestuário e calçados)",1854,189,0.05
+1991,20 - Cultura de milho,1240,157,0.04
+1991,200 - Indústrias químicas (inclusive produção de álcool),33236,3350,0.96
+1991,201 - Indústrias de produtos da destilação do petróleo e do carvão,14220,1414,0.41
+1991,"202 - Indústrias químicas de matérias primas para produção de material plástico, borracha, etc.",646,64,0.02
+1991,21 - Cultura de soja,2598,331,0.08
+1991,210 - Indústrias de produtos farmacêuticos e veterinários,9539,960,0.28
+1991,22 - Cultura de trigo,235,31,0.01
+1991,"220 - Indústrias de perfumaria, sabões e velas",3259,327,0.09
+1991,23 - Horticultura e Floricultura,1256,144,0.04
+1991,230 - Indústrias de produtos de matérias plásticas,8543,853,0.25
+1991,24 - Silvicultura,3844,408,0.11
+1991,240 - Indústrias têxteis,16061,1593,0.47
+1991,241 - Indústrias domiciliares têxteis,149,16,0
+1991,25 - Culturas não discriminadas anteriormente,4367,540,0.13
+1991,250 - Indústrias do vestuário,16144,1634,0.47
+1991,251 - Indústrias do calçado,4782,494,0.14
+1991,26 - Pecuária,24163,2757,0.7
+1991,260 - Indústrias de produtos alimentares,34080,3505,0.99
+1991,261 - Indústrias domiciliares de produtos alimentares,227,23,0.01
+1991,27 - Avicultura,1752,186,0.05
+1991,270 - Indústrias de bebidas (exclusive produção de álcool),6495,647,0.19
+1991,28 - Apicultura e Sericicultura,386,48,0.01
+1991,280 - Indústrias do fumo,2106,203,0.06
+1991,29 - Atividades não compreendidas nas classes anteriores,2322,273,0.07
+1991,290 - Indústrias editoriais e gráficas,28241,2764,0.82
+1991,300 - Atividades não compreendidas nas classes anteriores ou mal definidas,9487,951,0.27
+1991,31 - Extração de borracha e gomas elásticas,464,49,0.01
+1991,32 - Extração de erva-mate,389,38,0.01
+1991,33 - Extração de plantas fibrosas,143,11,0
+1991,"34 - Extração de frutos, sementes oleaginosas e ceras",84,9,0
+1991,340 - Indústrias da construção,81436,8177,2.36
+1991,35 - Extração de madeiras,551,57,0.02
+1991,351 - Produção e distribuição de energia elétrica,37200,3746,1.08
+1991,352 - Produção e distribuição de gás canalizado,707,72,0.02
+1991,353 - Abastecimento de água e serviço de esgoto,16332,1651,0.47
+1991,354 - Limpeza pública e remoção de lixo,3956,403,0.11
+1991,36 - Produção de carvão vegetal,12,2,0
+1991,37 - Atividades não compreendidas nas classes anteriores,65,5,0
+1991,41 - Pesca,2825,293,0.08
+1991,410 - Comércio de produtos agropecuários e extrativos (exclusive aves para alimentação),5728,607,0.17
+1991,"411 - Comércio de gêneros alimentícios, bebidas e estimulantes",36475,3835,1.06
+1991,"412 - Comércio de tecidos, artigos do vestuário e armarinho",53848,5500,1.56
+1991,"413 - Comércio de móveis, tapeçarias, objetos de arte e ornamentação",10860,1084,0.31
+1991,"414 - Comércio de papel, impressos e artigos de escritório",9316,927,0.27
+1991,"415 - Comércio de ferragens, louças, materiais de construção e produtos metalúrgicos",24978,2553,0.72
+1991,"416 - Comércio de máquinas, aparelhos, instrumentos e material elétrico",21513,2192,0.62
+1991,417 - Comércio de veículos e acessórios,30122,3039,0.87
+1991,418 - Comércio de produtos químicos e farmacêuticos,24137,2493,0.7
+1991,419 - Comércio de combustíveis e lubrificantes,11805,1214,0.34
+1991,42 - Piscicultura,277,28,0.01
+1991,420 - Comércio ambulante,15690,1615,0.45
+1991,421 - Feiras,2123,204,0.06
+1991,422 - Supermercados,10513,1114,0.3
+1991,423 - Lojas de Departamentos,2895,291,0.08
+1991,424 - Atividades não compreendidas nas classes anteriores ou mal definidas,25344,2542,0.73
+1991,"451 - Banco, financeiras e capitalização",178585,18050,5.17
+1991,452 - Caixas econômicas e cooperativas de crédito,26172,2689,0.76
+1991,453 - Seguros,13416,1331,0.39
+1991,"461 - Administração, comércio e incorporação de imóveis",20204,2031,0.59
+1991,462 - Comércio de títulos e moedas,2388,228,0.07
+1991,463 - Concessionários de loterias (exclusive agências lotéricas),260,31,0.01
+1991,"464 - Organização de cartões de crédito, consórcios, clubes de mercadorias, etc.",1480,156,0.04
+1991,471 - Transportes a tração e condução animal,212,20,0.01
+1991,472 - Transportes rodoviários de passageiros,11385,1160,0.33
+1991,473 - Transportes rodoviários de cargas,11966,1252,0.35
+1991,474 - Transportes ferroviários,10483,1042,0.3
+1991,475 - Transportes marítimos fluviais e lacustres,4679,470,0.14
+1991,476 - Transportes aéreos,9909,974,0.29
+1991,477 - Atividades não compreendidas acima ou mal definidas,324,33,0.01
+1991,"481 - Serviços postais, telegráficos e de rádiocomunicações",5143,525,0.15
+1991,482 - Comunicações telefônicas,28009,2805,0.81
+1991,50 - Extração e aparelhamento de pedras e outros materiais de construção,1376,142,0.04
+1991,51 - Extração de petróleo e gás natural,7973,789,0.23
+1991,511 - Serviços de alojamento,7644,789,0.22
+1991,512 - Serviços de alimentação,39102,3967,1.13
+1991,52 - Extração de carvão de pedra,621,67,0.02
+1991,521 - Serviços de reparação e conservação de máquinas e aparelhos elétricos ou não (uso doméstico),5910,593,0.17
+1991,522 - Serviços de reparação e manutenção de veículos (exclusive trens e máquinas de terraplenagem),12420,1267,0.36
+1991,523 - Serviços de reparação de artigos de madeira e do mobiliário,909,94,0.03
+1991,"524 - Serviços de reparação de instalações elétricas, hidráulicas e de gás",2831,283,0.08
+1991,525 - Serviços de reparação não incluídos nas classes anteriores ou mal definidos,2365,241,0.07
+1991,53 - Exploração de salinas e fontes hidrominerais,647,67,0.02
+1991,531 - Serviços de higiene pessoal,13382,1353,0.39
+1991,532 - Serviços de confecção sob medida e reparação de artigos do vestuários,8968,896,0.26
+1991,533 - Serviços pessoais não incluídos anterioremente ou mal definidos,3367,331,0.1
+1991,54 - Faiscação e garimpagem de minerais não metálicos,841,85,0.02
+1991,541 - Serviços de conservação de artigos do vestuário e de outros artigos e tecidos,1140,115,0.03
+1991,"542 - Serviços de limpeza e conservação de casas, escritórios, lojas e edifícios",5780,568,0.17
+1991,543 - Serviços de vigilância e guarda,4183,408,0.12
+1991,544 - Serviços domésticos remunerados,4052,423,0.12
+1991,545 - Serviços domiciliares não incluídos anteriormente ou mal definidos,648,61,0.02
+1991,55 - Faiscação e garimpagem de minerais metálicos,875,94,0.03
+1991,551 - Serviços de diversões e promoção de espetáculos artísticos,17807,1744,0.52
+1991,552 - Serviços radiofusão e televisão,14929,1502,0.43
+1991,56 - Extração de minerais radioativos,608,65,0.02
+1991,57 - Extração de minerais não metálicos (exceto os de outras classes),1380,136,0.04
+1991,571 - Serviços jurídicos,124030,12518,3.59
+1991,572 - Serviços de contabilidade e auditoria,49553,5055,1.44
+1991,"573 - Serviços de assessoria, consultoria, pesquisa, análise e processamento de dados",39184,3818,1.14
+1991,574 - Serviços de engenharia e arquitetura,54069,5439,1.57
+1991,575 - Serviços de publicidade e propaganda,13652,1360,0.4
+1991,"576 - Serviços de tradução, reprodução e documentação",1842,173,0.05
+1991,"577 - Serviços de pintura, desenho, escultura e serviço de decoração",15000,1489,0.43
+1991,578 - Serviços técnico-profissionais não incluídos anteriormente ou mal definidos,4438,433,0.13
+1991,58 - Extração de minerais metálicos (exceto os de outras classes),3030,298,0.09
+1991,581 - Serviços auxiliares da agricultura e da pecuária,15553,1681,0.45
+1991,582 - Serviços auxiliares do comércio de mercadorias,25790,2566,0.75
+1991,583 - Serviços auxiliares de armazenagem,1360,150,0.04
+1991,584 - Serviços auxiliares do comércio e da indústria em geral,5067,502,0.15
+1991,"585 - Serviços auxiliares das atividades de seguros, finanças e valores",2156,219,0.06
+1991,586 - Serviços auxiliares dos transportes (exclusive rodoviário e marítimo),10326,1030,0.3
+1991,587 - Serviços auxiliares dos transportes rodoviários,3224,315,0.09
+1991,588 - Serviços auxiliares dos transportes marítimos,4868,484,0.14
+1991,589 - Serviços auxiliares das atividades econômicas em geral,5322,522,0.15
+1991,59 - Atividades não compreendidas nas classes anteriores ou mal definidas,3666,384,0.11
+1991,610 - Assistência e beneficiência,29499,3010,0.85
+1991,611 - Previdência Social Pública,34486,3503,1
+1991,612 - Previdência Social Particular,3383,339,0.1
+1991,613 - Sindicatos e associações de classe,7169,734,0.21
+1991,614 - Instituições científicas e tecnológicas,6278,629,0.18
+1991,615 - Instituições filosofícas e culturais,6340,631,0.18
+1991,616 - Culto e atividades auxiliares,21293,2371,0.62
+1991,617 - Entidades desportivas e recreativas,6863,676,0.2
+1991,618 - Organizações cívicas e políticas,584,58,0.02
+1991,619 - Serviços comunitários e sociais não incluídos anteriormente ou mal definidos,1250,125,0.04
+1991,621 - Serviços médicos públicos,142899,14628,4.14
+1991,622 - Serviços médicos particulares,205708,20846,5.96
+1991,623 - Serviços odontológicos,8620,873,0.25
+1991,624 - Serviços de veterinária,7046,745,0.2
+1991,631 - Ensino público,634166,68825,18.38
+1991,632 - Ensino particular,189433,19040,5.49
+1991,711 - Poder Legislativo,23666,2346,0.69
+1991,712 - Justiça e atividades auxiliares,71874,7366,2.08
+1991,713 - Serviços administrativos federais,61548,6198,1.78
+1991,714 - Serviços administrativos estaduais,78591,7931,2.28
+1991,715 - Serviços administrativos municipais,75730,8163,2.19
+1991,716 - Serviços administrativos autárquicos,1072,108,0.03
+1991,717 - Serviços administrativos públicos não incluídos anteriormente ou mal definidos,10146,1036,0.29
+1991,721 - Exército,16437,1645,0.48
+1991,722 - Marinha de Guerra,8602,848,0.25
+1991,723 - Aeronáutica,10309,1040,0.3
+1991,724 - Polícia Militar,14841,1488,0.43
+1991,725 - Polícia Civil,30890,3151,0.9
+1991,726 - Corpo de Bombeiros,3258,333,0.09
+1991,727 - Outras organizações governamentais de segurança,1667,180,0.05
+1991,801 - Organizações internacionais e representações estrangeiras,1104,111,0.03
+1991,901 - Outras ativdades não compreendidas nos demais ramos,1242,125,0.04
+1991,902 - Atividades mal definidas,8163,822,0.24
+1991,903 - Atividade não declarada,5452,535,0.16
+2000,0 - Atividades mal especificadas,54799,5581,1.12
+2000,10000 - Extração de carvão mineral,94,11,0
+2000,11000 - Extração de petróleo e gás natural e serviços relacionados,5229,519,0.11
+2000,1101 - Cultivo de arroz,1362,162,0.03
+2000,1102 - Cultivo de milho,1909,253,0.04
+2000,1103 - Cultivo de outros cereais para grãos,838,109,0.02
+2000,1104 - Cultivo de algodão herbáceo,227,28,0
+2000,1105 - Cultivo de cana-de-açúcar,1816,213,0.04
+2000,1106 - Cultivo de fumo,267,39,0.01
+2000,1107 - Cultivo de soja,2300,316,0.05
+2000,1108 - Cultivo de mandioca,635,82,0.01
+2000,1109 - Cultivo de outros produtos de lavoura temporária,1707,210,0.03
+2000,"1110 - Cultivo de hortaliças, legumes e outros produtos da horticultura",3078,383,0.06
+2000,"1111 - Cultivo de flores, plantas ornamentais e produtos de viveiro",1223,137,0.03
+2000,1112 - Cultivo de frutas cítricas,1069,146,0.02
+2000,1113 - Cultivo de café,4615,597,0.09
+2000,1114 - Cultivo de cacau,276,32,0.01
+2000,1115 - Cultivo de uva,376,46,0.01
+2000,1116 - Cultivo de banana,369,43,0.01
+2000,1117 - Cultivo de outros produtos de lavoura permanente,601,69,0.01
+2000,1118 - Cultivos agrícolas mal especificados,7004,802,0.14
+2000,12000 - Extração de minerais radioativos,19,2,0
+2000,1201 - Criação de bovinos,15850,1982,0.32
+2000,1202 - Criação de outros animais de grande porte,471,55,0.01
+2000,1203 - Criação de ovinos,113,15,0
+2000,1204 - Criação de suinos,703,88,0.01
+2000,1205 - Criação de aves,2151,245,0.04
+2000,1206 - Apicultura,329,40,0.01
+2000,1207 - Sericicultura,40,5,0
+2000,1208 - Criação de outros animais,543,59,0.01
+2000,1209 - Criação de animais mal especificados,3263,375,0.07
+2000,1300 - Produção mista: lavoura e pecuária,7002,784,0.14
+2000,13001 - Extração de minérios de metais preciosos,162,17,0
+2000,13002 - Extração de minerais metálicos - exceto metais preciosos e radioativos,670,72,0.01
+2000,14001 - Extração de pedras e outros materiais para construção,1048,116,0.02
+2000,14002 - Extração de pedras preciosas e semi-preciosas,55,6,0
+2000,14003 - Extração de outros minerais não-metálicos,456,51,0.01
+2000,14004 - Extração de minerais mal especificados,4809,492,0.1
+2000,1401 - Atividades de serviços relacionados com a agricultura,4013,439,0.08
+2000,1402 - Atividades de serviços relacionados com a pecuária - exceto atividades veterinárias,1033,116,0.02
+2000,"1500 - Caça, repovoamento ciegético e serviços relacionados",3,1,0
+2000,15010 - Abate e preparação de carne e pescado,4315,477,0.09
+2000,"15021 - Produção de conservas de frutas, legumes e outros vegetais",1293,134,0.03
+2000,15022 - Produção de gorduras e óleos vegetais,579,60,0.01
+2000,15030 - Fabricação de produtos do laticínio,3988,452,0.08
+2000,15041 - Fabricação e refino do açúcar,4651,526,0.1
+2000,15042 - Torrefação e moagem de café,878,95,0.02
+2000,15043 - Fabricação de outros produtos alimentícios,24461,2505,0.5
+2000,15050 - Fabricação de bebidas,6649,678,0.14
+2000,16000 - Fabricação de produtos do fumo,1364,137,0.03
+2000,"17001 - Beneficiamento de fibras, fiação e tecelagem",8712,881,0.18
+2000,17002 - Fabricação de artefatos têxteis a partir de tecidos - exceto vestuário,4863,519,0.1
+2000,18001 - Confecção de artigos do vestuário e acessórios - exceto sob medida,13953,1465,0.29
+2000,18002 - Confecção sob medida de artigos do vestuário e acessórios,2587,270,0.05
+2000,18999 - Confecção de artigos do vestuário e acessórios sob medida ou não,10464,1077,0.21
+2000,19011 - Curtimento e outras preparações de couro,837,93,0.02
+2000,19012 - Fabricação de artefatos de couro,1214,128,0.02
+2000,19020 - Fabricação de calçados,4939,526,0.1
+2000,20000 - Fabricação de produtos de madeira,4533,511,0.09
+2000,2001 - Silvicultura e exploração florestal,1966,230,0.04
+2000,2002 - Atividades de serviços relacionados com a silvicultura e a exploração florestal,209,23,0
+2000,"21001 - Fabricação de celulose, papel e papelão liso, cartolina e cartão",6026,618,0.12
+2000,21002 - Fabricação de papelão corrugado e de embalagens e artefatos de papel e papelão,3779,388,0.08
+2000,"22000 - Edição, impressão e reprodução de gravações",38565,3816,0.79
+2000,23010 - Coquerias,50,5,0
+2000,23020 - Fabricação de produtos do refino do petróleo,8130,810,0.17
+2000,23030 - Elaboração de combustíveis nucleares,83,8,0
+2000,23400 - Produção de álcool,860,100,0.02
+2000,"24010 - Fabricação de tintas, vernizes, esmaltes e lacas",2847,291,0.06
+2000,24020 - Fabricação de produtos farmacêuticos,29613,3091,0.61
+2000,"24030 - Fabricação de sabões, detergentes, produtos de limpeza e perfumaria",6568,654,0.13
+2000,24090 - Fabricação de produtos químicos diversos,22156,2239,0.45
+2000,25010 - Fabricação de produtos de borracha,4118,416,0.08
+2000,25020 - Fabricação de produtos de plástico,9114,913,0.19
+2000,26010 - Fabricação de vidro e produtos de vidro,2252,224,0.05
+2000,26091 - Fabricação de produtos cerâmicos,5946,633,0.12
+2000,26092 - Fabricação de produtos diversos de minerais não-metálicos,6480,671,0.13
+2000,27001 - Fabricação de produtos siderúrgicos,7941,805,0.16
+2000,27002 - Metalurgia dos metais não-ferrosos,2619,269,0.05
+2000,27003 - Fundição,1588,171,0.03
+2000,28001 - Fabricação de produtos de metal - exceto máquinas e equipamentos,26565,2711,0.54
+2000,"28002 - Forjaria, estamparia, metalurgia do pó e serviços de tratamento de metais",3017,303,0.06
+2000,29001 - Fabricação de máquinas e equipamentos - exceto eletrodomésticos,19507,1973,0.4
+2000,29002 - Fabricação de eletrodomésticos,3757,387,0.08
+2000,30000 - Fabricação de máquinas de escritório e equipamentos de informática,3664,367,0.08
+2000,"31001 - Fabricação de máquinas, aparelhos e materiais elétricos diversos - exceto para veículos",7963,798,0.16
+2000,31002 - Fabricação de material elétrico para veículos,698,66,0.01
+2000,32000 - Fabricação de material eletrônico e de aparelhos e equipamentos de comunicação,5560,559,0.11
+2000,33001 - Fabricação de aparelhos e equipamentos médico-hospitalares,3325,344,0.07
+2000,"33002 - Fabricação de aparelhos e instrumentos de medida, teste e controle - exceto para controle de processos industriais",705,74,0.01
+2000,"33003 - Fabricação de máquinas, aparelhos e equipamentos de sistemas eletrônicos dedicados a automação industrial e controle do processo produtivo",1311,132,0.03
+2000,"33004 - Fabricação de aparelhos, instrumentos e materiais ópticos, fotográficos e cinematográficos",1450,139,0.03
+2000,33005 - Fabricação de cronômetros e relógios,212,22,0
+2000,34001 - Fabricação e montagem de veículos automotores,17161,1702,0.35
+2000,"34002 - Fabricação de cabines, carrocerias, reboques e peças para veículos automotores",12111,1210,0.25
+2000,34003 - Recondicionamento ou recuperação de motores de veículos automotores,718,72,0.01
+2000,35010 - Construção e reparação de embarcações,1239,126,0.03
+2000,"35020 - Construção e montagem de locomotivas, vagões e outros materiais rodantes",424,42,0.01
+2000,"35030 - Construção, montagem e reparação de aeronaves",3252,323,0.07
+2000,35090 - Fabricação de equipamentos de transporte diversos,745,71,0.02
+2000,36010 - Fabricação de artigos do mobiliário,10438,1098,0.21
+2000,36090 - Fabricação de produtos diversos,8535,889,0.17
+2000,37000 - Reciclagem,1008,103,0.02
+2000,40010 - Produção e distribuição de energia elétrica,27792,2852,0.57
+2000,40020 - Produção e distribuição de gás através de tubulações,1182,115,0.02
+2000,"41000 - Captação, tratamento e distribuição de água",16744,1726,0.34
+2000,45001 - Preparação do terreno,1950,211,0.04
+2000,45002 - Construção de edifícios e obras de engenharia civil,66332,6813,1.36
+2000,45003 - Obras de instalações,9571,980,0.2
+2000,45004 - Obras de acabamento,3365,345,0.07
+2000,45005 - Aluguel de equipamentos de construção e demolição com operários,69,8,0
+2000,45999 - Atividades de construção - especialidade não definida,22354,2230,0.46
+2000,5001 - Pesca e serviços relacionados,901,96,0.02
+2000,50010 - Comércio de veículos automotores,20054,2019,0.41
+2000,5002 - Aquicultura e serviços relacionados,671,75,0.01
+2000,50020 - Serviços de reparação e manutenção de veículos automotores,14597,1525,0.3
+2000,50030 - Comércio de peças e acessórios para veículos automotores,15357,1566,0.31
+2000,"50040 - Comércio, manutenção e reparação de motocicletas",1615,162,0.03
+2000,50050 - Posto de combustíveis,7896,847,0.16
+2000,53010 - Representantes comerciais e agentes do comércio,37534,3761,0.77
+2000,53020 - Comércio de produtos agropecuários,8950,1020,0.18
+2000,"53030 - Comércio de produtos alimentícios, bebidas e fumo",64071,6734,1.31
+2000,"53041 - Comércio de fios têxteis, tecidos, artefatos de tecidos e armarinho",5890,628,0.12
+2000,"53042 - Comércio de artigos do vestuário, complementos e calçados",40344,4212,0.83
+2000,"53050 - Comércio de madeira, material de construção, ferragens e ferramentas",32838,3452,0.67
+2000,"53061 - Comércio de eletrodomésticos, móveis e outros artigos de residência",24563,2547,0.5
+2000,"53062 - Comércio de livros, jornais, revistas e papelaria",11914,1233,0.24
+2000,"53063 - Comércio de produtos farmacêuticos, médicos, ortopédicos, odontológicos, cosméticos e de perfumaria",27028,2813,0.55
+2000,"53064 - Comércio de máquinas, aparelhos e equipamentos - exceto eletrodomésticos",23202,2320,0.48
+2000,53065 - Comércio de combustíveis - exceto posto de combustíveis,11075,1151,0.23
+2000,53066 - Comércio de resíduos e sucatas,889,92,0.02
+2000,53067 - Comércio de produtos extrativos de origem mineral,268,26,0.01
+2000,53068 - Comércio de mercadorias em geral - inclusive mercadorias usadas,80238,8297,1.64
+2000,53070 - Supermercado e Hipermercado,7730,821,0.16
+2000,"53080 - Lojas de departamento e outros comércios não especializados, sem predominância de produtos alimentícios",2267,242,0.05
+2000,"53090 - Comércio varejista de artigos em geral por catálogo, televisão, internet e outros meios de comunicação",2997,302,0.06
+2000,"53101 - Comércio varejista realizado em postos móveis, instalados em vias públicas ou em mercados",17021,1798,0.35
+2000,"53102 - Outros tipos de comércio varejista, não realizado em lojas",410,45,0.01
+2000,53111 - Reparação e manutenção de eletrodomésticos,2926,302,0.06
+2000,53112 - Reparação de calçados,176,20,0
+2000,53113 - Reparação de objetos pessoais e domésticos - exceto de eletrodomésticos e calçados,1563,162,0.03
+2000,53999 - Atividades de comércio não especificadas,24069,2456,0.49
+2000,55010 - Alojamento,21706,2287,0.44
+2000,55020 - Ambulantes de alimentação,4081,417,0.08
+2000,55030 - Outros serviços de alimentação - exceto ambulantes,27870,2866,0.57
+2000,55999 - Atividades de alojamento e/ou alimentação não especificadas,29931,3101,0.61
+2000,60010 - Transporte ferroviário,3015,311,0.06
+2000,60020 - Transporte metroviário,1354,131,0.03
+2000,60031 - Transporte rodoviário de cargas - exceto de mudanças,14038,1471,0.29
+2000,60032 - Transporte rodoviário de mudanças,252,24,0.01
+2000,60040 - Transporte rodoviário de passageiros,23931,2447,0.49
+2000,"60091 - Transporte em bondes, funiculares, teleféricos ou trens próprios para exploração de pontos turísticos",29,3,0
+2000,60092 - Transporte dutoviário,78,8,0
+2000,60999 - Transporte terrestre - modalidade não especificada,5512,561,0.11
+2000,61000 - Transporte aquaviário,2765,275,0.06
+2000,62000 - Transporte aéreo,10808,1065,0.22
+2000,"63010 - Carga e descarga, armazenamento e depósitos",2129,226,0.04
+2000,63021 - Atividades auxiliares aos transportes,8666,866,0.18
+2000,63022 - Organização do transporte de cargas,2670,267,0.05
+2000,63030 - Agências de viagens e organizadores de viagens,13966,1409,0.29
+2000,64010 - Atividades de correio,8809,908,0.18
+2000,64020 - Telecomunicações,52135,5178,1.07
+2000,65000 - Intermediação Financeira,177710,18183,3.64
+2000,66000 - Seguros e previdência privada,16240,1618,0.33
+2000,67010 - Atividades auxiliares da intermediação financeira,17915,1785,0.37
+2000,67020 - Atividades auxiliares dos seguros e da previdência privada,19860,1995,0.41
+2000,70001 - Atividades imobiliárias - exceto condomínios prediais,33332,3345,0.68
+2000,70002 - Condomínios prediais,3108,312,0.06
+2000,71010 - Aluguel de veículos,1668,166,0.03
+2000,71020 - Aluguel de máquinas e equipamentos,930,98,0.02
+2000,71030 - Aluguel de objetos pessoais e domésticos,3513,370,0.07
+2000,72010 - Atividades de informática,75812,7549,1.55
+2000,72020 - Manutenção e reparação de máquinas de escritório e de informática,4212,422,0.09
+2000,73000 - Pesquisa e desenvolvimento,14949,1502,0.31
+2000,74011 - Atividades jurídicas,346868,35668,7.11
+2000,74012 - Atividades de assessoria em gestão empresarial,30910,3242,0.63
+2000,74021 - Serviços de arquitetura e engenharia e de assessoramento técnico especializado,103791,10531,2.13
+2000,74022 - Ensaios de materiais e de produtos,2705,274,0.06
+2000,74030 - Publicidade,32077,3152,0.66
+2000,"74040 - Seleção, agenciamento e locação de mão-de-obra",9047,909,0.19
+2000,"74050 - Investigação, vigilância e segurança",8581,866,0.18
+2000,"74060 - Atividades de imunização, higienização e de limpeza em prédios e em domicílios",3315,333,0.07
+2000,74090 - Outros serviços prestados às empresas,42405,4298,0.87
+2000,75011 - Administração do Estado e da política econômica e social - Federal,74521,7581,1.53
+2000,75012 - Administração do Estado e da política econômica e social - Estadual,106761,11139,2.19
+2000,75013 - Administração do Estado e da política econômica e social - Municipal,142479,16052,2.92
+2000,75014 - Forças Armadas,37182,3734,0.76
+2000,75015 - Outros serviços coletivos prestados pela administração pública - Federal,42555,4314,0.87
+2000,75016 - Outros serviços coletivos prestados pela administração pública - Estadual,133131,13727,2.73
+2000,75017 - Outros serviços coletivos prestados pela administração pública - Municipal,1075,111,0.02
+2000,75020 - Seguridade social,17676,1794,0.36
+2000,"75999 - Administração pública, esfera de governo não especificada",28258,2916,0.58
+2000,"80011 - Educação regular, supletiva e especial pública",645529,72576,13.23
+2000,"80012 - Educação regular, supletiva e especial particular",211680,21931,4.34
+2000,80090 - Outras atividades de ensino,68358,7106,1.4
+2000,80999 - Atividades de ensino não especificadas,246653,25996,5.06
+2000,85011 - Saúde pública,127632,13244,2.62
+2000,85012 - Saúde particular,322018,32981,6.6
+2000,85013 - Outras atividades de saúde,705,73,0.01
+2000,85020 - Serviços veterinários,14243,1506,0.29
+2000,85030 - Serviços sociais,36423,3794,0.75
+2000,85999 - Atividades de saúde não especificadas,89381,9092,1.83
+2000,90000 - Limpeza urbana e esgoto,3454,355,0.07
+2000,91010 - Atividades de organizações sindicais,5618,596,0.12
+2000,"91020 - Atividades de organizações empresariais, patronais e profissionais",6346,628,0.13
+2000,91091 - Atividades de organizações religiosas e filosóficas,29377,3246,0.6
+2000,91092 - Outras atividades associativas,3039,310,0.06
+2000,92011 - Produção de filmes cinematográficos e fitas de vídeo,2175,217,0.04
+2000,92012 - Distribuição e projeção de filmes e de vídeos,464,46,0.01
+2000,92013 - Atividades de rádio,5022,508,0.1
+2000,92014 - Atividades de televisão,7718,769,0.16
+2000,92015 - Outras atividades artísticas e de espetáculos,40313,4065,0.83
+2000,92020 - Atividades de agências de notícias,8502,852,0.17
+2000,"92030 - Bibliotecas, arquivos, museus e outras atividades culturais",6588,677,0.14
+2000,92040 - Atividades desportivas e outras relacionadas ao lazer,39642,4002,0.81
+2000,93010 - Lavanderias e tinturarias,1423,144,0.03
+2000,93020 - Cabeleireiros e outros tratamentos de beleza,9423,1005,0.19
+2000,93030 - Atividades funerárias,873,88,0.02
+2000,93091 - Atividades de manutenção do físico corporal,7251,735,0.15
+2000,93092 - Outras atividades de serviços pessoais,2160,224,0.04
+2000,95000 - Serviços domésticos,4437,494,0.09
+2000,99000 - Organismos internacionais e outras instituições extraterritoriais,1048,101,0.02
+2010,0 - ATIVIDADES MALDEFINIDAS,690313,50148,6.31
+2010,10010 - ABATE E FABRICAÇÃO DE PRODUTOS DE CARNE E PESCADO,11048,1258,0.1
+2010,"10021 - FABRICAÇÃO DE CONSERVAS DE FRUTAS, LEGUMES E OUTROS VEGETAIS",1953,202,0.02
+2010,10022 - FABRICAÇÃO DE ÓLEOS VEGETAIS E GORDURAS VEGETAIS E ANIMAIS,591,60,0.01
+2010,10030 - LATICÍNIOS,7055,842,0.06
+2010,"10091 - MOAGEM, FABRICAÇÃO DE PRODUTOS AMILÁCEOS E DE ALIMENTOS PARA ANIMAIS",4960,530,0.05
+2010,10092 - FABRICAÇÃO E REFINO DO AÇÚCAR,13402,1743,0.12
+2010,10093 - TORREFAÇÃO E MOAGEM DE CAFÉ,1341,123,0.01
+2010,10099 - FABRICAÇÃO DE OUTROS PRODUTOS ALIMENTÍCIOS,14921,1253,0.14
+2010,10999 - FABRICAÇÃO DE PRODUTOS ALIMENTÍCIOS NÃO ESPECIFICADOS,25901,2293,0.24
+2010,11000 - FABRICAÇÃO DE BEBIDAS,14652,1125,0.13
+2010,1101 - CULTIVO DE ARROZ,938,132,0.01
+2010,1102 - CULTIVO DE MILHO,1262,218,0.01
+2010,1103 - CULTIVO DE OUTROS CEREAIS,698,122,0.01
+2010,1104 - CULTIVO DE ALGODÃO,159,19,0
+2010,1105 - CULTIVO DE CANA-DE-AÇÚCAR,2362,335,0.02
+2010,1106 - CULTIVO DE FUMO,918,176,0.01
+2010,1107 - CULTIVO DE SOJA,3186,519,0.03
+2010,1108 - CULTIVO DE MANDIOCA,760,114,0.01
+2010,1109 - CULTIVO DE OUTRAS LAVOURAS TEMPORÁRIAS NÃO ESPECIFICADAS ANTERIORMENTE,1338,205,0.01
+2010,1110 - HORTICULTURA,6131,835,0.06
+2010,1111 - CULTIVO DE FLORES E PLANTAS ORNAMENTAIS,1714,182,0.02
+2010,1112 - CULTIVO DE FRUTAS CÍTRICAS,1223,175,0.01
+2010,1113 - CULTIVO DE CAFÉ,3937,584,0.04
+2010,1114 - CULTIVO DE CACAU,342,36,0
+2010,1115 - CULTIVO DE UVA,427,67,0
+2010,1116 - CULTIVO DE BANANA,371,60,0
+2010,1117 - CULTIVO DE OUTRAS PLANTAS E FRUTAS DE LAVOURA PERMANENTE NÃO ESPECIFICADAS ANTERIORMENTE,1270,175,0.01
+2010,1118 - PRODUÇÃO DE SEMENTES E MUDAS CERTIFICADAS,2496,311,0.02
+2010,1119 - LAVOURA NÃO ESPECIFICADA,54104,6872,0.49
+2010,12000 - PROCESSAMENTO INDUSTRIAL E FABRICAÇÃO DE PRODUTOS DO FUMO,2797,233,0.03
+2010,1201 - CRIAÇÃO DE BOVINOS,12583,2001,0.12
+2010,1202 - CRIAÇÃO DE OUTROS ANIMAIS DE GRANDE PORTE NÃO ESPECIFICADOS ANTERIORMENTE,799,82,0.01
+2010,1203 - CRIAÇÃO DE CAPRINOS E OVINOS,614,80,0.01
+2010,1204 - CRIAÇÃO DE SUÍNOS,1273,219,0.01
+2010,1205 - CRIAÇÃO DE AVES,5533,726,0.05
+2010,1206 - APICULTURA,549,63,0.01
+2010,1207 - SERICICULTURA,13,5,0
+2010,1208 - CRIAÇÃO DE OUTROS ANIMAIS NÃO ESPECIFICADOS ANTERIORMENTE,585,51,0.01
+2010,1209 - PECUÁRIA NÃO ESPECIFICADA,9631,1266,0.09
+2010,"13001 - PREPARAÇÃO DE FIBRAS, FIAÇÃO E TECELAGEM",9116,850,0.08
+2010,"13002 - FABRICAÇÃO DE ARTEFATOS TÊXTEIS, EXCETO VESTUÁRIO",2546,238,0.02
+2010,13999 - INDUSTRIA TÊXTIL - ATIVIDADES NÃO ESPECIFICADAS,11905,1010,0.11
+2010,"14001 - CONFECÇÃO DE ARTIGOS DO VESTUÁRIO E ACESSÓRIOS, EXCETO SOB MEDIDA",24272,2329,0.22
+2010,"14002 - CONFECÇÃO, SOB MEDIDA, DE ARTIGOS DO VESTUÁRIO",2931,257,0.03
+2010,1401 - ATIVIDADES DE APOIO À AGRICULTURA E PÓS-COLHEITA,3029,327,0.03
+2010,1402 - ATIVIDADES DE APOIO À PECUÁRIA,1339,120,0.01
+2010,"14999 - CONFECÇÃO DE ARTIGOS DO VESTUÁRIO E ACESSÓRIOS, SOB MEDIDA OU NÃO",24253,2053,0.22
+2010,1500 - CAÇA E SERVIÇOS RELACIONADOS,25,2,0
+2010,15011 - CURTIMENTO E OUTRAS PREPARAÇÕES DE COURO,1445,163,0.01
+2010,15012 - FABRICAÇÃO DE ARTIGOS DE VIAGEM E DE ARTEFATOS DIVERSOS DE COURO,1814,155,0.02
+2010,"15020 - FABRICAÇÃO DE CALÇADOS E PARTES PARA CALÇADOS, DE QUALQUER MATERIAL",9901,1045,0.09
+2010,16001 - SERRARIAS,2412,294,0.02
+2010,"16002 - FABRICAÇÃO DE PRODUTOS DE MADEIRA, CORTIÇA E MATERIAL TRANÇADO, EXCETO MÓVEIS",8734,833,0.08
+2010,"17001 - FABRICAÇÃO DE CELULOSE, PAPEL, CARTOLINA E PAPEL-CARTÃO",10240,952,0.09
+2010,"17002 - FABRICAÇÃO DE EMBALAGENS E DE PRODUTOS DIVERSOS DE PAPEL, CARTOLINA, PAPEL-CARTÃO E PAPELÃO ONDULADO",3674,309,0.03
+2010,17999 - FABRICAÇÃO DE PAPEL E ARTEFATOS - ATIVIDADES NÃO ESPECIFICADAS,20,2,0
+2010,18000 - IMPRESSÃO E REPRODUÇÃO DE GRAVAÇÕES,21231,1532,0.19
+2010,19010 - COQUERIAS,33,3,0
+2010,19020 - FABRICAÇÃO DE PRODUTOS DERIVADOS DO PETRÓLEO,8835,553,0.08
+2010,19030 - PRODUÇÃO DE BIOCOMBUSTÍVEIS,4380,563,0.04
+2010,1999 - AGROPECUÁRIA,29378,3330,0.27
+2010,2000 - PRODUÇÃO FLORESTAL,8610,913,0.08
+2010,"20010 - FABRICAÇÃO DE TINTAS, VERNIZES, ESMALTES, LACAS E PRODUTOS AFINS",4094,318,0.04
+2010,"20020 - FABRICAÇÃO DE SABÕES, DETERGENTES, PRODUTOS DE LIMPEZA, COSMÉTICOS, PRODUTOS DE PERFUMARIA E DE HIGIENE PESSOAL",10630,806,0.1
+2010,20090 - FABRICAÇÃO DE OUTROS PRODUTOS QUÍMICOS NÃO ESPECIFICADOS ANTERIORMENTE,6478,558,0.06
+2010,20999 - INDÚSTRIA QUÍMICA - ATIVIDADES NÃO ESPECIFICADAS,23542,1756,0.22
+2010,21000 - FABRICAÇÃO DE PRODUTOS FARMOQUÍMICOS E FARMACÊUTICOS,38356,2651,0.35
+2010,22010 - FABRICAÇÃO DE PRODUTOS DE BORRACHA,6689,504,0.06
+2010,22020 - FABRICAÇÃO DE PRODUTOS DE MATERIAL PLÁSTICO,14005,1155,0.13
+2010,23010 - FABRICAÇÃO DE VIDRO E PRODUTOS DE VIDRO,2805,212,0.03
+2010,23091 - FABRICAÇÃO DE PRODUTOS CERÂMICOS,7632,771,0.07
+2010,23099 - FABRICAÇÃO DE OUTROS PRODUTOS DE MINERAIS NÃO METÁLICOS NÃO ESPECIFICADOS ANTERIORMENTE,10373,918,0.09
+2010,24001 - FABRICAÇÃO DE PRODUTOS SIDERÚRGICOS,16992,1392,0.16
+2010,24002 - METALURGIA DOS METAIS NÃO FERROSOS,2768,233,0.03
+2010,24003 - FUNDIÇÃO,3545,300,0.03
+2010,24999 - FABRICAÇÃO DE PRODUTOS DE METALURGIA NÃO ESPECIFICADOS,1278,108,0.01
+2010,"25001 - FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS E EQUIPAMENTOS",66607,5409,0.61
+2010,"25002 - FORJARIA, ESTAMPARIA, METALURGIA DO PÓ E SERVIÇOS DE TRATAMENTO DE METAIS",7152,615,0.07
+2010,26010 - FABRICAÇÃO DE COMPONENTES ELETRÔNICOS,2521,185,0.02
+2010,26020 - FABRICAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA E PERIFÉRICOS,2647,177,0.02
+2010,"26030 - FABRICAÇÃO DE EQUIPAMENTOS DE COMUNICAÇÃO E DE APARELHOS DE RECEPÇÃO, REPRODUÇÃO, GRAVAÇÃO E AMPLIFICAÇÃO DE ÁUDIO E VÍDEO",7054,440,0.06
+2010,"26041 - FABRICAÇÃO DE APARELHOS E INSTRUMENTOS DE MEDIDA, TESTE E CONTROLE; CRONÔMETROS E RELÓGIOS E DE APARELHOS ELETROMÉDICOS E ELETROTERAPÊUTICOS",6526,464,0.06
+2010,"26042 - FABRICAÇÃO DE EQUIPAMENTOS E INSTRUMENTOS ÓPTICOS, FOTOGRÁFICOS E CINEMATOGRÁFICOS E DE MÍDIAS VIRGENS, MAGNÉTICAS E ÓPTICAS",367,22,0
+2010,26999 - FABRICAÇÃO DE PRODUTOS ELETRÔNICOS NÃO ESPECIFICADOS,2286,161,0.02
+2010,27010 - FABRICAÇÃO DE ELETRODOMÉSTICOS,5101,375,0.05
+2010,"27090 - FABRICAÇÃO DE MÁQUINAS, APARELHOS E MATERIAIS ELÉTRICOS DIVERSOS, EXCETO ELETRODOMÉSTICOS",4863,397,0.04
+2010,27999 - FABRICAÇÃO DE PRODUTOS ELÉTRICOS NÃO ESPECIFICADOS,1729,126,0.02
+2010,28000 - FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS,21480,1869,0.2
+2010,29001 - FABRICAÇÃO E MONTAGEM DE VEÍCULOS AUTOMOTORES,37713,2627,0.34
+2010,"29002 - FABRICAÇÃO DE CABINES, CARROCERIAS, REBOQUES E PEÇAS PARA VEÍCULOS AUTOMOTORES",15580,1310,0.14
+2010,"29003 - RECONSTRUÇÃO, EM FÁBRICA, DE MOTORES DE VEÍCULOS AUTOMOTORES",40,2,0
+2010,3001 - PESCA,2032,205,0.02
+2010,30010 - CONSTRUÇÃO DE EMBARCAÇÕES,3462,246,0.03
+2010,3002 - AQUICULTURA,994,124,0.01
+2010,30020 - FABRICAÇÃO DE VEÍCULOS FERROVIÁRIOS,609,38,0.01
+2010,30030 - FABRICAÇÃO DE AERONAVES,4006,261,0.04
+2010,30090 - FABRICAÇÃO DE OUTROS EQUIPAMENTOS DE TRANSPORTE NÃO ESPECIFICADOS ANTERIORMENTE,1364,94,0.01
+2010,30999 - FABRICAÇÃO DE EQUIPAMENTOS DE TRANSPORTE NÃO ESPECIFICADOS,90,5,0
+2010,31000 - FABRICAÇÃO DE MÓVEIS,16905,1631,0.15
+2010,"32001 - FABRICAÇÃO DE ARTIGOS DE JOALHERIA, BIJUTERIA E SEMELHANTES",2737,212,0.03
+2010,32002 - FABRICAÇÃO DE INSTRUMENTOS MUSICAIS,318,25,0
+2010,32003 - FABRICAÇÃO DE ARTEFATOS PARA PESCA E ESPORTE E DE BRINQUEDOS E JOGOS RECREATIVOS,2100,176,0.02
+2010,32009 - FABRICAÇÃO DE PRODUTOS DIVERSOS,33142,2587,0.3
+2010,32999 - FABRICAÇÃO DE PRODUTOS INDUSTRIAIS NÃO ESPECIFICADOS,70842,5363,0.65
+2010,33001 - MANUTENÇÃO E REPARAÇÃO DE MÁQUINAS E EQUIPAMENTOS,5842,473,0.05
+2010,33002 - INSTALAÇÃO DE MÁQUINAS E EQUIPAMENTOS,2207,176,0.02
+2010,"35010 - GERAÇÃO, TRANSMISSÃO E DISTRIBUIÇÃO DE ENERGIA ELÉTRICA",42342,3268,0.39
+2010,35021 - PRODUÇÃO E DISTRIBUIÇÃO DE COMBUSTÍVEIS GASOSOS POR REDES URBANAS,3061,189,0.03
+2010,"35022 - PRODUÇÃO E DISTRIBUIÇÃO DE VAPOR, ÁGUA QUENTE E AR CONDICIONADO",5,1,0
+2010,"36000 - CAPTAÇÃO, TRATAMENTO E DISTRIBUIÇÃO DE ÁGUA",27093,2310,0.25
+2010,37000 - ESGOTO E ATIVIDADES RELACIONADAS,527,40,0
+2010,"38000 - COLETA, TRATAMENTO E DISPOSIÇÃO DE RESÍDUOS; RECUPERAÇÃO DE MATERIAIS",9993,775,0.09
+2010,39000 - DESCONTAMINAÇÃO E OUTROS SERVIÇOS DE GESTÃO DE RESÍDUOS,134,12,0
+2010,41000 - CONSTRUÇÃO DE EDIFÍCIOS,11238,902,0.1
+2010,42000 - CONSTRUÇÃO DE OBRAS DE INFRAESTRUTURA,12946,1012,0.12
+2010,43000 - SERVIÇOS ESPECIALIZADOS PARA CONSTRUÇÃO,64965,5150,0.59
+2010,43999 - ATIVIDADES DE CONSTRUÇÃO NÃO ESPECIFICADAS,126491,8821,1.16
+2010,45010 - COMÉRCIO DE VEÍCULOS AUTOMOTORES,37981,2942,0.35
+2010,45020 - MANUTENÇÃO E REPARAÇÃO DE VEÍCULOS AUTOMOTORES,25302,2251,0.23
+2010,45030 - COMÉRCIO DE PEÇAS E ACESSÓRIOS PARA VEÍCULOS AUTOMOTORES,26258,2140,0.24
+2010,"45040 - COMÉRCIO, MANUTENÇÃO E REPARAÇÃO DE MOTOCICLETAS, PEÇAS E ACESSÓRIOS",7569,679,0.07
+2010,"48010 - REPRESENTANTES COMERCIAIS E AGENTES DO COMÉRCIO, EXCETO DE VEÍCULOS AUTOMOTORES E MOTOCICLETAS",16525,1477,0.15
+2010,48020 - COMÉRCIO DE MATÉRIAS-PRIMAS AGRÍCOLAS E ANIMAIS VIVOS,9320,990,0.09
+2010,"48030 - COMÉRCIO DE PRODUTOS ALIMENTÍCIOS, BEBIDAS E FUMO",101459,9573,0.93
+2010,"48041 - COMÉRCIO DE TECIDOS, ARTEFATOS DE TECIDOS E ARMARINHO",9406,816,0.09
+2010,"48042 - COMÉRCIO DE ARTIGOS DO VESTUÁRIO, COMPLEMENTOS, CALÇADOS E ARTIGOS DE VIAGEM",81780,7457,0.75
+2010,"48050 - COMÉRCIO DE MADEIRA, MATERIAL DE CONSTRUÇÃO, FERRAGENS E FERRAMENTAS",50773,4691,0.46
+2010,48060 - COMÉRCIO DE COMBUSTÍVEIS PARA VEÍCULOS AUTOMOTORES,12572,1323,0.11
+2010,"48071 - COMÉRCIO DE PRODUTOS FARMACÊUTICOS, MÉDICOS, ORTOPÉDICOS, ODONTOLÓGICOS E DE COSMÉTICOS E PERFUMARIA",122339,11078,1.12
+2010,"48072 - COMÉRCIO DE ARTIGOS DE ESCRITÓRIO E DE PAPELARIA; LIVROS, JORNAIS E OUTRAS PUBLICAÇÕES",16898,1385,0.15
+2010,"48073 - COMÉRCIO DE ELETRODOMÉSTICOS, MÓVEIS E OUTROS ARTIGOS DE RESIDÊNCIA",50543,4430,0.46
+2010,48074 - COMÉRCIO DE EQUIPAMENTOS E PRODUTOS DE TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO,20039,1643,0.18
+2010,"48075 - COMÉRCIO DE MÁQUINAS, APARELHOS E EQUIPAMENTOS, EXCETO ELETRODOMÉSTICOS",21007,1650,0.19
+2010,"48076 - COMÉRCIO DE COMBUSTÍVEIS SÓLIDOS, LÍQUIDOS E GASOSOS, EXCETO PARA VEÍCULOS AUTOMOTORES",15703,1408,0.14
+2010,48077 - COMÉRCIO DE PRODUTOS USADOS,1675,147,0.02
+2010,48078 - COMERCIO DE RESÍDUOS E SUCATAS,1260,107,0.01
+2010,48079 - COMÉRCIO DE PRODUTOS NOVOS NÃO ESPECIFICADOS ANTERIORMENTE,68103,5596,0.62
+2010,48080 - SUPERMERCADO E HIPERMERCADO,28441,2820,0.26
+2010,"48090 - LOJAS DE DEPARTAMENTO E OUTROS COMÉRCIOS NÃO ESPECIALIZADOS, SEM PREDOMINÂNCIA DE PRODUTOS ALIMENTÍCIOS",6595,593,0.06
+2010,48100 - COMÉRCIO AMBULANTE E FEIRAS,25592,1965,0.23
+2010,48999 - ATIVIDADES DE COMÉRCIO NÃO ESPECIFICADAS,284941,21339,2.6
+2010,49010 - TRANSPORTE FERROVIÁRIO E METROFERROVIÁRIO,5992,392,0.05
+2010,49030 - TRANSPORTE RODOVIÁRIO DE PASSAGEIROS,32965,2544,0.3
+2010,49040 - TRANSPORTE RODOVIÁRIO DE CARGA,8124,783,0.07
+2010,49090 - OUTROS TRANSPORTES TERRESTRES,405,30,0
+2010,49999 - ATIVIDADES DE TRANSPORTE NÃO ESPECIFICADAS,47912,3706,0.44
+2010,5000 - EXTRAÇÃO DE CARVÃO MINERAL,204,26,0
+2010,50000 - TRANSPORTE AQUAVIÁRIO,5369,383,0.05
+2010,51000 - TRANSPORTE AÉREO,17967,1060,0.16
+2010,"52010 - ARMAZENAMENTO, CARGA E DESCARGA",3897,372,0.04
+2010,52020 - ATIVIDADES AUXILIARES DOS TRANSPORTES E ATIVIDADES RELACIONADAS À ORGANIZAÇÃO DO TRANSPORTE DE CARGA,40707,2947,0.37
+2010,53001 - ATIVIDADES DE CORREIO,20348,1779,0.19
+2010,53002 - ATIVIDADES DE MALOTE E DE ENTREGA,2043,154,0.02
+2010,55000 - ALOJAMENTO,29615,2453,0.27
+2010,56011 - RESTAURANTES E OUTROS ESTABELECIMENTOS DE SERVIÇOS DE ALIMENTAÇÃO E BEBIDAS,58882,4859,0.54
+2010,"56012 - SERVIÇOS DE CATERING, BUFÊ E OUTROS SERVIÇOS DE COMIDA PREPARADA",12452,960,0.11
+2010,56020 - SERVIÇOS AMBULANTES DE ALIMENTAÇÃO,696,64,0.01
+2010,56999 - ATIVIDADES DE ALIMENTAÇÃO NÃO ESPECIFICADAS,29904,2254,0.27
+2010,58000 - EDIÇÃO E EDIÇÃO INTEGRADA À IMPRESSÃO,37975,2488,0.35
+2010,"59000 - ATIVIDADES CINEMATOGRÁFICAS, PRODUÇÃO DE VÍDEOS E DE PROGRAMAS DE TELEVISÃO, GRAVAÇÃO DE SOM E DE MÚSICA",9958,584,0.09
+2010,6000 - EXTRAÇÃO DE PETRÓLEO E GÁS NATURAL,38284,2570,0.35
+2010,60001 - ATIVIDADES DE RÁDIO,10319,840,0.09
+2010,60002 - ATIVIDADES DE TELEVISÃO,15193,952,0.14
+2010,61000 - TELECOMUNICAÇÕES,63466,3907,0.58
+2010,62000 - ATIVIDADES DOS SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO,195829,12830,1.79
+2010,63000 - ATIVIDADES DE PRESTAÇÃO DE SERVIÇOS DE INFORMAÇÃO,23957,1479,0.22
+2010,64000 - SERVIÇOS FINANCEIROS,398086,29264,3.64
+2010,65000 - SEGUROS E PREVIDÊNCIA PRIVADA,50891,3306,0.47
+2010,66001 - ATIVIDADES AUXILIARES DOS SERVIÇOS FINANCEIROS,12818,824,0.12
+2010,"66002 - ATIVIDADES AUXILIARES DOS SEGUROS, DA PREVIDÊNCIA COMPLEMENTAR E DOS PLANOS DE SAÚDE",25915,1815,0.24
+2010,68000 - ATIVIDADES IMOBILIÁRIAS,84783,5882,0.77
+2010,"69000 - ATIVIDADES JURÍDICAS, DE CONTABILIDADE E DE AUDITORIA",649861,49907,5.94
+2010,70000 - ATIVIDADES DE CONSULTORIA EM GESTÃO EMPRESARIAL,67680,4321,0.62
+2010,7001 - EXTRAÇÃO DE MINÉRIOS DE METAIS PRECIOSOS,379,46,0
+2010,7002 - EXTRAÇÃO DE MINERAIS METÁLICOS NÃO ESPECIFICADOS ANTERIORMENTE,4019,328,0.04
+2010,71000 - SERVIÇOS DE ARQUITETURA E ENGENHARIA E ATIVIDADES TÉCNICAS RELACIONADAS; TESTES E ANÁLISES TÉCNICAS,174315,11751,1.59
+2010,72000 - PESQUISA E DESENVOLVIMENTO CIENTÍFICO,17661,1250,0.16
+2010,73010 - PUBLICIDADE,82934,5100,0.76
+2010,73020 - PESQUISAS DE MERCADO E OPINIÃO PÚBLICA,3635,231,0.03
+2010,"74000 - OUTRAS ATIVIDADES PROFISSIONAIS, CIENTÍFICAS E TÉCNICAS NÃO ESPECIFICADAS ANTERIORMENTE",88680,6865,0.81
+2010,75000 - ATIVIDADES VETERINÁRIAS,30402,2617,0.28
+2010,77010 - ALUGUEL DE OBJETOS PESSOAIS E DOMÉSTICOS,3327,286,0.03
+2010,"77020 - ALUGUEL DE MEIOS DE TRANSPORTES, MAQUINAS E EQUIPAMENTOS SEM OPERADOR E GESTÃO DE ATIVOS INTANGÍVEIS NÃO FINANCEIROS",6485,451,0.06
+2010,"78000 - SELEÇÃO, AGENCIAMENTO E LOCAÇÃO DE MÃO-DE-OBRA",19451,1266,0.18
+2010,"79000 - AGÊNCIAS DE VIAGENS, OPERADORES TURÍSTICOS E SERVIÇOS DE RESERVAS",33239,2215,0.3
+2010,"80000 - ATIVIDADES DE VIGILÂNCIA, SEGURANÇA, TRANSPORTE DE VALORES E INVESTIGAÇÃO",21883,1609,0.2
+2010,"8001 - EXTRAÇÃO DE PEDRAS, AREIA E ARGILA",2176,233,0.02
+2010,8002 - EXTRAÇÃO DE GEMAS (PEDRAS PRECIOSAS E SEMIPRECIOSAS),100,14,0
+2010,8009 - EXTRAÇÃO DE MINERAIS NÃO METÁLICOS NÃO ESPECIFICADOS ANTERIORMENTE,436,43,0
+2010,"81011 - SERVIÇOS DE LIMPEZA E DE APOIO A EDIFÍCIOS, EXCETO CONDOMÍNIOS PREDIAIS",8959,712,0.08
+2010,81012 - CONDOMÍNIOS PREDIAIS,5958,392,0.05
+2010,81020 - ATIVIDADES PAISAGÍSTICAS,2960,227,0.03
+2010,82001 - SERVIÇOS DE ESCRITÓRIO E APOIO ADMINISTRATIVO,76537,5624,0.7
+2010,82002 - ATIVIDADES DE TELEATENDIMENTO,23036,1442,0.21
+2010,"82003 - ATIVIDADES DE ORGANIZAÇÃO DE EVENTOS, EXCETO CULTURAIS E ESPORTIVOS",5136,369,0.05
+2010,82009 - OUTRAS ATIVIDADES DE SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS,30735,2388,0.28
+2010,84011 - ADMINISTRAÇÃO PUBLICA E REGULAÇÃO DA POLÍTICA ECONÔMICA E SOCIAL - FEDERAL,132508,9218,1.21
+2010,84012 - ADMINISTRAÇÃO PUBLICA E REGULAÇÃO DA POLÍTICA ECONÔMICA E SOCIAL - ESTADUAL,167674,13787,1.53
+2010,84013 - ADMINISTRAÇÃO PUBLICA E REGULAÇÃO DA POLÍTICA ECONÔMICA E SOCIAL - MUNICIPAL,379300,46329,3.47
+2010,84014 - DEFESA,76007,4887,0.69
+2010,84015 - OUTROS SERVIÇOS COLETIVOS PRESTADOS PELA ADMINISTRAÇÃO PÚBLICA - FEDERAL,75978,5412,0.69
+2010,84016 - OUTROS SERVIÇOS COLETIVOS PRESTADOS PELA ADMINISTRAÇÃO PÚBLICA - ESTADUAL,230281,18994,2.1
+2010,84017 - OUTROS SERVIÇOS COLETIVOS PRESTADOS PELA ADMINISTRAÇÃO PÚBLICA - MUNICIPAL,3508,262,0.03
+2010,84020 - SEGURIDADE SOCIAL OBRIGATÓRIA,19668,1528,0.18
+2010,84999 - ADMINISTRAÇÃO PÚBLICA - ESFERA NÃO ESPECIFICADA,315016,26742,2.88
+2010,85011 - CRECHE,95915,10603,0.88
+2010,85012 - PRÉ-ESCOLA E ENSINO FUNDAMENTAL,1075187,117319,9.83
+2010,85013 - ENSINO MÉDIO,410108,42212,3.75
+2010,85014 - EDUCAÇÃO SUPERIOR,277838,20894,2.54
+2010,85021 - SERVIÇOS AUXILIARES À EDUCAÇÃO,104792,9675,0.96
+2010,85029 - OUTRAS ATIVIDADES DE ENSINO,233287,20108,2.13
+2010,85999 - ATIVIDADES DE EDUCAÇÃO NÃO ESPECIFICADAS,246432,22905,2.25
+2010,86001 - ATIVIDADES DE ATENDIMENTO HOSPITALAR,319916,23991,2.92
+2010,86002 - ATIVIDADES DE ATENÇÃO AMBULATORIAL EXECUTADAS POR MÉDICOS E ODONTÓLOGOS,312864,25654,2.86
+2010,86003 - ATIVIDADES DE SERVIÇOS DE COMPLEMENTAÇÃO DIAGNÓSTICA E TERAPÊUTICA,36110,2969,0.33
+2010,"86004 - ATIVIDADES DE PROFISSIONAIS DA ÁREA DE SAÚDE, EXCETO MÉDICOS E ODONTÓLOGOS",172380,13199,1.58
+2010,86009 - ATIVIDADES DE ATENÇÃO À SAÚDE HUMANA NÃO ESPECIFICADAS ANTERIORMENTE,9291,708,0.08
+2010,86999 - ATIVIDADES DE SAÚDE NÃO ESPECIFICADAS,232396,18101,2.12
+2010,"87000 - ATIVIDADES DE ASSISTÊNCIA À SAÚDE HUMANA INTEGRADAS COM ASSISTÊNCIA SOCIAL, INCLUSIVE PRESTADAS EM RESIDENCIAS",55768,4846,0.51
+2010,88000 - SERVIÇOS DE ASSISTÊNCIA SOCIAL SEM ALOJAMENTO,4756,640,0.04
+2010,8999 - EXTRAÇÃO DE MINERAIS NÃO ESPECIFICADOS,18445,1544,0.17
+2010,9000 - ATIVIDADES DE APOIO À EXTRAÇÃO DE MINERAIS,2434,171,0.02
+2010,"90000 - ATIVIDADES ARTÍSTICAS, CRIATIVAS E DE ESPETÁCULOS",54616,3519,0.5
+2010,91000 - ATIVIDADES LIGADAS AO PATRIMÔNIO CULTURAL E AMBIENTAL,13211,1050,0.12
+2010,92000 - ATIVIDADES DE EXPLORAÇÃO DE JOGOS DE AZAR E APOSTAS,383,24,0
+2010,93011 - ATIVIDADES ESPORTIVAS,18605,1410,0.17
+2010,93012 - ATIVIDADES DE CONDICIONAMENTO FÍSICO,62862,4715,0.57
+2010,93020 - ATIVIDADES DE RECREAÇÃO E LAZER,6994,578,0.06
+2010,"94010 - ATIVIDADES DE ORGANIZAÇÕES ASSOCIATIVAS PATRONAIS, EMPRESARIAIS E PROFISSIONAIS",16522,1183,0.15
+2010,94020 - ATIVIDADES DE ORGANIZAÇÕES SINDICAIS,12170,1050,0.11
+2010,94091 - ATIVIDADES DE ORGANIZAÇÕES RELIGIOSAS E FILOSÓFICAS,50271,4926,0.46
+2010,94099 - OUTRAS ATIVIDADES ASSOCIATIVAS NÃO ESPECIFICADAS ANTERIORMENTE,31695,2634,0.29
+2010,95010 - REPARAÇÃO E MANUTENÇÃO DE EQUIPAMENTOS DE INFORMÁTICA E COMUNICAÇÃO,6454,497,0.06
+2010,95030 - REPARAÇÃO E MANUTENÇÃO DE OBJETOS E EQUIPAMENTOS PESSOAIS E DOMÉSTICOS,11512,923,0.11
+2010,"96010 - LAVANDERIAS, TINTURARIAS E TOALHEIROS",2335,184,0.02
+2010,96020 - CABELEIREIROS E OUTRAS ATIVIDADES DE TRATAMENTO DE BELEZA,28698,2562,0.26
+2010,96030 - ATIVIDADES FUNERÁRIAS E SERVIÇOS RELACIONADOS,2540,248,0.02
+2010,96090 - OUTRAS ATIVIDADES DE SERVIÇOS PESSOAIS,24790,1877,0.23
+2010,97000 - SERVIÇOS DOMÉSTICOS,28975,2711,0.26
+2010,99000 - ORGANISMOS INTERNACIONAIS E OUTRAS INSTITUIÇÕES EXTRATERRITORIAIS,2214,110,0.02
+2022,Não disponível no microdado público de 2022,19888228,1668573,100

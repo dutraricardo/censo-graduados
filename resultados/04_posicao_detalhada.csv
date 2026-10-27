@@ -1,0 +1,77 @@
+ano,posicao_detalhada,pessoas,n_amostra,pct
+1960,Conta própria,77440,15870,29.73
+1960,Empregado particular,59588,11254,22.87
+1960,Empregado público,95536,16577,36.67
+1960,Empregador,14066,3049,5.4
+1960,Ignorado,518,100,0.2
+1960,Membro da família (não remunerado),13328,3265,5.12
+1960,Parceiro ou meeiro,31,8,0.01
+1970,Conta própria ou autônomo,79414,20643,16.34
+1970,Empregado particular,152984,39386,31.48
+1970,Empregado público,211137,54403,43.45
+1970,Empregador,25359,6624,5.22
+1970,Não remunerado,17021,4239,3.5
+1970,Parceiro ou meeiro,4,1,0
+1970,Sem declaração,62,16,0.01
+1980,Conta própria,174618,43909,10.82
+1980,Empregado,1298829,326237,80.48
+1980,Empregador,113590,28347,7.04
+1980,Parceiro ou meeiro conta própria,211,53,0.01
+1980,Parceiro ou meeiro empregado,244,61,0.02
+1980,Parceiro ou meeiro empregador,171,43,0.01
+1980,Sem declaração,12664,3183,0.78
+1980,Sem remuneração,13333,3370,0.83
+1980,Trabalhador agrícola volante com intermediário,36,9,0
+1980,Trabalhador agrícola volante sem intermediário,69,17,0
+1991,Autônomo ou conta própria,410827,42206,11.9
+1991,Empregado do setor privado - com carteira,984113,98322,28.51
+1991,Empregado do setor privado - não sabe se tem carteira,6004,587,0.17
+1991,Empregado do setor privado - sem carteira,141381,14601,4.1
+1991,Empregado do setor público - empresa estatal - com carteira,225593,22929,6.54
+1991,Empregado do setor público - empresa estatal - não sabe se tem carteira,666,60,0.02
+1991,Empregado do setor público - empresa estatal - sem carteira,24417,2550,0.71
+1991,Empregado do setor público - servidor público - com carteira,559697,58079,16.22
+1991,Empregado do setor público - servidor público - não sabe se tem carteira,8723,881,0.25
+1991,Empregado do setor público - servidor público - sem carteira,713079,76049,20.66
+1991,Empregador,347278,35527,10.06
+1991,Parceiro ou meeiro autônomo,4834,532,0.14
+1991,Parceiro ou meeiro empregado - com carteira,2299,225,0.07
+1991,Parceiro ou meeiro empregado - não sabe se tem carteira,27,4,0
+1991,Parceiro ou meeiro empregado - sem carteira,824,86,0.02
+1991,Sem remuneração,16537,1816,0.48
+1991,Trabalhador agrícola volante - com carteira,348,42,0.01
+1991,Trabalhador agrícola volante - não sabe se tem carteira,23,2,0
+1991,Trabalhador agrícola volante - sem carteira,564,72,0.02
+1991,Trabalhador doméstico autônomo,900,94,0.03
+1991,Trabalhador doméstico empregado - com carteira,1702,174,0.05
+1991,Trabalhador doméstico empregado - não sabe se tem carteira,39,4,0
+1991,Trabalhador doméstico empregado - sem carteira,1362,146,0.04
+2000,Aprendiz ou estagiário sem remuneração,15240,1598,0.31
+2000,Conta própria,906067,93870,18.57
+2000,Empregado com carteira,2101299,216528,43.07
+2000,Empregado sem carteira,409707,43336,8.4
+2000,Empregado sem carteira - militar ou estatutário (RJU),942289,102398,19.31
+2000,Empregador,476088,49392,9.76
+2000,Não remunerado em ajuda a membro do domicílio,21215,2357,0.43
+2000,Trabalhador doméstico com carteira,1634,181,0.03
+2000,Trabalhador doméstico sem carteira,2803,313,0.06
+2000,Trabalhador na produção para o próprio consumo,2989,357,0.06
+2010,Conta própria,1808969,143954,16.53
+2010,Empregado com carteira,5393058,430040,49.3
+2010,Empregado sem carteira,916624,86552,8.38
+2010,Empregador,563878,45483,5.15
+2010,Militar ou funcionário público estatutário,2154127,209585,19.69
+2010,Não remunerado,51622,4375,0.47
+2010,Trabalhador doméstico com carteira,12130,1070,0.11
+2010,Trabalhador doméstico sem carteira,16845,1641,0.15
+2010,Trabalhador na produção para o próprio consumo,23050,3123,0.21
+2022,Conta própria,3790769,303264,19.06
+2022,Empregado no setor privado com carteira,7330800,560940,36.86
+2022,Empregado no setor privado sem carteira,1338851,105645,6.73
+2022,Empregado no setor público com carteira,741235,67836,3.73
+2022,Empregado no setor público sem carteira,749449,89733,3.77
+2022,Empregador,1197816,96385,6.02
+2022,Militar e servidor estatutário,4597554,432270,23.12
+2022,Trabalhador doméstico com carteira,14039,1143,0.07
+2022,Trabalhador doméstico sem carteira,44006,4302,0.22
+2022,Trabalhador familiar auxiliar,83710,7055,0.42

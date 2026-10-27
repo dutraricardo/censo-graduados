@@ -1,0 +1,23 @@
+ano,condicao,pessoas,n_amostra,pct
+1960,Desocupado (procurando trabalho),408,104,0.14
+1960,Fora da força de trabalho,30173,5573,10.37
+1960,Ocupado,260508,50123,89.49
+1970,Condição não declarada,293,72,0.05
+1970,Desocupado (procurando trabalho),2475,623,0.44
+1970,Fora da força de trabalho,71239,18419,12.72
+1970,Ocupado,485981,125312,86.78
+1980,Desocupado (procurando trabalho),34468,8543,1.84
+1980,Fora da força de trabalho,220352,55549,11.79
+1980,Ocupado,1613765,405229,86.36
+1991,Desocupado (procurando trabalho),78375,7803,1.92
+1991,Fora da força de trabalho,549856,56336,13.48
+1991,Ocupado,3451236,354988,84.6
+2000,Desocupado (procurando trabalho),237303,24306,3.92
+2000,Fora da força de trabalho,936509,97138,15.47
+2000,Ocupado,4879331,510330,80.61
+2010,Desocupado (procurando trabalho),375772,30304,2.79
+2010,Fora da força de trabalho,2147682,170759,15.95
+2010,Ocupado,10940303,925823,81.26
+2022,Desocupado (procurando trabalho),568744,44227,2.2
+2022,Fora da força de trabalho,5419701,448544,20.94
+2022,Ocupado,19888228,1668573,76.86

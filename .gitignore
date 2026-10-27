@@ -1,0 +1,6 @@
+# cache do censobr e microdados nunca entram
+*.parquet
+cache/
+.Rhistory
+.RData
+.Rproj.user/
