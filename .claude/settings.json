@@ -30,7 +30,17 @@
       "PowerShell(gh repo delete *)",
       "PowerShell(gh repo archive *)",
       "PowerShell(gh secret *)",
-      "PowerShell(gh auth token*)"
+      "PowerShell(gh auth token*)",
+      "Bash(gh repo create *)",
+      "Bash(gh gist *)",
+      "Bash(gh release create *)",
+      "Bash(gh release upload *)",
+      "Bash(gh project delete *)",
+      "PowerShell(gh repo create *)",
+      "PowerShell(gh gist *)",
+      "PowerShell(gh release create *)",
+      "PowerShell(gh release upload *)",
+      "PowerShell(gh project delete *)"
     ],
     "ask": [
       "Bash(gh pr merge *)",
