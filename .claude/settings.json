@@ -1,0 +1,67 @@
+{
+  "disableClaudeAiConnectors": true,
+  "permissions": {
+    "deny": [
+      "Read(./data/**)",
+      "Edit(./data/**)",
+      "Read(./.env)",
+      "Read(./**/.env)",
+      "Read(./config/credenciais*)",
+      "Read(./config/pessoas_autorizadas*)",
+      "Read(./.streamlit/secrets.toml)",
+      "Read(//c/Claude/pessoal/**)",
+      "Edit(//c/Claude/pessoal/**)",
+      "Bash(git push * main)",
+      "Bash(git push * master)",
+      "Bash(git commit *--no-verify*)",
+      "Bash(git add -f *)",
+      "Bash(git add --force *)",
+      "Bash(git clean *)",
+      "PowerShell(git push * main)",
+      "PowerShell(git push * master)",
+      "PowerShell(git commit *--no-verify*)",
+      "PowerShell(git add -f *)",
+      "PowerShell(git add --force *)",
+      "PowerShell(git clean *)",
+      "Bash(gh repo delete *)",
+      "Bash(gh repo archive *)",
+      "Bash(gh secret *)",
+      "Bash(gh auth token*)",
+      "PowerShell(gh repo delete *)",
+      "PowerShell(gh repo archive *)",
+      "PowerShell(gh secret *)",
+      "PowerShell(gh auth token*)"
+    ],
+    "ask": [
+      "Bash(gh pr merge *)",
+      "PowerShell(gh pr merge *)"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash|PowerShell",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "sh \"$CLAUDE_PROJECT_DIR/.claude/hooks/guarda.sh\" institucional",
+            "shell": "bash",
+            "timeout": 30
+          }
+        ]
+      }
+    ],
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "sh \"$CLAUDE_PROJECT_DIR/.claude/hooks/sessao.sh\"",
+            "shell": "bash",
+            "timeout": 30
+          }
+        ]
+      }
+    ]
+  }
+}
