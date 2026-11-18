@@ -1,0 +1,41 @@
+# CI padrao da estacao (ADR 0005). Copiado para .github/workflows/ci.yml de cada
+# repositorio com codigo. Roda so com dado sintetico: nenhum teste le data/.
+# Sem pyproject.toml na raiz (projeto em subpastas ou scripts soltos), so o
+# lint roda: o uv sync e os testes precisam do pyproject.toml.
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main, master]
+
+permissions:
+  contents: read
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Instalar o uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Montar o ambiente
+        run: |
+          if [ -f pyproject.toml ]; then
+            uv sync --all-groups
+          else
+            echo "::warning::Sem pyproject.toml na raiz: so o lint roda, nenhum teste roda no CI."
+          fi
+
+      - name: Lint
+        run: uvx ruff check .
+
+      - name: Testes
+        run: |
+          if [ -f pyproject.toml ] && [ -d tests ]; then
+            uv run --with pytest pytest -q
+          else
+            echo "Sem pyproject.toml na raiz ou sem pasta tests/: so o lint roda."
+          fi

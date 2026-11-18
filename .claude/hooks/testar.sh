@@ -85,6 +85,31 @@ caso 0 institucional 'gh auth status'
 caso 0 institucional 'gh api repos/dutraricardo/x'
 caso 0 institucional 'gh repo view dutraricardo/x --json isArchived'
 
+# --- varias linhas: cada linha e um subcomando (issue #32)
+caso 0 institucional 'git add a.txt\ngit commit -F msg.txt'
+caso 0 institucional 'git commit -m \"primeira linha\n\n-f no texto nao e opcao\"'
+caso 0 institucional 'gh issue create --title t --body \"linha 1\n-F na linha 2\"'
+caso 2 institucional 'git add a.txt\ngit add -f b.txt'
+caso 2 institucional 'git status\ngit push origin main'
+caso 2 institucional 'git add \\\n -f b.txt'
+caso 2 institucional 'cat \\\n data/a.csv'
+caso 2 institucional 'git add `\n -f b.txt'
+caso 2 institucional 'GIT ADD -F b.txt'
+
+# --- gh que publica arquivo ou cria repositorio (ampliacao da ADR 0012)
+caso 2 institucional 'gh gist create a.txt'
+caso 2 pessoal 'gh gist create --public notas.md'
+caso 2 institucional 'gh repo create x --public --source . --push'
+caso 2 pessoal 'gh repo create x --private'
+caso 2 institucional 'gh release create v1 a.zip'
+caso 2 institucional 'gh release upload v1 a.zip'
+caso 2 institucional 'gh project delete 1 --owner dutraricardo'
+caso 2 institucional 'gh issue create --title t --body-file data/a.csv'
+caso 2 institucional 'gh pr create --title t --body-file saida/base.xlsx'
+caso 0 institucional 'gh issue create --title t --body-file corpo.md'
+caso 0 institucional 'gh release view v1'
+caso 0 institucional 'gh repo view dutraricardo/x'
+
 # --- gh pr merge: passa, mas pede a aprovacao do Ricardo (permissionDecision ask)
 pede() { # arvore comando
   arvore=$1; shift
