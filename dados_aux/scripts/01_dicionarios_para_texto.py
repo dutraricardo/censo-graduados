@@ -1,4 +1,8 @@
-import sys, openpyxl, glob, os
+import glob
+import os
+
+import openpyxl
+
 for f in sorted(glob.glob('/tmp/claude-0/cache/*/*_dictionary_microdata.xlsx')):
     y=os.path.basename(f)[:4]; wb=openpyxl.load_workbook(f, read_only=True, data_only=True)
     with open(f'dict_{y}.txt','w') as o:
