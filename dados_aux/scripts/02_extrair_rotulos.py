@@ -1,12 +1,17 @@
-import re, csv, sys
+import csv
+import re
+import sys
+from collections import Counter
+
 out = sys.argv[1]
 def sheet(f, name):
     rows=[]; on=False
-    for line in open(f):
-        line=line.rstrip('\n')
-        if line.startswith('=== SHEET '):
-            on = (line[10:]==name); continue
-        if on: rows.append([c.strip() for c in line.split(' | ')])
+    with open(f) as fh:
+        for line in fh:
+            line=line.rstrip('\n')
+            if line.startswith('=== SHEET '):
+                on = (line[10:]==name); continue
+            if on: rows.append([c.strip() for c in line.split(' | ')])
     return rows
 res=[]
 def add(ano,var,code,label):
@@ -35,4 +40,4 @@ for r in sheet('dict_2010.txt','cnae_2.0_dom'):
     if len(r)>3 and re.fullmatch(r'\d{5}',r[2]): add(2010,'V6471',r[2],r[3])
 with open(out,'w',newline='') as o:
     w=csv.writer(o); w.writerow(['ano','variavel','codigo','rotulo']); w.writerows(res)
-from collections import Counter; print(Counter((a,v) for a,v,_,_ in res))
+print(Counter((a,v) for a,v,_,_ in res))
