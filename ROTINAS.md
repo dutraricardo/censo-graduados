@@ -1,24 +1,16 @@
 # ROTINAS — censo-graduados
 
-## Abrir sessão — Claude Code
+Muda quando a forma de trabalhar muda. Onde o projeto está: `ESTADO.md`.
 
-1. `git -C "<pasta do projeto>" pull`
-2. Ler `ESTADO.md` e seguir a lista de leitura dele.
+## Abrir e encerrar
 
-## Abrir sessão — Claude Cowork
+Skills do kit da estação: **`/abrir`** ao começar e **`/encerrar`** ao
+terminar. Todo trabalho vai por branch e PR: o kit nega ao Claude Code o push
+ao `main`, e o merge só acontece com a aprovação do Ricardo.
 
-Colar como primeira mensagem:
+## Antes de encerrar, se algum número mudou
 
-```
-Projeto censo-graduados (repositório dutraricardo/censo-graduados): graduados
-nos Censos do IBGE 1960-2022 via censobr, dados públicos. Leia ESTADO.md e o
-relatório que ele indica em reports/. Seu papel: leitura crítica e fonte
-externa (IBGE, SIDRA, classificações); não implemente sem pedido explícito.
-```
-
-## Encerrar sessão
-
-1. Se algum número mudou: `Rscript R/graduados_censo.R` e relatório novo e
-   datado em `reports/` (nunca editar o antigo).
-2. Reescrever `ESTADO.md`.
-3. Commit e push.
+1. `Rscript R/graduados_censo.R`.
+2. Relatório novo e datado em `reports/` (nunca editar o antigo).
+3. Reescrever `ESTADO.md`.
+4. `/encerrar`: commit no branch, PR, CI e merge com o "sim" do Ricardo.
