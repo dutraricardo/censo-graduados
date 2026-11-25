@@ -1,0 +1,12 @@
+ano,medida,tabela_sidra,nosso,sidra,diferenca,diferenca_pct,observacao
+1991,graduados,145,4079467,4079467,0,0.0,10 anos ou mais; grau do curso completo mais elevado superior ou mestrado/doutorado
+2000,graduados,2983,6053142,5890631,162511,2.759,pessoas com curso superior concluído; tabela por área de formação
+2000,graduados com curso de graduação informado,2983,5890630,5890631,-1,-0.0,"nosso total menos 'Curso não informado' (cursando mestrado/doutorado, V0430 = 13)"
+2010,graduados,3572,13463757,13463757,0,0.0,"10 anos ou mais, superior completo"
+2010,ocupados,3585,10940303,10940303,0,0.0,"10 anos ou mais, ocupados na semana de referência"
+2010,desocupados,3572,375772,375772,0,0.0,economicamente ativos menos ocupados (3585)
+2010,fora_da_forca,3572,2147682,2147682,0,0.0,não economicamente ativos
+2022,graduados,9517,25876673,25854291,22382,0.087,"14 anos ou mais, superior completo"
+2022,ocupados,9517,19888228,19863018,25210,0.127,
+2022,desocupados,9517,568744,568074,670,0.118,
+2022,fora_da_forca,9517,5419701,5423199,-3498,-0.065,
