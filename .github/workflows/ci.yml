@@ -2,12 +2,19 @@
 # repositorio com codigo. Roda so com dado sintetico: nenhum teste le data/.
 # Sem pyproject.toml na raiz (projeto em subpastas ou scripts soltos), so o
 # lint roda: o uv sync e os testes precisam do pyproject.toml.
+#
+# Roda no PR, nao no push ao principal: todo trabalho chega por PR (ADR 0007), e
+# o merge repetia a verificacao (issue #49). Para rodar no principal, a mao:
+# aba Actions > CI > Run workflow. Commit novo no mesmo PR cancela o anterior.
 name: CI
 
 on:
   pull_request:
-  push:
-    branches: [main, master]
+  workflow_dispatch:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
 
 permissions:
   contents: read
@@ -24,18 +31,46 @@ jobs:
       - name: Montar o ambiente
         run: |
           if [ -f pyproject.toml ]; then
-            uv sync --all-groups
+            # --locked: lock desatualizado falha aqui, em vez de mudar em silencio.
+            # Sem uv.lock versionado, o uv sync cria um (e avisa).
+            if [ -f uv.lock ]; then
+              uv sync --locked --all-groups
+            else
+              echo "::warning::Sem uv.lock versionado: o CI resolve as dependencias na hora."
+              uv sync --all-groups
+            fi
           else
             echo "::warning::Sem pyproject.toml na raiz: so o lint roda, nenhum teste roda no CI."
           fi
 
+      # O ruff do lock, igual ao local. Sem ruff no lock (ou sem pyproject.toml),
+      # versao fixa: atualizar a mao quando os locks subirem (issue #43).
       - name: Lint
-        run: uvx ruff check .
+        run: |
+          if [ -f pyproject.toml ] && uv run --no-sync ruff --version >/dev/null 2>&1; then
+            uv run --no-sync ruff check .
+          else
+            uvx ruff@0.17.4 check .
+          fi
 
+      # O pytest do lock, como o ruff; sem pytest no lock, o mais novo (issue #49).
+      # Pasta tests/ sem nenhum teste (pytest sai com 5) nao deixa o CI vermelho.
       - name: Testes
         run: |
           if [ -f pyproject.toml ] && [ -d tests ]; then
-            uv run --with pytest pytest -q
+            if uv run --no-sync pytest --version >/dev/null 2>&1; then
+              set -- uv run --no-sync pytest -q
+            else
+              set -- uv run --with pytest pytest -q
+            fi
+            "$@" || {
+              codigo=$?
+              if [ "$codigo" -eq 5 ]; then
+                echo "::warning::A pasta tests/ nao tem nenhum teste."
+              else
+                exit "$codigo"
+              fi
+            }
           else
             echo "Sem pyproject.toml na raiz ou sem pasta tests/: so o lint roda."
           fi
